@@ -1,0 +1,781 @@
+,name,geom,key,value
+0,Centro de Criatividade de Curitiba,POINT (-49.2673232 -25.3877266),amenity,arts_centre
+1,Centro Cultural Enamorados do Samba,POINT (-49.227 -25.473538),amenity,arts_centre
+2,Usina 5,POINT (-49.2533208 -25.4601725),amenity,arts_centre
+3,Associação de Ciclistas do Alto - Cicloiguaçu,POINT (-49.2686648 -25.4267357),amenity,arts_centre
+4,,POINT (-49.3142983 -25.4277676),amenity,arts_centre
+5,,POINT (-49.3140575 -25.4282964),amenity,arts_centre
+6,,POINT (-49.3127113 -25.4277424),amenity,arts_centre
+7,,POINT (-49.3129593 -25.4272377),amenity,arts_centre
+8,,POINT (-49.3127305 -25.4276914),amenity,arts_centre
+9,,POINT (-49.314179 -25.4280522),amenity,arts_centre
+10,,POINT (-49.3143077 -25.427799),amenity,arts_centre
+11,,POINT (-49.2302217 -25.472182),amenity,arts_centre
+12,,POINT (-49.2305672 -25.4723847),amenity,arts_centre
+13,,POINT (-49.2303536 -25.4726814),amenity,arts_centre
+14,,POINT (-49.2295026 -25.4721821),amenity,arts_centre
+15,,POINT (-49.2297162 -25.4718854),amenity,arts_centre
+16,,POINT (-49.2300081 -25.4724787),amenity,arts_centre
+17,,POINT (-49.253165 -25.462836),amenity,arts_centre
+18,,POINT (-49.2528861 -25.4607889),amenity,arts_centre
+19,,POINT (-49.2546125 -25.4615005),amenity,arts_centre
+20,,POINT (-49.2520616 -25.462434),amenity,arts_centre
+21,,POINT (-49.2539463 -25.4631402),amenity,arts_centre
+22,,POINT (-49.2539413 -25.4612239),amenity,arts_centre
+23,,POINT (-49.2534989 -25.4610415),amenity,arts_centre
+24,,POINT (-49.2528193 -25.4609223),amenity,arts_centre
+25,,POINT (-49.2527252 -25.4611101),amenity,arts_centre
+26,,POINT (-49.2532816 -25.460952),amenity,arts_centre
+27,,POINT (-49.2733311 -25.4273652),amenity,arts_centre
+28,,POINT (-49.2735424 -25.4273198),amenity,arts_centre
+29,,POINT (-49.2734829 -25.427052),amenity,arts_centre
+30,,POINT (-49.2732651 -25.4270996),amenity,arts_centre
+31,,POINT (-49.2755285 -25.4277104),amenity,arts_centre
+32,,POINT (-49.2754581 -25.4278708),amenity,arts_centre
+33,,POINT (-49.2752689 -25.4277119),amenity,arts_centre
+34,,POINT (-49.275382 -25.4277532),amenity,arts_centre
+35,,POINT (-49.2754191 -25.4276704),amenity,arts_centre
+36,,POINT (-49.2752221 -25.4277916),amenity,arts_centre
+37,,POINT (-49.2754277 -25.4278604),amenity,arts_centre
+38,,POINT (-49.2752645 -25.4278059),amenity,arts_centre
+39,,POINT (-49.2772332 -25.3838489),amenity,arts_centre
+40,,POINT (-49.276961 -25.3837078),amenity,arts_centre
+41,,POINT (-49.2767521 -25.3840367),amenity,arts_centre
+42,,POINT (-49.2770242 -25.3841778),amenity,arts_centre
+43,Expo Renault Barigui,"POLYGON ((-49.3142983 -25.4277676, -49.3143077 -25.427799, -49.314179 -25.4280522, -49.3140575 -25.4282964, -49.3127113 -25.4277424, -49.3127305 -25.4276914, -49.3129593 -25.4272377, -49.3142983 -25.4277676))",amenity,arts_centre
+44,Solar do Rosário,"POLYGON ((-49.2734829 -25.427052, -49.2735424 -25.4273198, -49.2733311 -25.4273652, -49.2732651 -25.4270996, -49.2734829 -25.427052))",amenity,arts_centre
+45,Pedreira Paulo Leminski,"POLYGON ((-49.2772332 -25.3838489, -49.276961 -25.3837078, -49.2767521 -25.3840367, -49.2770242 -25.3841778, -49.2772332 -25.3838489))",amenity,arts_centre
+46,Selfie Brasil,"POLYGON ((-49.2305672 -25.4723847, -49.2302217 -25.472182, -49.2297162 -25.4718854, -49.2295026 -25.4721821, -49.2300081 -25.4724787, -49.2303536 -25.4726814, -49.2305672 -25.4723847))",amenity,arts_centre
+47,,"POLYGON ((-49.2755285 -25.4277104, -49.2754581 -25.4278708, -49.2754277 -25.4278604, -49.2752645 -25.4278059, -49.2752221 -25.4277916, -49.2752689 -25.4277119, -49.275382 -25.4277532, -49.2754191 -25.4276704, -49.2755285 -25.4277104))",amenity,arts_centre
+48,Usina 5,"POLYGON ((-49.2528861 -25.4607889, -49.2528193 -25.4609223, -49.2527252 -25.4611101, -49.2520616 -25.462434, -49.253165 -25.462836, -49.2539463 -25.4631402, -49.2546125 -25.4615005, -49.2539413 -25.4612239, -49.2534989 -25.4610415, -49.2532816 -25.460952, -49.2528861 -25.4607889))",amenity,arts_centre
+0,Cinesystem,POINT (-49.2937877 -25.4783523),amenity,cinema
+1,IMAX,POINT (-49.2916453 -25.4785678),amenity,cinema
+2,Cinesystem,POINT (-49.2775465 -25.4407808),amenity,cinema
+3,Cinemark Barigui,POINT (-49.3157005 -25.4350362),amenity,cinema
+4,Espaço Itaú de Cinema Curitiba,POINT (-49.2815202 -25.4389936),amenity,cinema
+5,Cinemark,POINT (-49.2702804 -25.4228639),amenity,cinema
+6,Cine SESI,POINT (-49.2691727 -25.4226682),amenity,cinema
+7,FTD Digital Arena,POINT (-49.2518725 -25.4530714),amenity,cinema
+8,Cinemateca de Curitiba,POINT (-49.2766256 -25.4247424),amenity,cinema
+9,Cineplus Água Verde,POINT (-49.2900088 -25.4635927),amenity,cinema
+10,Cine Guarani,POINT (-49.2930618 -25.4765808),amenity,cinema
+11,UCI,POINT (-49.2902388 -25.4775604),amenity,cinema
+12,Cineplex Batel,POINT (-49.2835189 -25.4383175),amenity,cinema
+13,Cine Plus,POINT (-49.228075 -25.4516008),amenity,cinema
+14,Cine Passeio,POINT (-49.2694505 -25.4265012),amenity,cinema
+0,Centro Cultural Sistema FIEP,POINT (-49.2693688 -25.4226065),amenity,community_centre
+1,Chácara Baldan,POINT (-49.295858 -25.5853754),amenity,community_centre
+2,Espaço Klaine,POINT (-49.3219614 -25.3729047),amenity,community_centre
+3,Maison Barigui Eventos,POINT (-49.3294354 -25.4260545),amenity,community_centre
+4,Sociedade Cultural Abranches,POINT (-49.2726044 -25.3802681),amenity,community_centre
+5,Associação de Moradores do Portelinha,POINT (-49.3128673 -25.4664998),amenity,community_centre
+6,Comunidade Nossa Senhora do Rocio,POINT (-49.285215 -25.5022116),amenity,community_centre
+7,,POINT (-49.3518418 -25.5107055),amenity,community_centre
+8,,POINT (-49.2866329 -25.5689193),amenity,community_centre
+9,,POINT (-49.2868302 -25.5689454),amenity,community_centre
+10,,POINT (-49.2865881 -25.569194),amenity,community_centre
+11,,POINT (-49.2867854 -25.5692202),amenity,community_centre
+12,,POINT (-49.2843811 -25.5691263),amenity,community_centre
+13,,POINT (-49.2841775 -25.5690924),amenity,community_centre
+14,,POINT (-49.2841005 -25.5694684),amenity,community_centre
+15,,POINT (-49.2843041 -25.5695023),amenity,community_centre
+16,,POINT (-49.3306317 -25.4641166),amenity,community_centre
+17,,POINT (-49.3302953 -25.4641456),amenity,community_centre
+18,,POINT (-49.3312186 -25.464165),amenity,community_centre
+19,,POINT (-49.3307861 -25.464201),amenity,community_centre
+20,,POINT (-49.3303132 -25.464472),amenity,community_centre
+21,,POINT (-49.3300305 -25.4645204),amenity,community_centre
+22,,POINT (-49.3312973 -25.4654121),amenity,community_centre
+23,,POINT (-49.3308822 -25.4656318),amenity,community_centre
+24,,POINT (-49.3291216 -25.4662716),amenity,community_centre
+25,,POINT (-49.3292397 -25.46632),amenity,community_centre
+26,,POINT (-49.3294007 -25.4664525),amenity,community_centre
+27,,POINT (-49.3296154 -25.4666237),amenity,community_centre
+28,,POINT (-49.3310146 -25.4666431),amenity,community_centre
+29,,POINT (-49.3298731 -25.4667368),amenity,community_centre
+30,,POINT (-49.3302703 -25.4667529),amenity,community_centre
+31,,POINT (-49.3275536 -25.4644419),amenity,community_centre
+32,,POINT (-49.3280666 -25.464541),amenity,community_centre
+33,,POINT (-49.3277305 -25.4646049),amenity,community_centre
+34,,POINT (-49.3272965 -25.4640552),amenity,community_centre
+35,,POINT (-49.3274182 -25.4642684),amenity,community_centre
+36,,POINT (-49.3267633 -25.4643007),amenity,community_centre
+37,,POINT (-49.3288031 -25.4644364),amenity,community_centre
+38,,POINT (-49.3286993 -25.4644493),amenity,community_centre
+39,,POINT (-49.3268563 -25.4646723),amenity,community_centre
+40,,POINT (-49.3289426 -25.4662748),amenity,community_centre
+41,,POINT (-49.3287458 -25.4663588),amenity,community_centre
+42,,POINT (-49.3284667 -25.4664751),amenity,community_centre
+43,,POINT (-49.3282198 -25.4665656),amenity,community_centre
+44,,POINT (-49.3274933 -25.4666851),amenity,community_centre
+45,,POINT (-49.3277152 -25.4666916),amenity,community_centre
+46,,POINT (-49.3275721 -25.4667336),amenity,community_centre
+47,,POINT (-49.3440153 -25.4608333),amenity,community_centre
+48,,POINT (-49.3439899 -25.4606591),amenity,community_centre
+49,,POINT (-49.3439833 -25.4603427),amenity,community_centre
+50,,POINT (-49.3441276 -25.4608909),amenity,community_centre
+51,,POINT (-49.3441204 -25.46034),amenity,community_centre
+52,,POINT (-49.3560343 -25.4444146),amenity,community_centre
+53,,POINT (-49.3561759 -25.445009),amenity,community_centre
+54,,POINT (-49.3558078 -25.4451368),amenity,community_centre
+55,,POINT (-49.3556096 -25.4445296),amenity,community_centre
+56,,POINT (-49.3565086 -25.4434622),amenity,community_centre
+57,,POINT (-49.3567776 -25.4437882),amenity,community_centre
+58,,POINT (-49.3561193 -25.444242),amenity,community_centre
+59,,POINT (-49.3558574 -25.443916),amenity,community_centre
+60,,POINT (-49.28764 -25.446007),amenity,community_centre
+61,,POINT (-49.2875433 -25.4460397),amenity,community_centre
+62,,POINT (-49.2876832 -25.4460982),amenity,community_centre
+63,,POINT (-49.2875859 -25.4461324),amenity,community_centre
+64,,POINT (-49.333408 -25.4059166),amenity,community_centre
+65,,POINT (-49.3335062 -25.405911),amenity,community_centre
+66,,POINT (-49.3335186 -25.4059206),amenity,community_centre
+67,,POINT (-49.333615 -25.4059158),amenity,community_centre
+68,,POINT (-49.3336203 -25.4059965),amenity,community_centre
+69,,POINT (-49.3336717 -25.4059957),amenity,community_centre
+70,,POINT (-49.3336796 -25.4060948),amenity,community_centre
+71,,POINT (-49.3334195 -25.4061124),amenity,community_centre
+72,,POINT (-49.3334283 -25.3988555),amenity,community_centre
+73,,POINT (-49.3333546 -25.3987712),amenity,community_centre
+74,,POINT (-49.3335473 -25.3986337),amenity,community_centre
+75,,POINT (-49.333621 -25.398718),amenity,community_centre
+76,,POINT (-49.3003964 -25.3994653),amenity,community_centre
+77,,POINT (-49.3003346 -25.3995296),amenity,community_centre
+78,,POINT (-49.3002367 -25.3994481),amenity,community_centre
+79,,POINT (-49.3002963 -25.3993846),amenity,community_centre
+80,,POINT (-49.2510719 -25.5615421),amenity,community_centre
+81,,POINT (-49.2509897 -25.5615569),amenity,community_centre
+82,,POINT (-49.2510363 -25.561668),amenity,community_centre
+83,,POINT (-49.2511074 -25.5616507),amenity,community_centre
+84,,POINT (-49.2649115 -25.4708626),amenity,community_centre
+85,,POINT (-49.2650053 -25.4721071),amenity,community_centre
+86,,POINT (-49.2656371 -25.4710346),amenity,community_centre
+87,,POINT (-49.264579 -25.4720061),amenity,community_centre
+88,,POINT (-49.265328 -25.4713914),amenity,community_centre
+89,,POINT (-49.2652208 -25.471366),amenity,community_centre
+90,,POINT (-49.2653582 -25.4719938),amenity,community_centre
+91,,POINT (-49.2651661 -25.4719483),amenity,community_centre
+92,,POINT (-49.2325326 -25.4535869),amenity,community_centre
+93,,POINT (-49.2326152 -25.4536147),amenity,community_centre
+94,,POINT (-49.2325536 -25.4536362),amenity,community_centre
+95,,POINT (-49.2325925 -25.4535662),amenity,community_centre
+96,,POINT (-49.2325692 -25.4536489),amenity,community_centre
+97,,POINT (-49.2326412 -25.4536703),amenity,community_centre
+98,,POINT (-49.2325886 -25.4536902),amenity,community_centre
+99,,POINT (-49.2326219 -25.453629),amenity,community_centre
+100,,POINT (-49.2326845 -25.4536767),amenity,community_centre
+101,,POINT (-49.2327622 -25.4536747),amenity,community_centre
+102,,POINT (-49.2326312 -25.4536967),amenity,community_centre
+103,,POINT (-49.2325606 -25.4534982),amenity,community_centre
+104,,POINT (-49.2326508 -25.4537394),amenity,community_centre
+105,,POINT (-49.2327419 -25.4535557),amenity,community_centre
+106,,POINT (-49.2328331 -25.4536972),amenity,community_centre
+107,,POINT (-49.2325123 -25.4535149),amenity,community_centre
+108,,POINT (-49.2326833 -25.4535769),amenity,community_centre
+109,,POINT (-49.2327065 -25.4536291),amenity,community_centre
+110,,POINT (-49.2325813 -25.4535423),amenity,community_centre
+111,,POINT (-49.232816 -25.4536563),amenity,community_centre
+112,,POINT (-49.2325318 -25.4535596),amenity,community_centre
+113,,POINT (-49.2327651 -25.4536078),amenity,community_centre
+114,,POINT (-49.2324346 -25.4532888),amenity,community_centre
+115,,POINT (-49.2323815 -25.4533087),amenity,community_centre
+116,,POINT (-49.2324542 -25.4533316),amenity,community_centre
+117,,POINT (-49.2324011 -25.4533515),amenity,community_centre
+118,,POINT (-49.2324691 -25.4533557),amenity,community_centre
+119,,POINT (-49.232416 -25.4533756),amenity,community_centre
+120,,POINT (-49.2324887 -25.4533985),amenity,community_centre
+121,,POINT (-49.232519 -25.4534141),amenity,community_centre
+122,,POINT (-49.2324356 -25.4534184),amenity,community_centre
+123,,POINT (-49.2324648 -25.4534357),amenity,community_centre
+124,,POINT (-49.2325395 -25.4534559),amenity,community_centre
+125,,POINT (-49.2324852 -25.4534775),amenity,community_centre
+126,,POINT (-49.2326402 -25.4537163),amenity,community_centre
+127,,POINT (-49.2326227 -25.4536771),amenity,community_centre
+128,,POINT (-49.2327036 -25.4537197),amenity,community_centre
+129,,POINT (-49.2327793 -25.4537156),amenity,community_centre
+130,,POINT (-49.2764333 -25.4280586),amenity,community_centre
+131,,POINT (-49.2763391 -25.4280269),amenity,community_centre
+132,,POINT (-49.2763055 -25.4281083),amenity,community_centre
+133,,POINT (-49.2763997 -25.42814),amenity,community_centre
+134,,POINT (-49.2658645 -25.4252605),amenity,community_centre
+135,,POINT (-49.2636197 -25.4261074),amenity,community_centre
+136,,POINT (-49.2650318 -25.4267505),amenity,community_centre
+137,,POINT (-49.2652063 -25.4266842),amenity,community_centre
+138,,POINT (-49.2636443 -25.4261608),amenity,community_centre
+139,,POINT (-49.2642558 -25.4247059),amenity,community_centre
+140,,POINT (-49.2573787 -25.4286247),amenity,community_centre
+141,,POINT (-49.257399 -25.4288397),amenity,community_centre
+142,,POINT (-49.257149 -25.4288589),amenity,community_centre
+143,,POINT (-49.2571287 -25.4286439),amenity,community_centre
+144,,POINT (-49.2574702 -25.4284839),amenity,community_centre
+145,,POINT (-49.2574783 -25.4285921),amenity,community_centre
+146,,POINT (-49.2572441 -25.4286063),amenity,community_centre
+147,,POINT (-49.2572396 -25.4285463),amenity,community_centre
+148,,POINT (-49.2570947 -25.4285551),amenity,community_centre
+149,,POINT (-49.257128 -25.4289531),amenity,community_centre
+150,,POINT (-49.256976 -25.4289653),amenity,community_centre
+151,,POINT (-49.2569406 -25.4285146),amenity,community_centre
+152,,POINT (-49.2570776 -25.4285063),amenity,community_centre
+153,,POINT (-49.2570618 -25.4282329),amenity,community_centre
+154,,POINT (-49.25712 -25.4282295),amenity,community_centre
+155,,POINT (-49.2571449 -25.4285036),amenity,community_centre
+156,,POINT (-49.2572643 -25.4293096),amenity,community_centre
+157,,POINT (-49.2570925 -25.4293259),amenity,community_centre
+158,,POINT (-49.2570783 -25.4291341),amenity,community_centre
+159,,POINT (-49.256977 -25.4291409),amenity,community_centre
+160,,POINT (-49.2569657 -25.4290049),amenity,community_centre
+161,,POINT (-49.2574014 -25.4289753),amenity,community_centre
+162,,POINT (-49.2574134 -25.4291194),amenity,community_centre
+163,,POINT (-49.2572531 -25.4291303),amenity,community_centre
+164,,POINT (-49.2582646 -25.4283141),amenity,community_centre
+165,,POINT (-49.2580041 -25.4292525),amenity,community_centre
+166,,POINT (-49.2570588 -25.429343),amenity,community_centre
+167,,POINT (-49.2570465 -25.4291548),amenity,community_centre
+168,,POINT (-49.2569413 -25.4291674),amenity,community_centre
+169,,POINT (-49.2568944 -25.4284877),amenity,community_centre
+170,,POINT (-49.2570442 -25.428479),amenity,community_centre
+171,,POINT (-49.2570115 -25.4281285),amenity,community_centre
+172,,POINT (-49.257126 -25.4281179),amenity,community_centre
+173,,POINT (-49.2571564 -25.4284685),amenity,community_centre
+174,,POINT (-49.257941 -25.4284165),amenity,community_centre
+175,,POINT (-49.2579328 -25.4283122),amenity,community_centre
+176,,POINT (-49.2570482 -25.4281252),amenity,community_centre
+177,,POINT (-49.2680962 -25.4182803),amenity,community_centre
+178,,POINT (-49.2678534 -25.4182974),amenity,community_centre
+179,,POINT (-49.267901 -25.418849),amenity,community_centre
+180,,POINT (-49.2681438 -25.4188319),amenity,community_centre
+181,,POINT (-49.2680306 -25.4188399),amenity,community_centre
+182,,POINT (-49.2645417 -25.42403),amenity,community_centre
+183,,POINT (-49.2642037 -25.4243225),amenity,community_centre
+184,,POINT (-49.2641744 -25.4246772),amenity,community_centre
+185,CAGEO,"POLYGON ((-49.2325925 -25.4535662, -49.2326152 -25.4536147, -49.2325536 -25.4536362, -49.2325326 -25.4535869, -49.2325925 -25.4535662))",amenity,community_centre
+186,Memorial da Imigração Japonesa,"POLYGON ((-49.28764 -25.446007, -49.2876832 -25.4460982, -49.2875859 -25.4461324, -49.2875433 -25.4460397, -49.28764 -25.446007))",amenity,community_centre
+187,DAEC,"POLYGON ((-49.2326219 -25.453629, -49.2326412 -25.4536703, -49.2326227 -25.4536771, -49.2325886 -25.4536902, -49.2325692 -25.4536489, -49.2326219 -25.453629))",amenity,community_centre
+188,,"POLYGON ((-49.2326845 -25.4536767, -49.2327036 -25.4537197, -49.2326508 -25.4537394, -49.2326402 -25.4537163, -49.2326312 -25.4536967, -49.2326845 -25.4536767))",amenity,community_centre
+189,CAEP,"POLYGON ((-49.2327419 -25.4535557, -49.2327651 -25.4536078, -49.2327065 -25.4536291, -49.2326833 -25.4535769, -49.2327419 -25.4535557))",amenity,community_centre
+190,CAEA,"POLYGON ((-49.232816 -25.4536563, -49.2328331 -25.4536972, -49.2327793 -25.4537156, -49.2327622 -25.4536747, -49.232816 -25.4536563))",amenity,community_centre
+191,CEGEP,"POLYGON ((-49.2325606 -25.4534982, -49.2325813 -25.4535423, -49.2325318 -25.4535596, -49.2325123 -25.4535149, -49.2325606 -25.4534982))",amenity,community_centre
+192,Marumby Expo Center,"POLYGON ((-49.2656371 -25.4710346, -49.2649115 -25.4708626, -49.264579 -25.4720061, -49.2650053 -25.4721071, -49.2652208 -25.471366, -49.265328 -25.4713914, -49.2651661 -25.4719483, -49.2653582 -25.4719938, -49.2656371 -25.4710346))",amenity,community_centre
+193,Spazio di Festa Nichele,"POLYGON ((-49.2868302 -25.5689454, -49.2866329 -25.5689193, -49.2865881 -25.569194, -49.2867854 -25.5692202, -49.2868302 -25.5689454))",amenity,community_centre
+194,Escoteiros do Brasil,"POLYGON ((-49.2764333 -25.4280586, -49.2763391 -25.4280269, -49.2763055 -25.4281083, -49.2763997 -25.42814, -49.2764333 -25.4280586))",amenity,community_centre
+195,,"POLYGON ((-49.232519 -25.4534141, -49.2325395 -25.4534559, -49.2324852 -25.4534775, -49.2324648 -25.4534357, -49.232519 -25.4534141))",amenity,community_centre
+196,,"POLYGON ((-49.2324691 -25.4533557, -49.2324887 -25.4533985, -49.2324356 -25.4534184, -49.232416 -25.4533756, -49.2324691 -25.4533557))",amenity,community_centre
+197,,"POLYGON ((-49.2324346 -25.4532888, -49.2324542 -25.4533316, -49.2324011 -25.4533515, -49.2323815 -25.4533087, -49.2324346 -25.4532888))",amenity,community_centre
+198,Clube dos Subtenentes e Sargentos do Exército,"POLYGON ((-49.2680962 -25.4182803, -49.2678534 -25.4182974, -49.267901 -25.418849, -49.2680306 -25.4188399, -49.2681438 -25.4188319, -49.2680962 -25.4182803))",amenity,community_centre
+199,Pequeno Cotolengo,"POLYGON ((-49.3307861 -25.464201, -49.3312186 -25.464165, -49.3312973 -25.4654121, -49.3308822 -25.4656318, -49.3310146 -25.4666431, -49.3302703 -25.4667529, -49.3298731 -25.4667368, -49.3296154 -25.4666237, -49.3294007 -25.4664525, -49.3292397 -25.46632, -49.3291216 -25.4662716, -49.3289426 -25.4662748, -49.3287458 -25.4663588, -49.3284667 -25.4664751, -49.3282198 -25.4665656, -49.3277152 -25.4666916, -49.3275721 -25.4667336, -49.3274933 -25.4666851, -49.3268563 -25.4646723, -49.3267633 -25.4643007, -49.3272965 -25.4640552, -49.3274182 -25.4642684, -49.3275536 -25.4644419, -49.3277305 -25.4646049, -49.3280666 -25.464541, -49.3286993 -25.4644493, -49.3288031 -25.4644364, -49.3300305 -25.4645204, -49.3303132 -25.464472, -49.3302953 -25.4641456, -49.3306317 -25.4641166, -49.3307861 -25.464201))",amenity,community_centre
+200,Expo Unimed Curitiba,"POLYGON ((-49.3565086 -25.4434622, -49.3567776 -25.4437882, -49.3561193 -25.444242, -49.3560343 -25.4444146, -49.3561759 -25.445009, -49.3558078 -25.4451368, -49.3556096 -25.4445296, -49.3558574 -25.443916, -49.3565086 -25.4434622))",amenity,community_centre
+201,Grupo Folclórico Ítalo Brasileiro Santa Felicidade,"POLYGON ((-49.333408 -25.4059166, -49.3335062 -25.405911, -49.3335186 -25.4059206, -49.333615 -25.4059158, -49.3336203 -25.4059965, -49.3336717 -25.4059957, -49.3336796 -25.4060948, -49.3334195 -25.4061124, -49.333408 -25.4059166))",amenity,community_centre
+202,Círculo Militar do Paraná,"POLYGON ((-49.2658645 -25.4252605, -49.2645417 -25.42403, -49.2642037 -25.4243225, -49.2642558 -25.4247059, -49.2641744 -25.4246772, -49.2636197 -25.4261074, -49.2636443 -25.4261608, -49.2650318 -25.4267505, -49.2652063 -25.4266842, -49.2658645 -25.4252605))",amenity,community_centre
+203,Buffet Fun Jungle,"POLYGON ((-49.3334283 -25.3988555, -49.3333546 -25.3987712, -49.3335473 -25.3986337, -49.333621 -25.398718, -49.3334283 -25.3988555))",amenity,community_centre
+204,Associação de moradores do bairro Vista Alegre,"POLYGON ((-49.3003964 -25.3994653, -49.3003346 -25.3995296, -49.3002367 -25.3994481, -49.3002963 -25.3993846, -49.3003964 -25.3994653))",amenity,community_centre
+205,Salão Primavera,"POLYGON ((-49.2843811 -25.5691263, -49.2841775 -25.5690924, -49.2841005 -25.5694684, -49.2843041 -25.5695023, -49.2843811 -25.5691263))",amenity,community_centre
+206,,"POLYGON ((-49.3439833 -25.4603427, -49.3439899 -25.4606591, -49.3440153 -25.4608333, -49.3441276 -25.4608909, -49.3441204 -25.46034, -49.3439833 -25.4603427))",amenity,community_centre
+207,,"POLYGON ((-49.2510719 -25.5615421, -49.2509897 -25.5615569, -49.2510363 -25.561668, -49.2511074 -25.5616507, -49.2510719 -25.5615421))",amenity,community_centre
+208,,"POLYGON ((-49.2573787 -25.4286247, -49.257399 -25.4288397, -49.257149 -25.4288589, -49.2571287 -25.4286439, -49.2573787 -25.4286247))",amenity,community_centre
+209,,"POLYGON ((-49.2574702 -25.4284839, -49.2574783 -25.4285921, -49.2572441 -25.4286063, -49.2572396 -25.4285463, -49.2570947 -25.4285551, -49.257128 -25.4289531, -49.256976 -25.4289653, -49.2569406 -25.4285146, -49.2570776 -25.4285063, -49.2570618 -25.4282329, -49.25712 -25.4282295, -49.2571449 -25.4285036, -49.2574702 -25.4284839))",amenity,community_centre
+210,,"POLYGON ((-49.2572643 -25.4293096, -49.2570925 -25.4293259, -49.2570783 -25.4291341, -49.256977 -25.4291409, -49.2569657 -25.4290049, -49.2574014 -25.4289753, -49.2574134 -25.4291194, -49.2572531 -25.4291303, -49.2572643 -25.4293096))",amenity,community_centre
+211,,"POLYGON ((-49.2582646 -25.4283141, -49.2580041 -25.4292525, -49.2570588 -25.429343, -49.2570465 -25.4291548, -49.2569413 -25.4291674, -49.2568944 -25.4284877, -49.2570442 -25.428479, -49.2570115 -25.4281285, -49.2570482 -25.4281252, -49.257126 -25.4281179, -49.2571564 -25.4284685, -49.257941 -25.4284165, -49.2579328 -25.4283122, -49.2582646 -25.4283141))",amenity,community_centre
+212,A Fabrika,"POLYGON ((-49.2582646 -25.4283141, -49.2580041 -25.4292525, -49.2570588 -25.429343, -49.2570465 -25.4291548, -49.2569413 -25.4291674, -49.2568944 -25.4284877, -49.2570442 -25.428479, -49.2570115 -25.4281285, -49.2570482 -25.4281252, -49.257126 -25.4281179, -49.2571564 -25.4284685, -49.257941 -25.4284165, -49.2579328 -25.4283122, -49.2582646 -25.4283141))",amenity,community_centre
+0,,POINT (-49.2702418 -25.4333562),amenity,fountain
+1,,POINT (-49.2868702 -25.4351194),amenity,fountain
+2,,POINT (-49.3061244 -25.3966926),amenity,fountain
+3,,POINT (-49.3058609 -25.3971796),amenity,fountain
+4,,POINT (-49.2722515 -25.4314084),amenity,fountain
+5,,POINT (-49.2758386 -25.4330105),amenity,fountain
+6,,POINT (-49.3045251 -25.4522275),amenity,fountain
+7,,POINT (-49.3045524 -25.4522227),amenity,fountain
+8,,POINT (-49.3045222 -25.4520828),amenity,fountain
+9,,POINT (-49.3044975 -25.4520867),amenity,fountain
+10,,POINT (-49.3045763 -25.4522097),amenity,fountain
+11,,POINT (-49.3045938 -25.4521902),amenity,fountain
+12,,POINT (-49.3046028 -25.4521664),amenity,fountain
+13,,POINT (-49.3046023 -25.4521413),amenity,fountain
+14,,POINT (-49.3045924 -25.4521178),amenity,fountain
+15,,POINT (-49.3045741 -25.4520989),amenity,fountain
+16,,POINT (-49.3045497 -25.4520867),amenity,fountain
+17,,POINT (-49.3044754 -25.4520973),amenity,fountain
+18,,POINT (-49.304458 -25.4521136),amenity,fountain
+19,,POINT (-49.304447 -25.452134),amenity,fountain
+20,,POINT (-49.3044435 -25.4521564),amenity,fountain
+21,,POINT (-49.3044479 -25.4521787),amenity,fountain
+22,,POINT (-49.3044597 -25.4521987),amenity,fountain
+23,,POINT (-49.3044777 -25.4522144),amenity,fountain
+24,,POINT (-49.3045002 -25.4522244),amenity,fountain
+25,,POINT (-49.3045566 -25.4521472),amenity,fountain
+26,,POINT (-49.3045258 -25.4521888),amenity,fountain
+27,,POINT (-49.3044862 -25.4521648),amenity,fountain
+28,,POINT (-49.304517 -25.4521233),amenity,fountain
+29,,POINT (-49.3328734 -25.4367246),amenity,fountain
+30,,POINT (-49.3328508 -25.4367149),amenity,fountain
+31,,POINT (-49.3327841 -25.4368305),amenity,fountain
+32,,POINT (-49.3328045 -25.4368413),amenity,fountain
+33,,POINT (-49.3328259 -25.4367127),amenity,fountain
+34,,POINT (-49.3328016 -25.436718),amenity,fountain
+35,,POINT (-49.3327807 -25.4367304),amenity,fountain
+36,,POINT (-49.3327656 -25.4367483),amenity,fountain
+37,,POINT (-49.332758 -25.4367698),amenity,fountain
+38,,POINT (-49.3327587 -25.4367924),amenity,fountain
+39,,POINT (-49.3327678 -25.4368134),amenity,fountain
+40,,POINT (-49.3328276 -25.4368456),amenity,fountain
+41,,POINT (-49.3328511 -25.4368432),amenity,fountain
+42,,POINT (-49.3328725 -25.4368341),amenity,fountain
+43,,POINT (-49.3328897 -25.4368194),amenity,fountain
+44,,POINT (-49.3329008 -25.4368006),amenity,fountain
+45,,POINT (-49.3329047 -25.4367796),amenity,fountain
+46,,POINT (-49.3329011 -25.4367585),amenity,fountain
+47,,POINT (-49.3328903 -25.4367395),amenity,fountain
+48,,POINT (-49.2859495 -25.4280517),amenity,fountain
+49,,POINT (-49.2857837 -25.4279896),amenity,fountain
+50,,POINT (-49.2856487 -25.428283),amenity,fountain
+51,,POINT (-49.2858145 -25.4283452),amenity,fountain
+52,,POINT (-49.2812076 -25.4534601),amenity,fountain
+53,,POINT (-49.2810619 -25.4535537),amenity,fountain
+54,,POINT (-49.2809429 -25.4533826),amenity,fountain
+55,,POINT (-49.2809947 -25.4533512),amenity,fountain
+56,,POINT (-49.2810165 -25.4533826),amenity,fountain
+57,,POINT (-49.2810489 -25.45336),amenity,fountain
+58,,POINT (-49.2810651 -25.4533855),amenity,fountain
+59,,POINT (-49.2810967 -25.4533658),amenity,fountain
+60,,POINT (-49.2811145 -25.4533899),amenity,fountain
+61,,POINT (-49.2811364 -25.453376),amenity,fountain
+62,,POINT (-49.2394819 -25.442989),amenity,fountain
+63,,POINT (-49.2394865 -25.4429925),amenity,fountain
+64,,POINT (-49.2394785 -25.4430192),amenity,fountain
+65,,POINT (-49.2394726 -25.4430201),amenity,fountain
+66,,POINT (-49.2394667 -25.4430192),amenity,fountain
+67,,POINT (-49.2394897 -25.4429971),amenity,fountain
+68,,POINT (-49.239491 -25.4430024),amenity,fountain
+69,,POINT (-49.2394904 -25.4430078),amenity,fountain
+70,,POINT (-49.2394879 -25.4430127),amenity,fountain
+71,,POINT (-49.2394838 -25.4430167),amenity,fountain
+72,,POINT (-49.2394614 -25.4430167),amenity,fountain
+73,,POINT (-49.2394571 -25.4430126),amenity,fountain
+74,,POINT (-49.2394547 -25.4430075),amenity,fountain
+75,,POINT (-49.2394542 -25.4430019),amenity,fountain
+76,,POINT (-49.2394557 -25.4429966),amenity,fountain
+77,,POINT (-49.2394592 -25.4429919),amenity,fountain
+78,,POINT (-49.2394641 -25.4429886),amenity,fountain
+79,,POINT (-49.23947 -25.4429869),amenity,fountain
+80,,POINT (-49.2394761 -25.442987),amenity,fountain
+81,,POINT (-49.2389656 -25.4430236),amenity,fountain
+82,,POINT (-49.2389727 -25.4430241),amenity,fountain
+83,,POINT (-49.2389669 -25.4430613),amenity,fountain
+84,,POINT (-49.2389604 -25.4430602),amenity,fountain
+85,,POINT (-49.2389791 -25.4430268),amenity,fountain
+86,,POINT (-49.238984 -25.4430309),amenity,fountain
+87,,POINT (-49.2389872 -25.4430362),amenity,fountain
+88,,POINT (-49.2389884 -25.4430422),amenity,fountain
+89,,POINT (-49.2389874 -25.4430482),amenity,fountain
+90,,POINT (-49.2389843 -25.4430536),amenity,fountain
+91,,POINT (-49.2389796 -25.4430578),amenity,fountain
+92,,POINT (-49.2389736 -25.4430605),amenity,fountain
+93,,POINT (-49.2389545 -25.4430572),amenity,fountain
+94,,POINT (-49.2389498 -25.4430525),amenity,fountain
+95,,POINT (-49.2389471 -25.4430466),amenity,fountain
+96,,POINT (-49.2389467 -25.4430402),amenity,fountain
+97,,POINT (-49.2389487 -25.443034),amenity,fountain
+98,,POINT (-49.2389529 -25.4430289),amenity,fountain
+99,,POINT (-49.2389588 -25.4430253),amenity,fountain
+100,,POINT (-49.2384738 -25.4430669),amenity,fountain
+101,,POINT (-49.2384941 -25.443096),amenity,fountain
+102,,POINT (-49.2384895 -25.4431005),amenity,fountain
+103,,POINT (-49.2384835 -25.4431035),amenity,fountain
+104,,POINT (-49.2384768 -25.4431045),amenity,fountain
+105,,POINT (-49.2384807 -25.4430671),amenity,fountain
+106,,POINT (-49.2384871 -25.4430692),amenity,fountain
+107,,POINT (-49.2384924 -25.4430731),amenity,fountain
+108,,POINT (-49.238496 -25.4430783),amenity,fountain
+109,,POINT (-49.2384976 -25.4430843),amenity,fountain
+110,,POINT (-49.2384969 -25.4430904),amenity,fountain
+111,,POINT (-49.23847 -25.4431035),amenity,fountain
+112,,POINT (-49.2384603 -25.4430316),amenity,fountain
+113,,POINT (-49.2384376 -25.4430426),amenity,fountain
+114,,POINT (-49.2384215 -25.4430616),amenity,fountain
+115,,POINT (-49.2384159 -25.4430867),amenity,fountain
+116,,POINT (-49.2384196 -25.443111),amenity,fountain
+117,,POINT (-49.2384349 -25.4431312),amenity,fountain
+118,,POINT (-49.2384681 -25.4431437),amenity,fountain
+119,,POINT (-49.2384168 -25.4430929),amenity,fountain
+120,,POINT (-49.2384652 -25.4430678),amenity,fountain
+121,,POINT (-49.2380151 -25.4425103),amenity,fountain
+122,,POINT (-49.2380311 -25.4425007),amenity,fountain
+123,,POINT (-49.2381183 -25.4425615),amenity,fountain
+124,,POINT (-49.2381111 -25.4425796),amenity,fountain
+125,,POINT (-49.2380975 -25.4425945),amenity,fountain
+126,,POINT (-49.2380496 -25.442496),amenity,fountain
+127,,POINT (-49.2380689 -25.4424966),amenity,fountain
+128,,POINT (-49.238087 -25.4425025),amenity,fountain
+129,,POINT (-49.2381022 -25.4425131),amenity,fountain
+130,,POINT (-49.2381131 -25.4425275),amenity,fountain
+131,,POINT (-49.2381187 -25.4425441),amenity,fountain
+132,,POINT (-49.2380791 -25.4426043),amenity,fountain
+133,,POINT (-49.2380581 -25.4426079),amenity,fountain
+134,,POINT (-49.238037 -25.4426049),amenity,fountain
+135,,POINT (-49.2380182 -25.4425956),amenity,fountain
+136,,POINT (-49.2380041 -25.4425812),amenity,fountain
+137,,POINT (-49.2379962 -25.4425633),amenity,fountain
+138,,POINT (-49.2379955 -25.442544),amenity,fountain
+139,,POINT (-49.238002 -25.4425256),amenity,fountain
+140,,POINT (-49.2726973 -25.4324127),amenity,fountain
+141,,POINT (-49.2726498 -25.4323823),amenity,fountain
+142,,POINT (-49.2726066 -25.4324375),amenity,fountain
+143,,POINT (-49.2726541 -25.4324678),amenity,fountain
+144,,POINT (-49.2722053 -25.4277848),amenity,fountain
+145,,POINT (-49.2722017 -25.4277843),amenity,fountain
+146,,POINT (-49.2721994 -25.4278039),amenity,fountain
+147,,POINT (-49.272203 -25.4278041),amenity,fountain
+148,,POINT (-49.272198 -25.4277848),amenity,fountain
+149,,POINT (-49.2721949 -25.4277864),amenity,fountain
+150,,POINT (-49.2721925 -25.4277887),amenity,fountain
+151,,POINT (-49.272191 -25.4277917),amenity,fountain
+152,,POINT (-49.2721907 -25.4277949),amenity,fountain
+153,,POINT (-49.2721915 -25.427798),amenity,fountain
+154,,POINT (-49.2721934 -25.4278007),amenity,fountain
+155,,POINT (-49.2721961 -25.4278028),amenity,fountain
+156,,POINT (-49.2722064 -25.4278032),amenity,fountain
+157,,POINT (-49.2722094 -25.4278013),amenity,fountain
+158,,POINT (-49.2722116 -25.4277986),amenity,fountain
+159,,POINT (-49.2722126 -25.4277953),amenity,fountain
+160,,POINT (-49.2722124 -25.427792),amenity,fountain
+161,,POINT (-49.272211 -25.4277889),amenity,fountain
+162,,POINT (-49.2722085 -25.4277864),amenity,fountain
+163,,POINT (-49.2739008 -25.4274364),amenity,fountain
+164,,POINT (-49.2739022 -25.4274176),amenity,fountain
+165,,POINT (-49.2738762 -25.4274194),amenity,fountain
+166,,POINT (-49.2738542 -25.4274284),amenity,fountain
+167,,POINT (-49.2738412 -25.4274374),amenity,fountain
+168,,POINT (-49.2738322 -25.4274537),amenity,fountain
+169,,POINT (-49.2738282 -25.4274699),amenity,fountain
+170,,POINT (-49.2738272 -25.4274907),amenity,fountain
+171,,POINT (-49.2738373 -25.4275097),amenity,fountain
+172,,POINT (-49.2738457 -25.4275209),amenity,fountain
+173,,POINT (-49.2738582 -25.4275286),amenity,fountain
+174,,POINT (-49.2738792 -25.4275331),amenity,fountain
+175,,POINT (-49.2738961 -25.4275333),amenity,fountain
+176,,POINT (-49.2738979 -25.4275139),amenity,fountain
+177,,POINT (-49.2738784 -25.4275112),amenity,fountain
+178,,POINT (-49.2738619 -25.427501),amenity,fountain
+179,,POINT (-49.2738533 -25.4274884),amenity,fountain
+180,,POINT (-49.2738512 -25.4274726),amenity,fountain
+181,,POINT (-49.2738552 -25.4274555),amenity,fountain
+182,,POINT (-49.2738637 -25.4274417),amenity,fountain
+183,,POINT (-49.2738925 -25.4274307),amenity,fountain
+184,,POINT (-49.2738921 -25.4274367),amenity,fountain
+185,,POINT (-49.2738713 -25.4274455),amenity,fountain
+186,,POINT (-49.2738615 -25.4274585),amenity,fountain
+187,,POINT (-49.2738602 -25.4274699),amenity,fountain
+188,,POINT (-49.27386 -25.4274781),amenity,fountain
+189,,POINT (-49.2738612 -25.4274853),amenity,fountain
+190,,POINT (-49.2738683 -25.4274967),amenity,fountain
+191,,POINT (-49.2738834 -25.4275041),amenity,fountain
+192,,POINT (-49.2738988 -25.4275069),amenity,fountain
+193,,POINT (-49.2739092 -25.4275007),amenity,fountain
+194,,POINT (-49.2739165 -25.4275007),amenity,fountain
+195,,POINT (-49.2739208 -25.4274463),amenity,fountain
+196,,POINT (-49.2739104 -25.4274457),amenity,fountain
+197,,POINT (-49.2739106 -25.4274384),amenity,fountain
+198,,POINT (-49.2738817 -25.4274408),amenity,fountain
+199,,POINT (-49.2738766 -25.4274338),amenity,fountain
+200,,POINT (-49.273908 -25.4275079),amenity,fountain
+201,,POINT (-49.2738681 -25.4275063),amenity,fountain
+202,,POINT (-49.2738867 -25.4275128),amenity,fountain
+203,,POINT (-49.2668279 -25.4371488),amenity,fountain
+204,,POINT (-49.2668227 -25.4371374),amenity,fountain
+205,,POINT (-49.2668137 -25.4371279),amenity,fountain
+206,,POINT (-49.2667448 -25.4371429),amenity,fountain
+207,,POINT (-49.2667415 -25.437156),amenity,fountain
+208,,POINT (-49.2667433 -25.4371694),amenity,fountain
+209,,POINT (-49.26675 -25.4371815),amenity,fountain
+210,,POINT (-49.2668021 -25.4371215),amenity,fountain
+211,,POINT (-49.2667887 -25.4371186),amenity,fountain
+212,,POINT (-49.266775 -25.4371195),amenity,fountain
+213,,POINT (-49.2667624 -25.4371243),amenity,fountain
+214,,POINT (-49.2667519 -25.4371323),amenity,fountain
+215,,POINT (-49.2667608 -25.4371909),amenity,fountain
+216,,POINT (-49.2667744 -25.4371964),amenity,fountain
+217,,POINT (-49.2667893 -25.4371974),amenity,fountain
+218,,POINT (-49.2668038 -25.4371939),amenity,fountain
+219,,POINT (-49.266816 -25.4371862),amenity,fountain
+220,,POINT (-49.2668247 -25.4371753),amenity,fountain
+221,,POINT (-49.2668289 -25.4371623),amenity,fountain
+222,,POINT (-49.2674969 -25.425236),amenity,fountain
+223,,POINT (-49.2674753 -25.4252416),amenity,fountain
+224,,POINT (-49.2674892 -25.4252598),amenity,fountain
+225,,POINT (-49.2674983 -25.4252672),amenity,fountain
+226,,POINT (-49.2675133 -25.4252702),amenity,fountain
+227,,POINT (-49.2675404 -25.4252653),amenity,fountain
+228,,POINT (-49.2675554 -25.4252565),amenity,fountain
+229,,POINT (-49.2675613 -25.4252403),amenity,fountain
+230,,POINT (-49.2675607 -25.42523),amenity,fountain
+231,,POINT (-49.2675554 -25.4252176),amenity,fountain
+232,,POINT (-49.2675294 -25.4252028),amenity,fountain
+233,,POINT (-49.2675228 -25.4252164),amenity,fountain
+234,,POINT (-49.2675091 -25.4252302),amenity,fountain
+235,,POINT (-49.2675267 -25.4252073),amenity,fountain
+236,,POINT (-49.2674868 -25.425239),amenity,fountain
+237,,POINT (-49.2674795 -25.4252396),amenity,fountain
+238,,POINT (-49.2674752 -25.4252447),amenity,fountain
+239,,POINT (-49.2675319 -25.4251977),amenity,fountain
+240,,POINT (-49.2675297 -25.4252683),amenity,fountain
+241,,POINT (-49.2675375 -25.4251984),amenity,fountain
+242,,POINT (-49.2675587 -25.426258),amenity,fountain
+243,,POINT (-49.2675774 -25.4262539),amenity,fountain
+244,,POINT (-49.2675619 -25.426152),amenity,fountain
+245,,POINT (-49.2675423 -25.4261528),amenity,fountain
+246,,POINT (-49.2675937 -25.4262447),amenity,fountain
+247,,POINT (-49.2676058 -25.4262312),amenity,fountain
+248,,POINT (-49.2676125 -25.4262149),amenity,fountain
+249,,POINT (-49.267613 -25.4261976),amenity,fountain
+250,,POINT (-49.2676073 -25.426181),amenity,fountain
+251,,POINT (-49.267596 -25.426167),amenity,fountain
+252,,POINT (-49.2675803 -25.4261569),amenity,fountain
+253,,POINT (-49.2675241 -25.4261593),amenity,fountain
+254,,POINT (-49.2675093 -25.4261708),amenity,fountain
+255,,POINT (-49.2674994 -25.4261861),amenity,fountain
+256,,POINT (-49.2674956 -25.4262034),amenity,fountain
+257,,POINT (-49.2674984 -25.4262209),amenity,fountain
+258,,POINT (-49.2675073 -25.4262367),amenity,fountain
+259,,POINT (-49.2675214 -25.4262489),amenity,fountain
+260,,POINT (-49.2675392 -25.4262563),amenity,fountain
+261,,POINT (-49.2683542 -25.4229429),amenity,fountain
+262,,POINT (-49.2682639 -25.4228981),amenity,fountain
+263,,POINT (-49.2682354 -25.422956),amenity,fountain
+264,,POINT (-49.2683334 -25.4229956),amenity,fountain
+265,,POINT (-49.2682451 -25.4229084),amenity,fountain
+266,,POINT (-49.2682317 -25.4229339),amenity,fountain
+267,,POINT (-49.2682854 -25.422903),amenity,fountain
+268,,POINT (-49.2682981 -25.4229224),amenity,fountain
+269,,POINT (-49.2683243 -25.4229351),amenity,fountain
+270,,POINT (-49.2683605 -25.4229605),amenity,fountain
+271,,POINT (-49.2683564 -25.4229787),amenity,fountain
+272,,POINT (-49.2683189 -25.4229926),amenity,fountain
+273,,POINT (-49.2682901 -25.422969),amenity,fountain
+274,,POINT (-49.2682579 -25.4229702),amenity,fountain
+275,,POINT (-49.2682354 -25.4229215),amenity,fountain
+276,,POINT (-49.2682314 -25.4229433),amenity,fountain
+277,,POINT (-49.2682411 -25.4229642),amenity,fountain
+278,,POINT (-49.2682528 -25.4229016),amenity,fountain
+279,,POINT (-49.2682738 -25.4228981),amenity,fountain
+280,,POINT (-49.2682932 -25.4229096),amenity,fountain
+281,,POINT (-49.2683491 -25.4229903),amenity,fountain
+282,,POINT (-49.2683602 -25.422972),amenity,fountain
+283,,POINT (-49.268359 -25.4229487),amenity,fountain
+284,,POINT (-49.2683453 -25.4229381),amenity,fountain
+285,,POINT (-49.2683132 -25.4229324),amenity,fountain
+286,,POINT (-49.2683024 -25.4229757),amenity,fountain
+287,,"POLYGON ((-49.2394614 -25.4430167, -49.2394571 -25.4430126, -49.2394547 -25.4430075, -49.2394542 -25.4430019, -49.2394557 -25.4429966, -49.2394592 -25.4429919, -49.2394641 -25.4429886, -49.23947 -25.4429869, -49.2394761 -25.442987, -49.2394819 -25.442989, -49.2394865 -25.4429925, -49.2394897 -25.4429971, -49.239491 -25.4430024, -49.2394904 -25.4430078, -49.2394879 -25.4430127, -49.2394838 -25.4430167, -49.2394785 -25.4430192, -49.2394726 -25.4430201, -49.2394667 -25.4430192, -49.2394614 -25.4430167))",amenity,fountain
+288,,"POLYGON ((-49.2389545 -25.4430572, -49.2389498 -25.4430525, -49.2389471 -25.4430466, -49.2389467 -25.4430402, -49.2389487 -25.443034, -49.2389529 -25.4430289, -49.2389588 -25.4430253, -49.2389656 -25.4430236, -49.2389727 -25.4430241, -49.2389791 -25.4430268, -49.238984 -25.4430309, -49.2389872 -25.4430362, -49.2389884 -25.4430422, -49.2389874 -25.4430482, -49.2389843 -25.4430536, -49.2389796 -25.4430578, -49.2389736 -25.4430605, -49.2389669 -25.4430613, -49.2389604 -25.4430602, -49.2389545 -25.4430572))",amenity,fountain
+289,,"POLYGON ((-49.2384603 -25.4430316, -49.2384652 -25.4430678, -49.2384738 -25.4430669, -49.2384807 -25.4430671, -49.2384871 -25.4430692, -49.2384924 -25.4430731, -49.238496 -25.4430783, -49.2384976 -25.4430843, -49.2384969 -25.4430904, -49.2384941 -25.443096, -49.2384895 -25.4431005, -49.2384835 -25.4431035, -49.2384768 -25.4431045, -49.23847 -25.4431035, -49.2384681 -25.4431437, -49.2384349 -25.4431312, -49.2384196 -25.443111, -49.2384168 -25.4430929, -49.2384159 -25.4430867, -49.2384215 -25.4430616, -49.2384376 -25.4430426, -49.2384603 -25.4430316))",amenity,fountain
+290,Fonte da Memória,"POLYGON ((-49.2739008 -25.4274364, -49.2739022 -25.4274176, -49.2738762 -25.4274194, -49.2738542 -25.4274284, -49.2738412 -25.4274374, -49.2738322 -25.4274537, -49.2738282 -25.4274699, -49.2738272 -25.4274907, -49.2738373 -25.4275097, -49.2738457 -25.4275209, -49.2738582 -25.4275286, -49.2738792 -25.4275331, -49.2738961 -25.4275333, -49.2738979 -25.4275139, -49.2738867 -25.4275128, -49.2738784 -25.4275112, -49.2738681 -25.4275063, -49.2738619 -25.427501, -49.2738533 -25.4274884, -49.2738512 -25.4274726, -49.2738552 -25.4274555, -49.2738637 -25.4274417, -49.2738766 -25.4274338, -49.2738925 -25.4274307, -49.2738921 -25.4274367, -49.2738817 -25.4274408, -49.2738713 -25.4274455, -49.2738615 -25.4274585, -49.2738602 -25.4274699, -49.27386 -25.4274781, -49.2738612 -25.4274853, -49.2738683 -25.4274967, -49.2738834 -25.4275041, -49.2738988 -25.4275069, -49.273908 -25.4275079, -49.2739092 -25.4275007, -49.2739165 -25.4275007, -49.2739208 -25.4274463, -49.2739104 -25.4274457, -49.2739106 -25.4274384, -49.2739008 -25.4274364))",amenity,fountain
+291,Bebedouro,"POLYGON ((-49.2722064 -25.4278032, -49.2722094 -25.4278013, -49.2722116 -25.4277986, -49.2722126 -25.4277953, -49.2722124 -25.427792, -49.272211 -25.4277889, -49.2722085 -25.4277864, -49.2722053 -25.4277848, -49.2722017 -25.4277843, -49.272198 -25.4277848, -49.2721949 -25.4277864, -49.2721925 -25.4277887, -49.272191 -25.4277917, -49.2721907 -25.4277949, -49.2721915 -25.427798, -49.2721934 -25.4278007, -49.2721961 -25.4278028, -49.2721994 -25.4278039, -49.272203 -25.4278041, -49.2722064 -25.4278032))",amenity,fountain
+292,,"POLYGON ((-49.2812076 -25.4534601, -49.2810619 -25.4535537, -49.2809429 -25.4533826, -49.2809947 -25.4533512, -49.2810165 -25.4533826, -49.2810489 -25.45336, -49.2810651 -25.4533855, -49.2810967 -25.4533658, -49.2811145 -25.4533899, -49.2811364 -25.453376, -49.2812076 -25.4534601))",amenity,fountain
+293,,"POLYGON ((-49.2683542 -25.4229429, -49.2683453 -25.4229381, -49.2683243 -25.4229351, -49.2683132 -25.4229324, -49.2682981 -25.4229224, -49.2682932 -25.4229096, -49.2682854 -25.422903, -49.2682738 -25.4228981, -49.2682639 -25.4228981, -49.2682528 -25.4229016, -49.2682451 -25.4229084, -49.2682354 -25.4229215, -49.2682317 -25.4229339, -49.2682314 -25.4229433, -49.2682354 -25.422956, -49.2682411 -25.4229642, -49.2682579 -25.4229702, -49.2682901 -25.422969, -49.2683024 -25.4229757, -49.2683189 -25.4229926, -49.2683334 -25.4229956, -49.2683491 -25.4229903, -49.2683564 -25.4229787, -49.2683602 -25.422972, -49.2683605 -25.4229605, -49.268359 -25.4229487, -49.2683542 -25.4229429))",amenity,fountain
+294,,"POLYGON ((-49.2726973 -25.4324127, -49.2726498 -25.4323823, -49.2726066 -25.4324375, -49.2726541 -25.4324678, -49.2726973 -25.4324127))",amenity,fountain
+295,,"POLYGON ((-49.2667608 -25.4371909, -49.2667744 -25.4371964, -49.2667893 -25.4371974, -49.2668038 -25.4371939, -49.266816 -25.4371862, -49.2668247 -25.4371753, -49.2668289 -25.4371623, -49.2668279 -25.4371488, -49.2668227 -25.4371374, -49.2668137 -25.4371279, -49.2668021 -25.4371215, -49.2667887 -25.4371186, -49.266775 -25.4371195, -49.2667624 -25.4371243, -49.2667519 -25.4371323, -49.2667448 -25.4371429, -49.2667415 -25.437156, -49.2667433 -25.4371694, -49.26675 -25.4371815, -49.2667608 -25.4371909))",amenity,fountain
+296,,"POLYGON ((-49.2859495 -25.4280517, -49.2857837 -25.4279896, -49.2856487 -25.428283, -49.2858145 -25.4283452, -49.2859495 -25.4280517))",amenity,fountain
+297,,"POLYGON ((-49.3328276 -25.4368456, -49.3328511 -25.4368432, -49.3328725 -25.4368341, -49.3328897 -25.4368194, -49.3329008 -25.4368006, -49.3329047 -25.4367796, -49.3329011 -25.4367585, -49.3328903 -25.4367395, -49.3328734 -25.4367246, -49.3328508 -25.4367149, -49.3328259 -25.4367127, -49.3328016 -25.436718, -49.3327807 -25.4367304, -49.3327656 -25.4367483, -49.332758 -25.4367698, -49.3327587 -25.4367924, -49.3327678 -25.4368134, -49.3327841 -25.4368305, -49.3328045 -25.4368413, -49.3328276 -25.4368456))",amenity,fountain
+298,,"POLYGON ((-49.2674969 -25.425236, -49.2674868 -25.425239, -49.2674795 -25.4252396, -49.2674753 -25.4252416, -49.2674752 -25.4252447, -49.2674892 -25.4252598, -49.2674983 -25.4252672, -49.2675133 -25.4252702, -49.2675297 -25.4252683, -49.2675404 -25.4252653, -49.2675554 -25.4252565, -49.2675613 -25.4252403, -49.2675607 -25.42523, -49.2675554 -25.4252176, -49.2675375 -25.4251984, -49.2675319 -25.4251977, -49.2675294 -25.4252028, -49.2675267 -25.4252073, -49.2675228 -25.4252164, -49.2675091 -25.4252302, -49.2674969 -25.425236))",amenity,fountain
+299,,"POLYGON ((-49.2675241 -25.4261593, -49.2675093 -25.4261708, -49.2674994 -25.4261861, -49.2674956 -25.4262034, -49.2674984 -25.4262209, -49.2675073 -25.4262367, -49.2675214 -25.4262489, -49.2675392 -25.4262563, -49.2675587 -25.426258, -49.2675774 -25.4262539, -49.2675937 -25.4262447, -49.2676058 -25.4262312, -49.2676125 -25.4262149, -49.267613 -25.4261976, -49.2676073 -25.426181, -49.267596 -25.426167, -49.2675803 -25.4261569, -49.2675619 -25.426152, -49.2675423 -25.4261528, -49.2675241 -25.4261593))",amenity,fountain
+300,,"POLYGON ((-49.3045566 -25.4521472, -49.3045258 -25.4521888, -49.3044862 -25.4521648, -49.304517 -25.4521233, -49.3045566 -25.4521472))",amenity,fountain
+301,,"POLYGON ((-49.2381183 -25.4425615, -49.2381187 -25.4425441, -49.2381131 -25.4425275, -49.2381022 -25.4425131, -49.238087 -25.4425025, -49.2380689 -25.4424966, -49.2380496 -25.442496, -49.2380311 -25.4425007, -49.2380151 -25.4425103, -49.238002 -25.4425256, -49.2379955 -25.442544, -49.2379962 -25.4425633, -49.2380041 -25.4425812, -49.2380182 -25.4425956, -49.238037 -25.4426049, -49.2380581 -25.4426079, -49.2380791 -25.4426043, -49.2380975 -25.4425945, -49.2381111 -25.4425796, -49.2381183 -25.4425615))",amenity,fountain
+302,,"POLYGON ((-49.3044754 -25.4520973, -49.304458 -25.4521136, -49.304447 -25.452134, -49.3044435 -25.4521564, -49.3044479 -25.4521787, -49.3044597 -25.4521987, -49.3044777 -25.4522144, -49.3045002 -25.4522244, -49.3045251 -25.4522275, -49.3045524 -25.4522227, -49.3045763 -25.4522097, -49.3045938 -25.4521902, -49.3046028 -25.4521664, -49.3046023 -25.4521413, -49.3045924 -25.4521178, -49.3045741 -25.4520989, -49.3045497 -25.4520867, -49.3045222 -25.4520828, -49.3044975 -25.4520867, -49.3044754 -25.4520973))",amenity,fountain
+303,Fonte de Jerusalém,"POLYGON ((-49.3044754 -25.4520973, -49.304458 -25.4521136, -49.304447 -25.452134, -49.3044435 -25.4521564, -49.3044479 -25.4521787, -49.3044597 -25.4521987, -49.3044777 -25.4522144, -49.3045002 -25.4522244, -49.3045251 -25.4522275, -49.3045524 -25.4522227, -49.3045763 -25.4522097, -49.3045938 -25.4521902, -49.3046028 -25.4521664, -49.3046023 -25.4521413, -49.3045924 -25.4521178, -49.3045741 -25.4520989, -49.3045497 -25.4520867, -49.3045222 -25.4520828, -49.3044975 -25.4520867, -49.3044754 -25.4520973))",amenity,fountain
+0,James Bar,POINT (-49.2815625 -25.4335441),amenity,nightclub
+1,Cat Club,POINT (-49.2730096 -25.4291245),amenity,nightclub
+2,Aoca Bar,POINT (-49.272085 -25.4266749),amenity,nightclub
+3,Gato Preto,POINT (-49.2756608 -25.4302485),amenity,nightclub
+4,Crossroads,POINT (-49.2836178 -25.4474031),amenity,nightclub
+5,Wonka,POINT (-49.2740452 -25.4243164),amenity,nightclub
+6,Peppers,POINT (-49.2763104 -25.4247969),amenity,nightclub
+7,Blood Rock Bar,POINT (-49.2768351 -25.4246196),amenity,nightclub
+8,El Mago Bar,POINT (-49.2744988 -25.428318),amenity,nightclub
+9,CLUB Vibe,POINT (-49.2872445 -25.4378096),amenity,nightclub
+10,,POINT (-49.2752862 -25.437846),amenity,nightclub
+11,,POINT (-49.2584214 -25.4456935),amenity,nightclub
+12,,POINT (-49.258294 -25.4456439),amenity,nightclub
+13,,POINT (-49.2582323 -25.4457892),amenity,nightclub
+14,,POINT (-49.2583624 -25.4458328),amenity,nightclub
+15,,POINT (-49.2640369 -25.4433986),amenity,nightclub
+16,,POINT (-49.2639598 -25.4433671),amenity,nightclub
+17,,POINT (-49.2639202 -25.4434489),amenity,nightclub
+18,,POINT (-49.263998 -25.4434786),amenity,nightclub
+19,,POINT (-49.2753545 -25.437708),amenity,nightclub
+20,,POINT (-49.2751296 -25.4376172),amenity,nightclub
+21,,POINT (-49.2750613 -25.4377552),amenity,nightclub
+22,,POINT (-49.2753247 -25.437768),amenity,nightclub
+23,Pulse,"POLYGON ((-49.2753545 -25.437708, -49.2751296 -25.4376172, -49.2750613 -25.4377552, -49.2752862 -25.437846, -49.2753247 -25.437768, -49.2753545 -25.437708))",amenity,nightclub
+24,Santo Anjo,"POLYGON ((-49.2640369 -25.4433986, -49.2639598 -25.4433671, -49.2639202 -25.4434489, -49.263998 -25.4434786, -49.2640369 -25.4433986))",amenity,nightclub
+25,Dobrucki,"POLYGON ((-49.2584214 -25.4456935, -49.258294 -25.4456439, -49.2582323 -25.4457892, -49.2583624 -25.4458328, -49.2584214 -25.4456935))",amenity,nightclub
+0,Planetário Colégio Estadual do Paraná,POINT (-49.2663994 -25.4230577),amenity,planetarium
+0,Associação de Esperanto do Paraná,POINT (-49.2683965 -25.4305709),amenity,social_centre
+1,Amigos da Caximba,POINT (-49.3567782 -25.6206788),amenity,social_centre
+2,,POINT (-49.2938408 -25.5698605),amenity,social_centre
+3,,POINT (-49.2941058 -25.5703207),amenity,social_centre
+4,,POINT (-49.2939074 -25.5704136),amenity,social_centre
+5,,POINT (-49.2937287 -25.5703599),amenity,social_centre
+6,,POINT (-49.2921224 -25.569728),amenity,social_centre
+7,,POINT (-49.2938826 -25.5697717),amenity,social_centre
+8,,POINT (-49.2931662 -25.5687927),amenity,social_centre
+9,,POINT (-49.2784333 -25.4269762),amenity,social_centre
+10,,POINT (-49.2786433 -25.4270562),amenity,social_centre
+11,,POINT (-49.2787228 -25.4268738),amenity,social_centre
+12,,POINT (-49.278514 -25.4267913),amenity,social_centre
+13,Sociedade Umbará,"POLYGON ((-49.2938408 -25.5698605, -49.2941058 -25.5703207, -49.2939074 -25.5704136, -49.2937287 -25.5703599, -49.2921224 -25.569728, -49.2931662 -25.5687927, -49.2938826 -25.5697717, -49.2938408 -25.5698605))",amenity,social_centre
+14,,"POLYGON ((-49.2784333 -25.4269762, -49.2786433 -25.4270562, -49.2787228 -25.4268738, -49.278514 -25.4267913, -49.2784333 -25.4269762))",amenity,social_centre
+0,,POINT (-49.2022866 -25.39525),amenity,studio
+1,,POINT (-49.2907086 -25.4055521),amenity,studio
+2,,POINT (-49.2897298 -25.4053074),amenity,studio
+3,,POINT (-49.290173 -25.4056273),amenity,studio
+4,,POINT (-49.2898728 -25.4054524),amenity,studio
+5,,POINT (-49.2909384 -25.4054302),amenity,studio
+6,,POINT (-49.2900933 -25.4056878),amenity,studio
+7,,POINT (-49.2903338 -25.4057957),amenity,studio
+8,,POINT (-49.2900908 -25.4043836),amenity,studio
+9,,POINT (-49.2904181 -25.4047567),amenity,studio
+10,,POINT (-49.2897054 -25.4040208),amenity,studio
+11,,POINT (-49.2890233 -25.4046404),amenity,studio
+12,,POINT (-49.2880439 -25.3987725),amenity,studio
+13,,POINT (-49.2874205 -25.3993787),amenity,studio
+14,,POINT (-49.2879792 -25.3999209),amenity,studio
+15,,POINT (-49.2869171 -25.3957586),amenity,studio
+16,,POINT (-49.2868836 -25.3959261),amenity,studio
+17,,POINT (-49.2868109 -25.3959181),amenity,studio
+18,,POINT (-49.2867049 -25.3957234),amenity,studio
+19,,POINT (-49.2867874 -25.395874),amenity,studio
+20,,POINT (-49.2866871 -25.3958448),amenity,studio
+21,Rede Massa,"POLYGON ((-49.2897054 -25.4040208, -49.2890233 -25.4046404, -49.2897298 -25.4053074, -49.2898728 -25.4054524, -49.2900933 -25.4056878, -49.290173 -25.4056273, -49.2903338 -25.4057957, -49.2907086 -25.4055521, -49.2909384 -25.4054302, -49.2904181 -25.4047567, -49.2900908 -25.4043836, -49.2897054 -25.4040208))",amenity,studio
+22,Band,"POLYGON ((-49.2880439 -25.3987725, -49.2874205 -25.3993787, -49.2879792 -25.3999209, -49.2880439 -25.3987725))",amenity,studio
+23,Rádio Transamérica,"POLYGON ((-49.2869171 -25.3957586, -49.2868836 -25.3959261, -49.2868109 -25.3959181, -49.2867874 -25.395874, -49.2866871 -25.3958448, -49.2867049 -25.3957234, -49.2869171 -25.3957586))",amenity,studio
+0,Teatro Positivo,POINT (-49.3563724 -25.446377),amenity,theatre
+1,Teatro Guairinha,POINT (-49.2645967 -25.4283154),amenity,theatre
+2,Teatro Fernanda Montenegro,POINT (-49.2836486 -25.4382244),amenity,theatre
+3,Teatro Sesc da Esquina,POINT (-49.2806783 -25.4303164),amenity,theatre
+4,Teatro Bradesco,POINT (-49.2739905 -25.4323067),amenity,theatre
+5,Teatro Novelas Curitibanas,POINT (-49.2772376 -25.4245535),amenity,theatre
+6,Teatro Universitário de Curitiba – TUC,POINT (-49.2721865 -25.4281839),amenity,theatre
+7,Teatro Regina Vogue,POINT (-49.2678835 -25.4387442),amenity,theatre
+8,Teatro Bom Jesus,POINT (-49.2735506 -25.4384712),amenity,theatre
+9,Teatro Cleon Jacques,POINT (-49.2672441 -25.3877206),amenity,theatre
+10,,POINT (-49.3052055 -25.4022177),amenity,theatre
+11,,POINT (-49.3051904 -25.4022421),amenity,theatre
+12,,POINT (-49.3050978 -25.4021953),amenity,theatre
+13,,POINT (-49.3051129 -25.402171),amenity,theatre
+14,,POINT (-49.2758432 -25.4466799),amenity,theatre
+15,,POINT (-49.2757163 -25.4468106),amenity,theatre
+16,,POINT (-49.2756322 -25.446955),amenity,theatre
+17,,POINT (-49.2754764 -25.4469438),amenity,theatre
+18,,POINT (-49.2753537 -25.446833),amenity,theatre
+19,,POINT (-49.2754143 -25.4466998),amenity,theatre
+20,,POINT (-49.2754543 -25.4465367),amenity,theatre
+21,,POINT (-49.2756639 -25.4465616),amenity,theatre
+22,,POINT (-49.2572787 -25.447682),amenity,theatre
+23,,POINT (-49.2574978 -25.4475731),amenity,theatre
+24,,POINT (-49.2574626 -25.4477048),amenity,theatre
+25,,POINT (-49.2574456 -25.4475195),amenity,theatre
+26,,POINT (-49.2574765 -25.4475425),amenity,theatre
+27,,POINT (-49.2573468 -25.4477265),amenity,theatre
+28,,POINT (-49.2572568 -25.4476088),amenity,theatre
+29,,POINT (-49.2575044 -25.4476442),amenity,theatre
+30,,POINT (-49.2573085 -25.4477095),amenity,theatre
+31,,POINT (-49.2574889 -25.4476775),amenity,theatre
+32,,POINT (-49.2573891 -25.4477309),amenity,theatre
+33,,POINT (-49.2572672 -25.4475715),amenity,theatre
+34,,POINT (-49.2572608 -25.4476471),amenity,theatre
+35,,POINT (-49.2575074 -25.4476082),amenity,theatre
+36,,POINT (-49.2572909 -25.4475394),amenity,theatre
+37,,POINT (-49.2574083 -25.4475065),amenity,theatre
+38,,POINT (-49.2574282 -25.4477232),amenity,theatre
+39,,POINT (-49.257325 -25.4475164),amenity,theatre
+40,,POINT (-49.2573657 -25.447505),amenity,theatre
+41,,POINT (-49.2574177 -25.4477252),amenity,theatre
+42,,POINT (-49.2722533 -25.4267338),amenity,theatre
+43,,POINT (-49.27197 -25.4267893),amenity,theatre
+44,,POINT (-49.2720149 -25.4270106),amenity,theatre
+45,,POINT (-49.2720314 -25.4270915),amenity,theatre
+46,,POINT (-49.2721959 -25.4271648),amenity,theatre
+47,,POINT (-49.2723486 -25.4271342),amenity,theatre
+48,,POINT (-49.2721721 -25.4270654),amenity,theatre
+49,,POINT (-49.2724938 -25.4267331),amenity,theatre
+50,,POINT (-49.2725566 -25.4270037),amenity,theatre
+51,,POINT (-49.2727693 -25.4269634),amenity,theatre
+52,,POINT (-49.2727065 -25.4266928),amenity,theatre
+53,,POINT (-49.2655857 -25.4280131),amenity,theatre
+54,,POINT (-49.2653728 -25.4285082),amenity,theatre
+55,,POINT (-49.2645393 -25.4282914),amenity,theatre
+56,,POINT (-49.2648087 -25.4276401),amenity,theatre
+57,,POINT (-49.2647237 -25.4278493),amenity,theatre
+58,,POINT (-49.2650496 -25.428275),amenity,theatre
+59,,POINT (-49.2655844 -25.4280479),amenity,theatre
+60,,POINT (-49.2649987 -25.4283828),amenity,theatre
+61,,POINT (-49.2654184 -25.4284452),amenity,theatre
+62,,POINT (-49.2655136 -25.4282781),amenity,theatre
+63,,POINT (-49.2651844 -25.4279589),amenity,theatre
+64,,POINT (-49.2646352 -25.4280673),amenity,theatre
+65,,POINT (-49.2655369 -25.4282853),amenity,theatre
+66,,POINT (-49.265571 -25.4281185),amenity,theatre
+67,,POINT (-49.2657115 -25.4281712),amenity,theatre
+68,,POINT (-49.2656796 -25.4282151),amenity,theatre
+69,,POINT (-49.2655529 -25.4281818),amenity,theatre
+70,,POINT (-49.2656555 -25.4282563),amenity,theatre
+71,,POINT (-49.265638 -25.4282999),amenity,theatre
+72,,POINT (-49.2656226 -25.4283465),amenity,theatre
+73,,POINT (-49.265464 -25.4283762),amenity,theatre
+74,,POINT (-49.2656159 -25.4283986),amenity,theatre
+75,,POINT (-49.2648659 -25.4276644),amenity,theatre
+76,,POINT (-49.2649608 -25.4277044),amenity,theatre
+77,,POINT (-49.2647023 -25.4283598),amenity,theatre
+78,,POINT (-49.2647291 -25.428295),amenity,theatre
+79,,POINT (-49.2655544 -25.4282911),amenity,theatre
+80,,POINT (-49.2655936 -25.4281944),amenity,theatre
+81,,POINT (-49.265236 -25.4278207),amenity,theatre
+82,,POINT (-49.2655264 -25.4283898),amenity,theatre
+83,,POINT (-49.265629 -25.4281185),amenity,theatre
+84,,POINT (-49.2619988 -25.4272833),amenity,theatre
+85,,POINT (-49.2619951 -25.4270414),amenity,theatre
+86,,POINT (-49.2620111 -25.4270118),amenity,theatre
+87,,POINT (-49.2618646 -25.4269612),amenity,theatre
+88,,POINT (-49.2618485 -25.4269926),amenity,theatre
+89,,POINT (-49.2616769 -25.4271646),amenity,theatre
+90,,POINT (-49.2617091 -25.4272034),amenity,theatre
+91,,POINT (-49.2617386 -25.4272252),amenity,theatre
+92,,POINT (-49.2617681 -25.4272494),amenity,theatre
+93,,POINT (-49.2618083 -25.4272664),amenity,theatre
+94,,POINT (-49.2618512 -25.4272833),amenity,theatre
+95,,POINT (-49.2619129 -25.4272954),amenity,theatre
+96,,POINT (-49.2619532 -25.4272979),amenity,theatre
+97,,POINT (-49.2619688 -25.4269968),amenity,theatre
+98,,POINT (-49.2618948 -25.4269712),amenity,theatre
+99,,POINT (-49.2384382 -25.4015301),amenity,theatre
+100,,POINT (-49.2387173 -25.4017146),amenity,theatre
+101,,POINT (-49.2384073 -25.4020981),amenity,theatre
+102,,POINT (-49.2381271 -25.4019142),amenity,theatre
+103,,POINT (-49.2383359 -25.4020529),amenity,theatre
+104,,POINT (-49.2763151 -25.3846472),amenity,theatre
+105,,POINT (-49.2763356 -25.3845409),amenity,theatre
+106,,POINT (-49.2762677 -25.3844364),amenity,theatre
+107,,POINT (-49.2762716 -25.3842707),amenity,theatre
+108,,POINT (-49.2759808 -25.384513),amenity,theatre
+109,,POINT (-49.2759806 -25.3846205),amenity,theatre
+110,,POINT (-49.2760533 -25.3847055),amenity,theatre
+111,,POINT (-49.2761684 -25.3847325),amenity,theatre
+112,,POINT (-49.2763163 -25.3844891),amenity,theatre
+113,,POINT (-49.2760585 -25.3842657),amenity,theatre
+114,,POINT (-49.2763352 -25.3845956),amenity,theatre
+115,,POINT (-49.2759708 -25.3845667),amenity,theatre
+116,,POINT (-49.2760091 -25.3846685),amenity,theatre
+117,,POINT (-49.276227 -25.3847194),amenity,theatre
+118,,POINT (-49.2761084 -25.3847277),amenity,theatre
+119,,POINT (-49.2760544 -25.384428),amenity,theatre
+120,,POINT (-49.2760097 -25.384465),amenity,theatre
+121,,POINT (-49.2762777 -25.3846899),amenity,theatre
+122,Teatro Guaíra,"POLYGON ((-49.2653728 -25.4285082, -49.2654184 -25.4284452, -49.265464 -25.4283762, -49.2655136 -25.4282781, -49.2655369 -25.4282853, -49.2655544 -25.4282911, -49.2655264 -25.4283898, -49.2656159 -25.4283986, -49.2656226 -25.4283465, -49.265638 -25.4282999, -49.2656555 -25.4282563, -49.2656796 -25.4282151, -49.2657115 -25.4281712, -49.265629 -25.4281185, -49.2655936 -25.4281944, -49.2655529 -25.4281818, -49.265571 -25.4281185, -49.2655844 -25.4280479, -49.2655857 -25.4280131, -49.2651844 -25.4279589, -49.265236 -25.4278207, -49.2649608 -25.4277044, -49.2648659 -25.4276644, -49.2648087 -25.4276401, -49.2647237 -25.4278493, -49.2646352 -25.4280673, -49.2645393 -25.4282914, -49.2645967 -25.4283154, -49.2647023 -25.4283598, -49.2647291 -25.428295, -49.2649987 -25.4283828, -49.2650496 -25.428275, -49.2653728 -25.4285082))",amenity,theatre
+123,Ópera de Arame,"POLYGON ((-49.2762777 -25.3846899, -49.2763151 -25.3846472, -49.2763352 -25.3845956, -49.2763356 -25.3845409, -49.2763163 -25.3844891, -49.2762677 -25.3844364, -49.2762716 -25.3842707, -49.2760585 -25.3842657, -49.2760544 -25.384428, -49.2760097 -25.384465, -49.2759808 -25.384513, -49.2759708 -25.3845667, -49.2759806 -25.3846205, -49.2760091 -25.3846685, -49.2760533 -25.3847055, -49.2761084 -25.3847277, -49.2761684 -25.3847325, -49.276227 -25.3847194, -49.2762777 -25.3846899))",amenity,theatre
+124,Teatro Paiol,"POLYGON ((-49.257325 -25.4475164, -49.2573657 -25.447505, -49.2574083 -25.4475065, -49.2574456 -25.4475195, -49.2574765 -25.4475425, -49.2574978 -25.4475731, -49.2575074 -25.4476082, -49.2575044 -25.4476442, -49.2574889 -25.4476775, -49.2574626 -25.4477048, -49.2574282 -25.4477232, -49.2574177 -25.4477252, -49.2573891 -25.4477309, -49.2573468 -25.4477265, -49.2573085 -25.4477095, -49.2572787 -25.447682, -49.2572608 -25.4476471, -49.2572568 -25.4476088, -49.2572672 -25.4475715, -49.2572909 -25.4475394, -49.257325 -25.4475164))",amenity,theatre
+125,,"POLYGON ((-49.2384382 -25.4015301, -49.2387173 -25.4017146, -49.2384073 -25.4020981, -49.2383359 -25.4020529, -49.2381271 -25.4019142, -49.2384382 -25.4015301))",amenity,theatre
+126,Teatro da Reitoria - UFPR,"POLYGON ((-49.2619988 -25.4272833, -49.2619951 -25.4270414, -49.2620111 -25.4270118, -49.2619688 -25.4269968, -49.2618948 -25.4269712, -49.2618646 -25.4269612, -49.2618485 -25.4269926, -49.2616769 -25.4271646, -49.2617091 -25.4272034, -49.2617386 -25.4272252, -49.2617681 -25.4272494, -49.2618083 -25.4272664, -49.2618512 -25.4272833, -49.2619129 -25.4272954, -49.2619532 -25.4272979, -49.2619988 -25.4272833))",amenity,theatre
+127,Teatro Lala Schneider,"POLYGON ((-49.2722533 -25.4267338, -49.27197 -25.4267893, -49.2720149 -25.4270106, -49.2720314 -25.4270915, -49.2721721 -25.4270654, -49.2721959 -25.4271648, -49.2723486 -25.4271342, -49.2722533 -25.4267338))",amenity,theatre
+128,,"POLYGON ((-49.3052055 -25.4022177, -49.3051904 -25.4022421, -49.3050978 -25.4021953, -49.3051129 -25.402171, -49.3052055 -25.4022177))",amenity,theatre
+129,,"POLYGON ((-49.2758432 -25.4466799, -49.2757163 -25.4468106, -49.2756322 -25.446955, -49.2754764 -25.4469438, -49.2753537 -25.446833, -49.2754143 -25.4466998, -49.2754543 -25.4465367, -49.2756639 -25.4465616, -49.2758432 -25.4466799))",amenity,theatre
+130,Teatro José Maria Santos,"POLYGON ((-49.2727065 -25.4266928, -49.2727693 -25.4269634, -49.2725566 -25.4270037, -49.2724938 -25.4267331, -49.2727065 -25.4266928))",amenity,theatre
+0,Venom Network Lan House,POINT (-49.2770965 -25.4316965),amenity,internet_cafe
+0,Escape 60',POINT (-49.2732768 -25.445705),leisure,adult_gaming_centre

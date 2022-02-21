@@ -1,0 +1,1479 @@
+,name,geom,key,value
+0,Condomínio Lujan,POINT (-49.2866783 -25.463663),tourism,apartment
+1,Ed. Easy Life Emiliano Perneta,POINT (-49.2781634 -25.4375678),tourism,apartment
+2,Edifício Itatiaia,POINT (-49.2650838 -25.4275401),tourism,apartment
+3,Botânica,POINT (-49.2405345 -25.4362404),tourism,apartment
+4,Casa do Chico,POINT (-49.2610881 -25.5157613),tourism,apartment
+5,Cidade Canção,POINT (-49.2900586 -25.4614216),tourism,apartment
+0,Aquario Nemo,POINT (-49.2626676 -25.4300554),tourism,aquarium
+1,,POINT (-49.2674728 -25.4252397),tourism,aquarium
+2,,POINT (-49.2674543 -25.4252368),tourism,aquarium
+3,,POINT (-49.2674812 -25.4251361),tourism,aquarium
+4,,POINT (-49.2674995 -25.4251413),tourism,aquarium
+5,,POINT (-49.2674378 -25.4252287),tourism,aquarium
+6,,POINT (-49.2674251 -25.4252162),tourism,aquarium
+7,,POINT (-49.2674176 -25.4252008),tourism,aquarium
+8,,POINT (-49.2674159 -25.4251839),tourism,aquarium
+9,,POINT (-49.2674203 -25.4251674),tourism,aquarium
+10,,POINT (-49.2674303 -25.4251531),tourism,aquarium
+11,,POINT (-49.2674449 -25.4251425),tourism,aquarium
+12,,POINT (-49.2674625 -25.4251366),tourism,aquarium
+13,,POINT (-49.2675257 -25.4251661),tourism,aquarium
+14,,POINT (-49.2675307 -25.4251828),tourism,aquarium
+15,,POINT (-49.2675293 -25.4252001),tourism,aquarium
+16,,POINT (-49.2675217 -25.425216),tourism,aquarium
+17,,POINT (-49.2675087 -25.4252288),tourism,aquarium
+18,,POINT (-49.2674917 -25.425237),tourism,aquarium
+19,,POINT (-49.267515 -25.4251517),tourism,aquarium
+20,Aquário do Passeio Público,"POLYGON ((-49.267515 -25.4251517, -49.2675257 -25.4251661, -49.2675307 -25.4251828, -49.2675293 -25.4252001, -49.2675217 -25.425216, -49.2675087 -25.4252288, -49.2674917 -25.425237, -49.2674728 -25.4252397, -49.2674543 -25.4252368, -49.2674378 -25.4252287, -49.2674251 -25.4252162, -49.2674176 -25.4252008, -49.2674159 -25.4251839, -49.2674203 -25.4251674, -49.2674303 -25.4251531, -49.2674449 -25.4251425, -49.2674625 -25.4251366, -49.2674812 -25.4251361, -49.2674995 -25.4251413, -49.267515 -25.4251517))",tourism,aquarium
+0,Escultura da Paz,POINT (-49.287503 -25.4462674),tourism,artwork
+1,,POINT (-49.2394723 -25.443001),tourism,artwork
+2,Amor Materno,POINT (-49.2389694 -25.4430434),tourism,artwork
+3,Fonte da Memória,POINT (-49.27386 -25.4274781),tourism,artwork
+4,Memorial a Nossa Senhora da Luz dos Pinhais,POINT (-49.2710255 -25.4280112),tourism,artwork
+5,Maria Lata D'Água,POINT (-49.2702998 -25.4297622),tourism,artwork
+6,Tiradentes,POINT (-49.2716245 -25.4299656),tourism,artwork
+7,Pedra Fundamental,POINT (-49.2712444 -25.4296739),tourism,artwork
+8,Getúlio Vargas,POINT (-49.2721166 -25.4298159),tourism,artwork
+9,Floriano Peixoto,POINT (-49.2720852 -25.4300103),tourism,artwork
+10,Vênus Curitibana,POINT (-49.2683032 -25.4229839),tourism,artwork
+11,O Semeador,POINT (-49.2664488 -25.4369121),tourism,artwork
+12,Amizade Brasil-Japão,POINT (-49.2935694 -25.4764405),tourism,artwork
+13,Manoel Ribas,POINT (-49.2795089 -25.4245106),tourism,artwork
+14,Mercado do Alarme,POINT (-49.2199483 -25.4146621),tourism,artwork
+15,Cond Araguaia,POINT (-49.2690434 -25.4659423),tourism,artwork
+16,Pizza Tavola,POINT (-49.2708709 -25.4738685),tourism,artwork
+17,Tavola,POINT (-49.2713018 -25.4739163),tourism,artwork
+18,Corbio,POINT (-49.2707926 -25.473843),tourism,artwork
+19,Vision Inf,POINT (-49.244056 -25.4649057),tourism,artwork
+20,APG,POINT (-49.2307856 -25.4929864),tourism,artwork
+21,Gralha Azul,POINT (-49.223539 -25.4838389),tourism,artwork
+22,Jacomar,POINT (-49.2243539 -25.4814291),tourism,artwork
+23,Rolpasa,POINT (-49.2233509 -25.4866357),tourism,artwork
+24,Júlia Wanderley,POINT (-49.266708 -25.4286412),tourism,artwork
+25,,POINT (-49.2723734 -25.4304522),tourism,artwork
+26,Homem Nu,POINT (-49.269925 -25.4248598),tourism,artwork
+27,,POINT (-49.2746254 -25.4275548),tourism,artwork
+28,Mural Largo da Ordem,POINT (-49.2723487 -25.4281085),tourism,artwork
+29,Mural Imagens da Cidade,POINT (-49.2717353 -25.4282607),tourism,artwork
+30,,POINT (-49.2742217 -25.432289),tourism,artwork
+31,Painel de Azulejos Rio Iguaçu,POINT (-49.2665615 -25.4129187),tourism,artwork
+32,Luar do Sertão,POINT (-49.2682842 -25.4165423),tourism,artwork
+33,Mural Paraná,POINT (-49.2683275 -25.4133664),tourism,artwork
+34,Mural Eclipse,POINT (-49.2742011 -25.430101),tourism,artwork
+35,Mulher Nua,POINT (-49.2699015 -25.4247838),tourism,artwork
+36,Arcos Coloridos,POINT (-49.2827966 -25.3980309),tourism,artwork
+37,,POINT (-49.2971904 -25.3941336),tourism,artwork
+38,,POINT (-49.2977818 -25.3993418),tourism,artwork
+39,Arte Urbana,POINT (-49.295042 -25.3934971),tourism,artwork
+40,Tigre Esmagando a Cobra,POINT (-49.3021009 -25.4153651),tourism,artwork
+41,Curitiba,POINT (-49.2874385 -25.4463483),tourism,artwork
+42,Engrenagem do Saber,POINT (-49.2692357 -25.4390511),tourism,artwork
+43,Grafiti por do sol,POINT (-49.279799 -25.4873424),tourism,artwork
+44,Busto de Carlos Gomes,POINT (-49.2706008 -25.4334347),tourism,artwork
+45,Palco no Bosque,POINT (-49.3429159 -25.4278725),tourism,artwork
+46,Big Flower mural,POINT (-49.2686751 -25.4284238),tourism,artwork
+47,,POINT (-49.277418 -25.425695),tourism,artwork
+48,,POINT (-49.2773726 -25.4257101),tourism,artwork
+49,,POINT (-49.2644255 -25.4285097),tourism,artwork
+50,,POINT (-49.2643257 -25.4287579),tourism,artwork
+51,,POINT (-49.2657115 -25.4281712),tourism,artwork
+52,,POINT (-49.2656796 -25.4282151),tourism,artwork
+53,,POINT (-49.2656555 -25.4282563),tourism,artwork
+54,,POINT (-49.265638 -25.4282999),tourism,artwork
+55,,POINT (-49.2656226 -25.4283465),tourism,artwork
+56,,POINT (-49.2656159 -25.4283986),tourism,artwork
+57,,POINT (-49.267819 -25.412997),tourism,artwork
+58,,POINT (-49.2678558 -25.412799),tourism,artwork
+59,,POINT (-49.2675793 -25.4127572),tourism,artwork
+60,,POINT (-49.2675426 -25.4129552),tourism,artwork
+61,,POINT (-49.2368497 -25.4010637),tourism,artwork
+62,,POINT (-49.2367901 -25.4010239),tourism,artwork
+63,,POINT (-49.2367329 -25.4010938),tourism,artwork
+64,,POINT (-49.2367926 -25.4011335),tourism,artwork
+65,Mapa do Paraná em alto relevo,"POLYGON ((-49.2678558 -25.412799, -49.267819 -25.412997, -49.2675426 -25.4129552, -49.2675793 -25.4127572, -49.2678558 -25.412799))",tourism,artwork
+66,Evolução das Artes Cênicas - O Teatro no Mundo,"POLYGON ((-49.2657115 -25.4281712, -49.2656796 -25.4282151, -49.2656555 -25.4282563, -49.265638 -25.4282999, -49.2656226 -25.4283465, -49.2656159 -25.4283986, -49.2657115 -25.4281712))",tourism,artwork
+67,DOM CINDACTA II,"POLYGON ((-49.2368497 -25.4010637, -49.2367901 -25.4010239, -49.2367329 -25.4010938, -49.2367926 -25.4011335, -49.2368497 -25.4010637))",tourism,artwork
+0,Parque Tanguá,POINT (-49.2814213 -25.378747),tourism,attraction
+1,Memorial Ucraniano,POINT (-49.3047846 -25.4023587),tourism,attraction
+2,Armazém Santa Ana,POINT (-49.2244809 -25.4815936),tourism,attraction
+3,Universidade Livre do Meio Ambiente,POINT (-49.2835169 -25.3972267),tourism,attraction
+4,Pedreira Paulo Leminski,POINT (-49.2772395 -25.3843648),tourism,attraction
+5,Casa dos Arcos,POINT (-49.3287471 -25.4040487),tourism,attraction
+6,Casa das Pinturas,POINT (-49.3247977 -25.4071862),tourism,attraction
+7,Casa dos Gerânios,POINT (-49.319679 -25.4117643),tourism,attraction
+8,NeXT Level Academy,POINT (-49.3424151 -25.405422),tourism,attraction
+9,Fábrica de Fitas Venske,POINT (-49.2578922 -25.4291498),tourism,attraction
+10,Big baile,POINT (-49.274519 -25.4959088),tourism,attraction
+11,,POINT (-49.2699788 -25.4003021),tourism,attraction
+12,Portal Passeio Público,POINT (-49.2684809 -25.4263099),tourism,attraction
+13,Estátua do Groot,POINT (-49.2699673 -25.4002614),tourism,attraction
+14,Vale do Pinhão,POINT (-49.2623113 -25.4424023),tourism,attraction
+15,Mural,POINT (-49.255087 -25.4133907),tourism,attraction
+16,Dormitório Estudantil em Curitiba,POINT (-49.2534916 -25.4348324),tourism,attraction
+17,,POINT (-49.3069192 -25.4525519),tourism,attraction
+18,Curitiba,POINT (-49.2562661 -25.4374349),tourism,attraction
+19,Baldwin 4-4-0,POINT (-49.2657402 -25.437606),tourism,attraction
+20,,POINT (-49.2907653 -25.5069169),tourism,attraction
+21,,POINT (-49.2907291 -25.5069363),tourism,attraction
+22,,POINT (-49.2907023 -25.506969),tourism,attraction
+23,,POINT (-49.2906956 -25.5069907),tourism,attraction
+24,,POINT (-49.2906942 -25.5070246),tourism,attraction
+25,,POINT (-49.2907076 -25.5070718),tourism,attraction
+26,,POINT (-49.2907318 -25.5071166),tourism,attraction
+27,,POINT (-49.290776 -25.5071396),tourism,attraction
+28,,POINT (-49.2908136 -25.5071493),tourism,attraction
+29,,POINT (-49.2908485 -25.5071493),tourism,attraction
+30,,POINT (-49.2908833 -25.5071445),tourism,attraction
+31,,POINT (-49.2909276 -25.5071287),tourism,attraction
+32,,POINT (-49.2909584 -25.5071009),tourism,attraction
+33,,POINT (-49.2909718 -25.5070743),tourism,attraction
+34,,POINT (-49.2909852 -25.5070404),tourism,attraction
+35,,POINT (-49.290992 -25.5069895),tourism,attraction
+36,,POINT (-49.2909879 -25.5069641),tourism,attraction
+37,,POINT (-49.2909705 -25.5069351),tourism,attraction
+38,,POINT (-49.290937 -25.5069096),tourism,attraction
+39,,POINT (-49.2908927 -25.5068975),tourism,attraction
+40,,POINT (-49.2908324 -25.5068903),tourism,attraction
+41,,POINT (-49.2869224 -25.4453613),tourism,attraction
+42,,POINT (-49.2879724 -25.4458292),tourism,attraction
+43,,POINT (-49.2879908 -25.4459426),tourism,attraction
+44,,POINT (-49.2878619 -25.4461186),tourism,attraction
+45,,POINT (-49.2875379 -25.4462574),tourism,attraction
+46,,POINT (-49.2868566 -25.4460094),tourism,attraction
+47,,POINT (-49.286604 -25.4452394),tourism,attraction
+48,,POINT (-49.2867836 -25.4458359),tourism,attraction
+49,,POINT (-49.2867097 -25.445371),tourism,attraction
+50,,POINT (-49.2868026 -25.4459311),tourism,attraction
+51,,POINT (-49.287088 -25.4462281),tourism,attraction
+52,,POINT (-49.2876442 -25.4462584),tourism,attraction
+53,,POINT (-49.2873294 -25.4462513),tourism,attraction
+54,,POINT (-49.287691 -25.4462181),tourism,attraction
+55,,POINT (-49.2879041 -25.446061),tourism,attraction
+56,,POINT (-49.2872408 -25.4462431),tourism,attraction
+57,,POINT (-49.2880128 -25.4458763),tourism,attraction
+58,,POINT (-49.2860753 -25.4425863),tourism,attraction
+59,,POINT (-49.2859159 -25.442961),tourism,attraction
+60,,POINT (-49.2854724 -25.4427858),tourism,attraction
+61,,POINT (-49.2856435 -25.4424156),tourism,attraction
+62,,POINT (-49.2857001 -25.4424372),tourism,attraction
+63,,POINT (-49.2857754 -25.4422405),tourism,attraction
+64,,POINT (-49.285811 -25.4422155),tourism,attraction
+65,,POINT (-49.2858565 -25.442219),tourism,attraction
+66,,POINT (-49.2860308 -25.4422852),tourism,attraction
+67,,POINT (-49.2860684 -25.4422995),tourism,attraction
+68,,POINT (-49.2860862 -25.4423209),tourism,attraction
+69,,POINT (-49.2860914 -25.4423453),tourism,attraction
+70,,POINT (-49.2860887 -25.4423696),tourism,attraction
+71,,POINT (-49.2860704 -25.4423907),tourism,attraction
+72,,POINT (-49.2860525 -25.4423942),tourism,attraction
+73,,POINT (-49.2860163 -25.4424737),tourism,attraction
+74,,POINT (-49.2860387 -25.4424819),tourism,attraction
+75,,POINT (-49.2860043 -25.4425645),tourism,attraction
+76,,POINT (-49.3306265 -25.4024769),tourism,attraction
+77,,POINT (-49.3304954 -25.4022476),tourism,attraction
+78,,POINT (-49.3305332 -25.4022896),tourism,attraction
+79,,POINT (-49.3303205 -25.402341),tourism,attraction
+80,,POINT (-49.3302588 -25.4022526),tourism,attraction
+81,,POINT (-49.3303835 -25.4021812),tourism,attraction
+82,,POINT (-49.3303342 -25.4023655),tourism,attraction
+83,,POINT (-49.3305327 -25.4022734),tourism,attraction
+84,,POINT (-49.3305005 -25.4021547),tourism,attraction
+85,,POINT (-49.3304034 -25.4022086),tourism,attraction
+86,,POINT (-49.3303256 -25.4023079),tourism,attraction
+87,,POINT (-49.3303716 -25.4023776),tourism,attraction
+88,,POINT (-49.3304904 -25.4025567),tourism,attraction
+89,,POINT (-49.3305146 -25.4023079),tourism,attraction
+90,,POINT (-49.3303075 -25.4023173),tourism,attraction
+91,,POINT (-49.3305511 -25.4022151),tourism,attraction
+92,,POINT (-49.2572787 -25.447682),tourism,attraction
+93,,POINT (-49.2574978 -25.4475731),tourism,attraction
+94,,POINT (-49.2574626 -25.4477048),tourism,attraction
+95,,POINT (-49.2574456 -25.4475195),tourism,attraction
+96,,POINT (-49.2574765 -25.4475425),tourism,attraction
+97,,POINT (-49.2573468 -25.4477265),tourism,attraction
+98,,POINT (-49.2572568 -25.4476088),tourism,attraction
+99,,POINT (-49.2575044 -25.4476442),tourism,attraction
+100,,POINT (-49.2573085 -25.4477095),tourism,attraction
+101,,POINT (-49.2574889 -25.4476775),tourism,attraction
+102,,POINT (-49.2573891 -25.4477309),tourism,attraction
+103,,POINT (-49.2572672 -25.4475715),tourism,attraction
+104,,POINT (-49.2572608 -25.4476471),tourism,attraction
+105,,POINT (-49.2575074 -25.4476082),tourism,attraction
+106,,POINT (-49.2572909 -25.4475394),tourism,attraction
+107,,POINT (-49.2574083 -25.4475065),tourism,attraction
+108,,POINT (-49.2574282 -25.4477232),tourism,attraction
+109,,POINT (-49.257325 -25.4475164),tourism,attraction
+110,,POINT (-49.2573657 -25.447505),tourism,attraction
+111,,POINT (-49.2574177 -25.4477252),tourism,attraction
+112,,POINT (-49.238259 -25.4429654),tourism,attraction
+113,,POINT (-49.2381406 -25.4432273),tourism,attraction
+114,,POINT (-49.2382864 -25.4430108),tourism,attraction
+115,,POINT (-49.2382973 -25.4431576),tourism,attraction
+116,,POINT (-49.238282 -25.4432133),tourism,attraction
+117,,POINT (-49.2382596 -25.4432343),tourism,attraction
+118,,POINT (-49.2382307 -25.4432471),tourism,attraction
+119,,POINT (-49.2381987 -25.4432503),tourism,attraction
+120,,POINT (-49.2381674 -25.4432434),tourism,attraction
+121,,POINT (-49.2381132 -25.4431814),tourism,attraction
+122,,POINT (-49.2381052 -25.4430066),tourism,attraction
+123,,POINT (-49.238118 -25.44298),tourism,attraction
+124,,POINT (-49.2381402 -25.4429589),tourism,attraction
+125,,POINT (-49.2381689 -25.4429459),tourism,attraction
+126,,POINT (-49.2382009 -25.4429426),tourism,attraction
+127,,POINT (-49.2382322 -25.4429494),tourism,attraction
+128,,POINT (-49.238295 -25.4431867),tourism,attraction
+129,,POINT (-49.2382896 -25.4430534),tourism,attraction
+130,,POINT (-49.2382919 -25.4430857),tourism,attraction
+131,,POINT (-49.2796111 -25.4370757),tourism,attraction
+132,,POINT (-49.2794588 -25.4372139),tourism,attraction
+133,,POINT (-49.279431 -25.437189),tourism,attraction
+134,,POINT (-49.2795832 -25.437051),tourism,attraction
+135,,POINT (-49.2583877 -25.4288908),tourism,attraction
+136,,POINT (-49.2583825 -25.4288981),tourism,attraction
+137,,POINT (-49.2584136 -25.4289022),tourism,attraction
+138,,POINT (-49.2583994 -25.4289089),tourism,attraction
+139,,POINT (-49.25844 -25.428912),tourism,attraction
+140,,POINT (-49.2584171 -25.4289157),tourism,attraction
+141,,POINT (-49.2584371 -25.4289203),tourism,attraction
+142,,POINT (-49.2583319 -25.4289307),tourism,attraction
+143,,POINT (-49.2583858 -25.4289336),tourism,attraction
+144,,POINT (-49.258331 -25.4289369),tourism,attraction
+145,,POINT (-49.258405 -25.428941),tourism,attraction
+146,,POINT (-49.2583751 -25.4289607),tourism,attraction
+147,,POINT (-49.258389 -25.4289659),tourism,attraction
+148,,POINT (-49.2583678 -25.4289744),tourism,attraction
+149,,POINT (-49.2584423 -25.4289762),tourism,attraction
+150,,POINT (-49.2583815 -25.4289804),tourism,attraction
+151,,POINT (-49.2584377 -25.4289809),tourism,attraction
+152,,POINT (-49.2685197 -25.4233846),tourism,attraction
+153,,POINT (-49.2684307 -25.4234559),tourism,attraction
+154,,POINT (-49.2683532 -25.4233774),tourism,attraction
+155,,POINT (-49.2684415 -25.4233062),tourism,attraction
+156,Praça do Japão,"POLYGON ((-49.2869224 -25.4453613, -49.2879724 -25.4458292, -49.2880128 -25.4458763, -49.2879908 -25.4459426, -49.2879041 -25.446061, -49.2878619 -25.4461186, -49.287691 -25.4462181, -49.2876442 -25.4462584, -49.2875379 -25.4462574, -49.2873294 -25.4462513, -49.2872408 -25.4462431, -49.287088 -25.4462281, -49.2868566 -25.4460094, -49.2868026 -25.4459311, -49.2867836 -25.4458359, -49.2867097 -25.445371, -49.286604 -25.4452394, -49.2869224 -25.4453613))",tourism,attraction
+157,Paróquia São José Santa Felicidade,"POLYGON ((-49.3304904 -25.4025567, -49.3306265 -25.4024769, -49.3305146 -25.4023079, -49.3305332 -25.4022896, -49.3305327 -25.4022734, -49.3304954 -25.4022476, -49.3305511 -25.4022151, -49.3305005 -25.4021547, -49.3304034 -25.4022086, -49.3303835 -25.4021812, -49.3302588 -25.4022526, -49.3303075 -25.4023173, -49.3303256 -25.4023079, -49.3303205 -25.402341, -49.3303342 -25.4023655, -49.3303716 -25.4023776, -49.3304904 -25.4025567))",tourism,attraction
+158,Teatro Paiol,"POLYGON ((-49.257325 -25.4475164, -49.2573657 -25.447505, -49.2574083 -25.4475065, -49.2574456 -25.4475195, -49.2574765 -25.4475425, -49.2574978 -25.4475731, -49.2575074 -25.4476082, -49.2575044 -25.4476442, -49.2574889 -25.4476775, -49.2574626 -25.4477048, -49.2574282 -25.4477232, -49.2574177 -25.4477252, -49.2573891 -25.4477309, -49.2573468 -25.4477265, -49.2573085 -25.4477095, -49.2572787 -25.447682, -49.2572608 -25.4476471, -49.2572568 -25.4476088, -49.2572672 -25.4475715, -49.2572909 -25.4475394, -49.257325 -25.4475164))",tourism,attraction
+159,P-47D Thunderbolt,"POLYGON ((-49.2584136 -25.4289022, -49.2583877 -25.4288908, -49.2583825 -25.4288981, -49.2583994 -25.4289089, -49.2583858 -25.4289336, -49.2583319 -25.4289307, -49.258331 -25.4289369, -49.2583751 -25.4289607, -49.2583678 -25.4289744, -49.2583815 -25.4289804, -49.258389 -25.4289659, -49.2584377 -25.4289809, -49.2584423 -25.4289762, -49.258405 -25.428941, -49.2584171 -25.4289157, -49.2584371 -25.4289203, -49.25844 -25.428912, -49.2584136 -25.4289022))",tourism,attraction
+160,Memorial Árabe,"POLYGON ((-49.2685197 -25.4233846, -49.2684307 -25.4234559, -49.2683532 -25.4233774, -49.2684415 -25.4233062, -49.2685197 -25.4233846))",tourism,attraction
+161,Castelo do Batel,"POLYGON ((-49.2860753 -25.4425863, -49.2859159 -25.442961, -49.2854724 -25.4427858, -49.2856435 -25.4424156, -49.2857001 -25.4424372, -49.2857754 -25.4422405, -49.285811 -25.4422155, -49.2858565 -25.442219, -49.2860308 -25.4422852, -49.2860684 -25.4422995, -49.2860862 -25.4423209, -49.2860914 -25.4423453, -49.2860887 -25.4423696, -49.2860704 -25.4423907, -49.2860525 -25.4423942, -49.2860163 -25.4424737, -49.2860387 -25.4424819, -49.2860043 -25.4425645, -49.2860753 -25.4425863))",tourism,attraction
+162,,"POLYGON ((-49.2908324 -25.5068903, -49.2908927 -25.5068975, -49.290937 -25.5069096, -49.2909705 -25.5069351, -49.2909879 -25.5069641, -49.290992 -25.5069895, -49.2909852 -25.5070404, -49.2909718 -25.5070743, -49.2909584 -25.5071009, -49.2909276 -25.5071287, -49.2908833 -25.5071445, -49.2908485 -25.5071493, -49.2908136 -25.5071493, -49.290776 -25.5071396, -49.2907318 -25.5071166, -49.2907076 -25.5070718, -49.2906942 -25.5070246, -49.2906956 -25.5069907, -49.2907023 -25.506969, -49.2907291 -25.5069363, -49.2907653 -25.5069169, -49.2908324 -25.5068903))",tourism,attraction
+163,Museu Coronel David Carneiro,"POLYGON ((-49.2795832 -25.437051, -49.279431 -25.437189, -49.2794588 -25.4372139, -49.2796111 -25.4370757, -49.2795832 -25.437051))",tourism,attraction
+164,,"POLYGON ((-49.2381132 -25.4431814, -49.2381052 -25.4430066, -49.238118 -25.44298, -49.2381402 -25.4429589, -49.2381689 -25.4429459, -49.2382009 -25.4429426, -49.2382322 -25.4429494, -49.238259 -25.4429654, -49.2382864 -25.4430108, -49.2382896 -25.4430534, -49.2382919 -25.4430857, -49.2382973 -25.4431576, -49.238295 -25.4431867, -49.238282 -25.4432133, -49.2382596 -25.4432343, -49.2382307 -25.4432471, -49.2381987 -25.4432503, -49.2381674 -25.4432434, -49.2381406 -25.4432273, -49.2381132 -25.4431814))",tourism,attraction
+165,Estufa Jardim Botânico,"POLYGON ((-49.2381132 -25.4431814, -49.2381052 -25.4430066, -49.238118 -25.44298, -49.2381402 -25.4429589, -49.2381689 -25.4429459, -49.2382009 -25.4429426, -49.2382322 -25.4429494, -49.238259 -25.4429654, -49.2382864 -25.4430108, -49.2382896 -25.4430534, -49.2382919 -25.4430857, -49.2382973 -25.4431576, -49.238295 -25.4431867, -49.238282 -25.4432133, -49.2382596 -25.4432343, -49.2382307 -25.4432471, -49.2381987 -25.4432503, -49.2381674 -25.4432434, -49.2381406 -25.4432273, -49.2381132 -25.4431814))",tourism,attraction
+0,Só Trailers Curitiba PR,POINT (-49.2174054 -25.4149658),tourism,camp_site
+1,Curitiba - Só Trailer,POINT (-49.2173821 -25.4149734),tourism,camp_site
+0,Casa da família Pires,POINT (-49.327103 -25.5869215),tourism,chalet
+0,,POINT (-49.2377431 -25.4431881),tourism,gallery
+1,,POINT (-49.2378505 -25.4431684),tourism,gallery
+2,,POINT (-49.2377715 -25.4429452),tourism,gallery
+3,,POINT (-49.2381628 -25.4426964),tourism,gallery
+4,,POINT (-49.2381036 -25.4427032),tourism,gallery
+5,,POINT (-49.2378644 -25.4428198),tourism,gallery
+6,,POINT (-49.2378823 -25.4434119),tourism,gallery
+7,,POINT (-49.238151 -25.4434229),tourism,gallery
+8,,POINT (-49.2380064 -25.4428407),tourism,gallery
+9,,POINT (-49.2379458 -25.442885),tourism,gallery
+10,,POINT (-49.2382615 -25.4435155),tourism,gallery
+11,,POINT (-49.237872 -25.4429844),tourism,gallery
+12,,POINT (-49.238005 -25.4434847),tourism,gallery
+13,,POINT (-49.2381371 -25.4435176),tourism,gallery
+14,,POINT (-49.2381818 -25.4427911),tourism,gallery
+15,,POINT (-49.2380517 -25.4433977),tourism,gallery
+16,,POINT (-49.2377361 -25.4430719),tourism,gallery
+17,,POINT (-49.2377958 -25.4433146),tourism,gallery
+18,,POINT (-49.2382563 -25.4434207),tourism,gallery
+19,,POINT (-49.2379501 -25.4427577),tourism,gallery
+20,,POINT (-49.2378913 -25.443267),tourism,gallery
+21,,POINT (-49.2381274 -25.4427969),tourism,gallery
+22,,POINT (-49.2379567 -25.443341),tourism,gallery
+23,,POINT (-49.2378454 -25.4430811),tourism,gallery
+24,,POINT (-49.2379008 -25.4426902),tourism,gallery
+25,,POINT (-49.2379716 -25.4426612),tourism,gallery
+26,,POINT (-49.2380102 -25.4427293),tourism,gallery
+27,,POINT (-49.2377892 -25.4427726),tourism,gallery
+28,,POINT (-49.2382594 -25.4434648),tourism,gallery
+29,,POINT (-49.2381717 -25.4427456),tourism,gallery
+30,,POINT (-49.2378413 -25.4427262),tourism,gallery
+31,,POINT (-49.2380674 -25.4428127),tourism,gallery
+32,,POINT (-49.2378107 -25.4428797),tourism,gallery
+33,,POINT (-49.237902 -25.4429338),tourism,gallery
+34,,POINT (-49.237748 -25.443008),tourism,gallery
+35,,POINT (-49.2377351 -25.4431313),tourism,gallery
+36,,POINT (-49.2377627 -25.4432511),tourism,gallery
+37,,POINT (-49.2378316 -25.4433624),tourism,gallery
+38,,POINT (-49.2379384 -25.4434515),tourism,gallery
+39,,POINT (-49.2380669 -25.4435049),tourism,gallery
+40,,POINT (-49.2381979 -25.4435204),tourism,gallery
+41,,POINT (-49.2719698 -25.4278332),tourism,gallery
+42,,POINT (-49.2718442 -25.427861),tourism,gallery
+43,,POINT (-49.2719554 -25.4277802),tourism,gallery
+44,,POINT (-49.2718154 -25.4277551),tourism,gallery
+45,,POINT (-49.2719411 -25.4277273),tourism,gallery
+46,Espaço Cultural Frans Krajcberg,"POLYGON ((-49.2381628 -25.4426964, -49.2381717 -25.4427456, -49.2381818 -25.4427911, -49.2381274 -25.4427969, -49.2380674 -25.4428127, -49.2380064 -25.4428407, -49.2379458 -25.442885, -49.237902 -25.4429338, -49.237872 -25.4429844, -49.2378454 -25.4430811, -49.2378505 -25.4431684, -49.2378913 -25.443267, -49.2379567 -25.443341, -49.2380517 -25.4433977, -49.238151 -25.4434229, -49.2382563 -25.4434207, -49.2382594 -25.4434648, -49.2382615 -25.4435155, -49.2381979 -25.4435204, -49.2381371 -25.4435176, -49.2380669 -25.4435049, -49.238005 -25.4434847, -49.2379384 -25.4434515, -49.2378823 -25.4434119, -49.2378316 -25.4433624, -49.2377958 -25.4433146, -49.2377627 -25.4432511, -49.2377431 -25.4431881, -49.2377351 -25.4431313, -49.2377361 -25.4430719, -49.237748 -25.443008, -49.2377715 -25.4429452, -49.2378107 -25.4428797, -49.2378644 -25.4428198, -49.2379501 -25.4427577, -49.2380102 -25.4427293, -49.2381036 -25.4427032, -49.2381628 -25.4426964))",tourism,gallery
+47,Café Escola,"POLYGON ((-49.2380102 -25.4427293, -49.2379716 -25.4426612, -49.2379008 -25.4426902, -49.2378413 -25.4427262, -49.2377892 -25.4427726, -49.2378644 -25.4428198, -49.2379501 -25.4427577, -49.2380102 -25.4427293))",tourism,gallery
+48,Casa Romário Martins,"POLYGON ((-49.2719411 -25.4277273, -49.2718154 -25.4277551, -49.2718442 -25.427861, -49.2719698 -25.4278332, -49.2719554 -25.4277802, -49.2719411 -25.4277273))",tourism,gallery
+0,Villa Tata,POINT (-49.2511417 -25.4196803),tourism,guest_house
+1,,POINT (-49.294213 -25.4707408),tourism,guest_house
+2,Pensionato Jardins,POINT (-49.232419 -25.4551811),tourism,guest_house
+3,,POINT (-49.3634117 -25.4313751),tourism,guest_house
+4,,POINT (-49.3637745 -25.4314083),tourism,guest_house
+5,,POINT (-49.3637735 -25.4312009),tourism,guest_house
+6,,POINT (-49.3637484 -25.4307219),tourism,guest_house
+7,,POINT (-49.363446 -25.4307177),tourism,guest_house
+8,Pousada dos Sonhos,"POLYGON ((-49.3637484 -25.4307219, -49.363446 -25.4307177, -49.3634117 -25.4313751, -49.3637745 -25.4314083, -49.3637735 -25.4312009, -49.3637484 -25.4307219))",tourism,guest_house
+0,Curitiba Eco Hostel,POINT (-49.3368729 -25.458937),tourism,hostel
+1,Curitiba Hostel,POINT (-49.2725319 -25.4276924),tourism,hostel
+2,Curitiba Casa Hostel,POINT (-49.2454763 -25.4381461),tourism,hostel
+3,Barigui Eco Hostel,POINT (-49.3023784 -25.4422854),tourism,hostel
+4,knock knock hostel,POINT (-49.2848971 -25.4239665),tourism,hostel
+5,Hospedagem da Ziza,POINT (-49.2858553 -25.5394736),tourism,hostel
+6,Hotel Ouro Preto,POINT (-49.2662934 -25.4321702),tourism,hostel
+7,,POINT (-49.2771053 -25.4435383),tourism,hostel
+8,,POINT (-49.2769063 -25.4437717),tourism,hostel
+9,,POINT (-49.276971 -25.4437989),tourism,hostel
+10,,POINT (-49.2770406 -25.4435111),tourism,hostel
+11,,POINT (-49.2716773 -25.4265952),tourism,hostel
+12,,POINT (-49.2715423 -25.4266187),tourism,hostel
+13,,POINT (-49.2715765 -25.4267696),tourism,hostel
+14,,POINT (-49.2717116 -25.4267454),tourism,hostel
+15,,POINT (-49.2716275 -25.42676),tourism,hostel
+16,,POINT (-49.2641566 -25.4365307),tourism,hostel
+17,,POINT (-49.2642875 -25.4362675),tourism,hostel
+18,,POINT (-49.2640551 -25.4364895),tourism,hostel
+19,,POINT (-49.264185 -25.4362256),tourism,hostel
+20,,POINT (-49.2659337 -25.4369624),tourism,hostel
+21,,POINT (-49.2655496 -25.4368178),tourism,hostel
+22,,POINT (-49.2656406 -25.4366205),tourism,hostel
+23,,POINT (-49.2660248 -25.4367651),tourism,hostel
+24,,POINT (-49.2659793 -25.4368638),tourism,hostel
+25,,POINT (-49.2641212 -25.4363552),tourism,hostel
+26,,POINT (-49.2608643 -25.4273681),tourism,hostel
+27,,POINT (-49.2609558 -25.4274057),tourism,hostel
+28,,POINT (-49.2610036 -25.4273082),tourism,hostel
+29,,POINT (-49.2609109 -25.4272731),tourism,hostel
+30,,POINT (-49.2749106 -25.4183569),tourism,hostel
+31,,POINT (-49.2747101 -25.4183655),tourism,hostel
+32,,POINT (-49.2747154 -25.4184676),tourism,hostel
+33,,POINT (-49.2749159 -25.418459),tourism,hostel
+34,,POINT (-49.2747125 -25.4184117),tourism,hostel
+35,,POINT (-49.2565235 -25.4351436),tourism,hostel
+36,,POINT (-49.2564451 -25.4351457),tourism,hostel
+37,,POINT (-49.2548716 -25.4354291),tourism,hostel
+38,,POINT (-49.2547499 -25.4354331),tourism,hostel
+39,,POINT (-49.2548749 -25.4355132),tourism,hostel
+40,,POINT (-49.2547532 -25.4355172),tourism,hostel
+41,,POINT (-49.2565346 -25.4354695),tourism,hostel
+42,,POINT (-49.2564562 -25.4354716),tourism,hostel
+43,Che Lagarto Suites,"POLYGON ((-49.2771053 -25.4435383, -49.2770406 -25.4435111, -49.2769063 -25.4437717, -49.276971 -25.4437989, -49.2771053 -25.4435383))",tourism,hostel
+44,Piemont,"POLYGON ((-49.2642875 -25.4362675, -49.2641566 -25.4365307, -49.2640551 -25.4364895, -49.2641212 -25.4363552, -49.264185 -25.4362256, -49.2642875 -25.4362675))",tourism,hostel
+45,Hostel Roma,"POLYGON ((-49.2659337 -25.4369624, -49.2655496 -25.4368178, -49.2656406 -25.4366205, -49.2660248 -25.4367651, -49.2659793 -25.4368638, -49.2659337 -25.4369624))",tourism,hostel
+46,Curitiba Backpackers,"POLYGON ((-49.2749106 -25.4183569, -49.2747101 -25.4183655, -49.2747125 -25.4184117, -49.2747154 -25.4184676, -49.2749159 -25.418459, -49.2749106 -25.4183569))",tourism,hostel
+47,Matilda Hostel,"POLYGON ((-49.2716773 -25.4265952, -49.2715423 -25.4266187, -49.2715765 -25.4267696, -49.2716275 -25.42676, -49.2717116 -25.4267454, -49.2716773 -25.4265952))",tourism,hostel
+48,Marcopolo,"POLYGON ((-49.2548716 -25.4354291, -49.2547499 -25.4354331, -49.2547532 -25.4355172, -49.2548749 -25.4355132, -49.2548716 -25.4354291))",tourism,hostel
+49,Maia,"POLYGON ((-49.2565235 -25.4351436, -49.2564451 -25.4351457, -49.2564562 -25.4354716, -49.2565346 -25.4354695, -49.2565235 -25.4351436))",tourism,hostel
+50,Expresso Curitiba,"POLYGON ((-49.2609109 -25.4272731, -49.2608643 -25.4273681, -49.2609558 -25.4274057, -49.2610036 -25.4273082, -49.2609109 -25.4272731))",tourism,hostel
+0,Ibis,POINT (-49.2711819 -25.4244592),tourism,hotel
+1,Bourbon Batel Express,POINT (-49.2877456 -25.4445374),tourism,hotel
+2,Ibis Curitiba Batel,POINT (-49.2817402 -25.4382537),tourism,hotel
+3,Hotel Itamaraty,POINT (-49.2574008 -25.435398),tourism,hotel
+4,Hotel Aruba,POINT (-49.2609131 -25.4335511),tourism,hotel
+5,Millenium,POINT (-49.2618521 -25.4326273),tourism,hotel
+6,Hotel Torres de Galli,POINT (-49.2280033 -25.4745185),tourism,hotel
+7,Hotel Dan Inn,POINT (-49.2652114 -25.4276595),tourism,hotel
+8,Mabu Curitiba Business,POINT (-49.2659608 -25.4290673),tourism,hotel
+9,Guaíra Palace Hotel,POINT (-49.2751148 -25.4360573),tourism,hotel
+10,Ibis Styles Curitiba Shopping,POINT (-49.2779418 -25.4386614),tourism,hotel
+11,Blue Tree Towers Curitiba,POINT (-49.2768627 -25.4370497),tourism,hotel
+12,Pestana Curitiba Hotel,POINT (-49.2799616 -25.4371399),tourism,hotel
+13,Hotel Golden Park,POINT (-49.2605761 -25.4345092),tourism,hotel
+14,Hotel Nacional Inn,POINT (-49.2606938 -25.4350095),tourism,hotel
+15,Ibis Budget,POINT (-49.2606462 -25.4342206),tourism,hotel
+16,Condor Hotel,POINT (-49.2575496 -25.433935),tourism,hotel
+17,Hotel Nova Lisboa,POINT (-49.2581831 -25.434081),tourism,hotel
+18,Quality Hotel Curitiba,POINT (-49.2874598 -25.4406724),tourism,hotel
+19,Hotel Mirhage,POINT (-49.2692917 -25.4349567),tourism,hotel
+20,Slaviero Slim,POINT (-49.2742855 -25.4324352),tourism,hotel
+21,Radisson Hotel Curitiba,POINT (-49.2882457 -25.445714),tourism,hotel
+22,Bourbon,POINT (-49.2734481 -25.430581),tourism,hotel
+23,Slaviero Executive,POINT (-49.2800251 -25.4414823),tourism,hotel
+24,Slaviero Conceptual Full Jazz,POINT (-49.2868773 -25.4426041),tourism,hotel
+25,Hotel PP,POINT (-49.2871821 -25.4358059),tourism,hotel
+26,Hotel Tulip Inn Santa Felicidade,POINT (-49.3251756 -25.4069171),tourism,hotel
+27,Mercure Hotel Sete de Setembro,POINT (-49.2898228 -25.4463545),tourism,hotel
+28,Hotel 10,POINT (-49.3302948 -25.5234889),tourism,hotel
+29,Alta Reggia Plaza Hotel,POINT (-49.2606717 -25.4307394),tourism,hotel
+30,Slaviero Slim Avenida das Torres,POINT (-49.2389394 -25.4575077),tourism,hotel
+31,Hotel 2 Irmãos,POINT (-49.2434032 -25.4541089),tourism,hotel
+32,Hotel Del Rey,POINT (-49.2746772 -25.4321149),tourism,hotel
+33,Hotel Contorno Sul,POINT (-49.2978735 -25.5278141),tourism,hotel
+34,Hotel Slaviero Slim,POINT (-49.2603812 -25.4247065),tourism,hotel
+35,,POINT (-49.2642521 -25.4365777),tourism,hotel
+36,Hotel Centro Europeu Tourist,POINT (-49.2753132 -25.4331833),tourism,hotel
+37,Grand Hotel Rayon,POINT (-49.2766365 -25.4346225),tourism,hotel
+38,Slaviero Conceptual Palace,POINT (-49.2753026 -25.4337873),tourism,hotel
+39,Hotel Blumenau,POINT (-49.270908 -25.424341),tourism,hotel
+40,,POINT (-49.2732995 -25.4341076),tourism,hotel
+41,Hotel Elo,POINT (-49.2623309 -25.4264058),tourism,hotel
+42,Hotel Brasília,POINT (-49.2703683 -25.4260059),tourism,hotel
+43,Miller Flat Hotel,POINT (-49.2701549 -25.4255478),tourism,hotel
+44,Hotel Nikko,POINT (-49.2671474 -25.4349216),tourism,hotel
+45,Moov Curitiba,POINT (-49.2930902 -25.4476364),tourism,hotel
+46,Ibis Styles Curitiba Batel,POINT (-49.2792383 -25.4391617),tourism,hotel
+47,Novotel,POINT (-49.2772334 -25.4381065),tourism,hotel
+48,Slaviero Essential,POINT (-49.2764533 -25.4377896),tourism,hotel
+49,Meridiano V,POINT (-49.2622313 -25.4322464),tourism,hotel
+50,Hotel Lotus,POINT (-49.2693137 -25.4367833),tourism,hotel
+51,Apart Hotel Paraty,POINT (-49.2691259 -25.4298411),tourism,hotel
+52,Laron,POINT (-49.2670153 -25.4353786),tourism,hotel
+53,Hara Palace Hotel,POINT (-49.2706856 -25.4429089),tourism,hotel
+54,,POINT (-49.3213584 -25.5169046),tourism,hotel
+55,,POINT (-49.3201801 -25.5165252),tourism,hotel
+56,,POINT (-49.3213123 -25.5169966),tourism,hotel
+57,,POINT (-49.3201342 -25.5151602),tourism,hotel
+58,,POINT (-49.3215551 -25.5160792),tourism,hotel
+59,,POINT (-49.3217334 -25.5161555),tourism,hotel
+60,,POINT (-49.318952 -25.5160139),tourism,hotel
+61,,POINT (-49.3195313 -25.5149004),tourism,hotel
+62,,POINT (-49.3216825 -25.5158275),tourism,hotel
+63,,POINT (-49.2833253 -25.4430487),tourism,hotel
+64,,POINT (-49.2832402 -25.4432261),tourism,hotel
+65,,POINT (-49.2846326 -25.4412078),tourism,hotel
+66,,POINT (-49.2845051 -25.4411524),tourism,hotel
+67,,POINT (-49.284795 -25.4406087),tourism,hotel
+68,,POINT (-49.2849225 -25.4406642),tourism,hotel
+69,,POINT (-49.2870583 -25.4426103),tourism,hotel
+70,,POINT (-49.2868527 -25.4425288),tourism,hotel
+71,,POINT (-49.2867523 -25.4427352),tourism,hotel
+72,,POINT (-49.286958 -25.4428168),tourism,hotel
+73,,POINT (-49.2868049 -25.4426281),tourism,hotel
+74,,POINT (-49.2092565 -25.4980724),tourism,hotel
+75,,POINT (-49.2089748 -25.4986679),tourism,hotel
+76,,POINT (-49.2094169 -25.4992904),tourism,hotel
+77,,POINT (-49.2095205 -25.4990591),tourism,hotel
+78,,POINT (-49.2093879 -25.498116),tourism,hotel
+79,,POINT (-49.2095301 -25.4985505),tourism,hotel
+80,,POINT (-49.2094697 -25.4983066),tourism,hotel
+81,,POINT (-49.2095547 -25.4988406),tourism,hotel
+82,,POINT (-49.2094728 -25.4991876),tourism,hotel
+83,,POINT (-49.2829375 -25.4431075),tourism,hotel
+84,,POINT (-49.2830226 -25.4429302),tourism,hotel
+85,,POINT (-49.2786724 -25.4409088),tourism,hotel
+86,,POINT (-49.2784586 -25.441366),tourism,hotel
+87,,POINT (-49.2781293 -25.4412405),tourism,hotel
+88,,POINT (-49.2783431 -25.4407833),tourism,hotel
+89,,POINT (-49.2782445 -25.4409942),tourism,hotel
+90,,POINT (-49.2784717 -25.4408323),tourism,hotel
+91,,POINT (-49.2782621 -25.4412911),tourism,hotel
+92,,POINT (-49.2652946 -25.438356),tourism,hotel
+93,,POINT (-49.265036 -25.4382558),tourism,hotel
+94,,POINT (-49.2648675 -25.4386105),tourism,hotel
+95,,POINT (-49.265126 -25.4387107),tourism,hotel
+96,,POINT (-49.2650512 -25.4382617),tourism,hotel
+97,,POINT (-49.2652824 -25.4383513),tourism,hotel
+98,,POINT (-49.2505177 -25.4567583),tourism,hotel
+99,,POINT (-49.2503231 -25.4571032),tourism,hotel
+100,,POINT (-49.2493791 -25.4566543),tourism,hotel
+101,,POINT (-49.2502633 -25.4566438),tourism,hotel
+102,,POINT (-49.249975 -25.4565222),tourism,hotel
+103,,POINT (-49.2494201 -25.4566065),tourism,hotel
+104,,POINT (-49.2801022 -25.4370716),tourism,hotel
+105,,POINT (-49.2795473 -25.4375829),tourism,hotel
+106,,POINT (-49.279328 -25.4373888),tourism,hotel
+107,,POINT (-49.2796667 -25.4370768),tourism,hotel
+108,,POINT (-49.2797757 -25.4371733),tourism,hotel
+109,,POINT (-49.2799919 -25.436974),tourism,hotel
+110,,POINT (-49.2799382 -25.4336939),tourism,hotel
+111,,POINT (-49.2796683 -25.4335882),tourism,hotel
+112,,POINT (-49.2797662 -25.4333843),tourism,hotel
+113,,POINT (-49.2800361 -25.43349),tourism,hotel
+114,,POINT (-49.279617 -25.432991),tourism,hotel
+115,,POINT (-49.2795316 -25.4329608),tourism,hotel
+116,,POINT (-49.2794015 -25.4332605),tourism,hotel
+117,,POINT (-49.2794869 -25.4332908),tourism,hotel
+118,,POINT (-49.2796497 -25.4370924),tourism,hotel
+119,,POINT (-49.2794764 -25.4372521),tourism,hotel
+120,,POINT (-49.2794466 -25.4372251),tourism,hotel
+121,,POINT (-49.2796217 -25.4370671),tourism,hotel
+122,,POINT (-49.2752656 -25.4315767),tourism,hotel
+123,,POINT (-49.2753152 -25.4315318),tourism,hotel
+124,,POINT (-49.2754278 -25.4314301),tourism,hotel
+125,,POINT (-49.2752276 -25.4316109),tourism,hotel
+126,,POINT (-49.2752994 -25.4316758),tourism,hotel
+127,,POINT (-49.2755664 -25.4314347),tourism,hotel
+128,,POINT (-49.2752726 -25.4331045),tourism,hotel
+129,,POINT (-49.2753406 -25.4331657),tourism,hotel
+130,,POINT (-49.275133 -25.4333478),tourism,hotel
+131,,POINT (-49.2750701 -25.4332891),tourism,hotel
+132,,POINT (-49.2765456 -25.4294115),tourism,hotel
+133,,POINT (-49.2792423 -25.4266461),tourism,hotel
+134,,POINT (-49.2790024 -25.4265603),tourism,hotel
+135,,POINT (-49.2789702 -25.4266301),tourism,hotel
+136,,POINT (-49.2792109 -25.4267134),tourism,hotel
+137,,POINT (-49.2790183 -25.426566),tourism,hotel
+138,,POINT (-49.2781892 -25.4268787),tourism,hotel
+139,,POINT (-49.2781514 -25.4269539),tourism,hotel
+140,,POINT (-49.2780026 -25.4268917),tourism,hotel
+141,,POINT (-49.2780607 -25.4268238),tourism,hotel
+142,,POINT (-49.2754418 -25.4304291),tourism,hotel
+143,,POINT (-49.2743095 -25.4306778),tourism,hotel
+144,,POINT (-49.274368 -25.4305504),tourism,hotel
+145,,POINT (-49.274556 -25.4307062),tourism,hotel
+146,,POINT (-49.2745364 -25.4307597),tourism,hotel
+147,,POINT (-49.2746624 -25.4307474),tourism,hotel
+148,,POINT (-49.2748345 -25.4307184),tourism,hotel
+149,,POINT (-49.2744642 -25.430733),tourism,hotel
+150,,POINT (-49.2747321 -25.4307686),tourism,hotel
+151,,POINT (-49.2747574 -25.4307784),tourism,hotel
+152,,POINT (-49.2746439 -25.4307865),tourism,hotel
+153,,POINT (-49.2747112 -25.4308126),tourism,hotel
+154,,POINT (-49.2747363 -25.4308229),tourism,hotel
+155,,POINT (-49.2747774 -25.4308388),tourism,hotel
+156,,POINT (-49.2721979 -25.4310277),tourism,hotel
+157,,POINT (-49.2752515 -25.4299998),tourism,hotel
+158,,POINT (-49.2752939 -25.430242),tourism,hotel
+159,,POINT (-49.2754923 -25.4303132),tourism,hotel
+160,,POINT (-49.2752389 -25.4303569),tourism,hotel
+161,,POINT (-49.2752186 -25.4297449),tourism,hotel
+162,,POINT (-49.2751961 -25.4297004),tourism,hotel
+163,,POINT (-49.275232 -25.4297125),tourism,hotel
+164,,POINT (-49.2752548 -25.429716),tourism,hotel
+165,,POINT (-49.2752981 -25.4297306),tourism,hotel
+166,,POINT (-49.2752399 -25.4297521),tourism,hotel
+167,,POINT (-49.2751281 -25.4298649),tourism,hotel
+168,,POINT (-49.2752284 -25.4298988),tourism,hotel
+169,,POINT (-49.2703445 -25.4258251),tourism,hotel
+170,,POINT (-49.2702965 -25.4258346),tourism,hotel
+171,,POINT (-49.2703035 -25.4258635),tourism,hotel
+172,,POINT (-49.2702731 -25.4258695),tourism,hotel
+173,,POINT (-49.2702666 -25.4258425),tourism,hotel
+174,,POINT (-49.2702197 -25.4258518),tourism,hotel
+175,,POINT (-49.2702396 -25.425934),tourism,hotel
+176,,POINT (-49.2702739 -25.4259273),tourism,hotel
+177,,POINT (-49.2702832 -25.4259658),tourism,hotel
+178,,POINT (-49.2702475 -25.4259729),tourism,hotel
+179,,POINT (-49.270265 -25.4260452),tourism,hotel
+180,,POINT (-49.2703626 -25.4260258),tourism,hotel
+181,,POINT (-49.2703742 -25.4260169),tourism,hotel
+182,,POINT (-49.2703824 -25.4260043),tourism,hotel
+183,,POINT (-49.2703846 -25.425991),tourism,hotel
+184,,POINT (-49.2744822 -25.4305927),tourism,hotel
+185,,POINT (-49.2724104 -25.4307921),tourism,hotel
+186,,POINT (-49.2723005 -25.4306928),tourism,hotel
+187,,POINT (-49.272271 -25.4306904),tourism,hotel
+188,,POINT (-49.2722415 -25.4306928),tourism,hotel
+189,,POINT (-49.2721664 -25.4308478),tourism,hotel
+190,,POINT (-49.2720644 -25.4310174),tourism,hotel
+191,,POINT (-49.2721714 -25.4310676),tourism,hotel
+192,,POINT (-49.2722576 -25.4309035),tourism,hotel
+193,,POINT (-49.2753494 -25.4301946),tourism,hotel
+194,,POINT (-49.2754108 -25.4300513),tourism,hotel
+195,,POINT (-49.275391 -25.4302772),tourism,hotel
+196,,POINT (-49.2751656 -25.4301974),tourism,hotel
+197,,POINT (-49.2753245 -25.4302528),tourism,hotel
+198,,POINT (-49.2752321 -25.4302222),tourism,hotel
+199,,POINT (-49.2765057 -25.4295111),tourism,hotel
+200,,POINT (-49.2760433 -25.4293586),tourism,hotel
+201,,POINT (-49.2761066 -25.4292158),tourism,hotel
+202,,POINT (-49.2764676 -25.4294286),tourism,hotel
+203,,POINT (-49.2764827 -25.4293909),tourism,hotel
+204,,POINT (-49.2762872 -25.4294396),tourism,hotel
+205,,POINT (-49.2764183 -25.4294125),tourism,hotel
+206,,POINT (-49.2764519 -25.4293287),tourism,hotel
+207,,POINT (-49.2748017 -25.4291893),tourism,hotel
+208,,POINT (-49.2745107 -25.4290852),tourism,hotel
+209,,POINT (-49.2744933 -25.4291372),tourism,hotel
+210,,POINT (-49.2747736 -25.4292341),tourism,hotel
+211,,POINT (-49.2734765 -25.4300496),tourism,hotel
+212,,POINT (-49.2738114 -25.4301577),tourism,hotel
+213,,POINT (-49.2737907 -25.4302081),tourism,hotel
+214,,POINT (-49.2734525 -25.4300842),tourism,hotel
+215,,POINT (-49.2678924 -25.4332865),tourism,hotel
+216,,POINT (-49.2679448 -25.4331613),tourism,hotel
+217,,POINT (-49.2683002 -25.4332903),tourism,hotel
+218,,POINT (-49.2682409 -25.4334182),tourism,hotel
+219,,POINT (-49.2679268 -25.4332123),tourism,hotel
+220,,POINT (-49.2677052 -25.437159),tourism,hotel
+221,,POINT (-49.2679392 -25.4372477),tourism,hotel
+222,,POINT (-49.2676632 -25.4372493),tourism,hotel
+223,,POINT (-49.2677849 -25.4373056),tourism,hotel
+224,,POINT (-49.2678972 -25.4373381),tourism,hotel
+225,,POINT (-49.2679942 -25.4373867),tourism,hotel
+226,,POINT (-49.2677436 -25.4373926),tourism,hotel
+227,,POINT (-49.2680601 -25.4374123),tourism,hotel
+228,,POINT (-49.2679529 -25.4374737),tourism,hotel
+229,,POINT (-49.2682736 -25.437495),tourism,hotel
+230,,POINT (-49.2680188 -25.4374991),tourism,hotel
+231,,POINT (-49.2682324 -25.4375819),tourism,hotel
+232,,POINT (-49.2684194 -25.4342729),tourism,hotel
+233,,POINT (-49.2686088 -25.4343874),tourism,hotel
+234,,POINT (-49.2682823 -25.4345442),tourism,hotel
+235,,POINT (-49.2685173 -25.4345683),tourism,hotel
+236,,POINT (-49.2683623 -25.4345772),tourism,hotel
+237,,POINT (-49.2685553 -25.434584),tourism,hotel
+238,,POINT (-49.2685248 -25.4346442),tourism,hotel
+239,,POINT (-49.2654301 -25.4329837),tourism,hotel
+240,,POINT (-49.2653498 -25.4331485),tourism,hotel
+241,,POINT (-49.2655129 -25.4332132),tourism,hotel
+242,,POINT (-49.2685312 -25.434319),tourism,hotel
+243,,POINT (-49.2685159 -25.4343492),tourism,hotel
+244,,POINT (-49.2655932 -25.4330484),tourism,hotel
+245,,POINT (-49.2658249 -25.4328431),tourism,hotel
+246,,POINT (-49.2655699 -25.4327436),tourism,hotel
+247,,POINT (-49.2656185 -25.432642),tourism,hotel
+248,,POINT (-49.2658735 -25.4327415),tourism,hotel
+249,,POINT (-49.2635509 -25.4363107),tourism,hotel
+250,,POINT (-49.2636025 -25.436205),tourism,hotel
+251,,POINT (-49.2639246 -25.436019),tourism,hotel
+252,,POINT (-49.2641087 -25.4360941),tourism,hotel
+253,,POINT (-49.2644456 -25.4359762),tourism,hotel
+254,,POINT (-49.2640312 -25.4358218),tourism,hotel
+255,,POINT (-49.2643362 -25.4361779),tourism,hotel
+256,,POINT (-49.2681724 -25.4332449),tourism,hotel
+257,,POINT (-49.2610478 -25.4352332),tourism,hotel
+258,,POINT (-49.2614515 -25.4312413),tourism,hotel
+259,,POINT (-49.2615141 -25.4312668),tourism,hotel
+260,,POINT (-49.2628683 -25.4358501),tourism,hotel
+261,,POINT (-49.2630333 -25.4358942),tourism,hotel
+262,,POINT (-49.2630746 -25.4359094),tourism,hotel
+263,,POINT (-49.2630267 -25.4359088),tourism,hotel
+264,,POINT (-49.2628038 -25.4359922),tourism,hotel
+265,,POINT (-49.2629973 -25.4360248),tourism,hotel
+266,,POINT (-49.2630185 -25.4360327),tourism,hotel
+267,,POINT (-49.2629821 -25.4360583),tourism,hotel
+268,,POINT (-49.2609973 -25.4350152),tourism,hotel
+269,,POINT (-49.2611148 -25.4350504),tourism,hotel
+270,,POINT (-49.2609302 -25.4351981),tourism,hotel
+271,,POINT (-49.2632224 -25.4361799),tourism,hotel
+272,,POINT (-49.263274 -25.4360742),tourism,hotel
+273,,POINT (-49.2662293 -25.4309836),tourism,hotel
+274,,POINT (-49.266129 -25.430909),tourism,hotel
+275,,POINT (-49.2661963 -25.4306321),tourism,hotel
+276,,POINT (-49.2663881 -25.4306572),tourism,hotel
+277,,POINT (-49.2663878 -25.4297614),tourism,hotel
+278,,POINT (-49.2664724 -25.4292477),tourism,hotel
+279,,POINT (-49.2665915 -25.429295),tourism,hotel
+280,,POINT (-49.2663194 -25.4295612),tourism,hotel
+281,,POINT (-49.2664535 -25.4296267),tourism,hotel
+282,,POINT (-49.2688724 -25.4301957),tourism,hotel
+283,,POINT (-49.2687179 -25.4301374),tourism,hotel
+284,,POINT (-49.2686164 -25.4303571),tourism,hotel
+285,,POINT (-49.2687709 -25.4304153),tourism,hotel
+286,,POINT (-49.2688267 -25.4302946),tourism,hotel
+287,,POINT (-49.268647 -25.430291),tourism,hotel
+288,,POINT (-49.266119 -25.4307323),tourism,hotel
+289,,POINT (-49.266143 -25.4307418),tourism,hotel
+290,,POINT (-49.2660634 -25.4308467),tourism,hotel
+291,,POINT (-49.2661438 -25.4308786),tourism,hotel
+292,,POINT (-49.2663096 -25.4306581),tourism,hotel
+293,,POINT (-49.2661524 -25.4309531),tourism,hotel
+294,,POINT (-49.2661666 -25.4309239),tourism,hotel
+295,,POINT (-49.2663226 -25.4306313),tourism,hotel
+296,,POINT (-49.2662281 -25.4297484),tourism,hotel
+297,,POINT (-49.2663671 -25.4298038),tourism,hotel
+298,,POINT (-49.2664654 -25.429543),tourism,hotel
+299,,POINT (-49.2664439 -25.4293061),tourism,hotel
+300,,POINT (-49.2663663 -25.4294996),tourism,hotel
+301,,POINT (-49.266458 -25.4293117),tourism,hotel
+302,,POINT (-49.2663522 -25.429494),tourism,hotel
+303,,POINT (-49.2662731 -25.4296561),tourism,hotel
+304,,POINT (-49.2664293 -25.429617),tourism,hotel
+305,,POINT (-49.2664696 -25.4295447),tourism,hotel
+306,,POINT (-49.2662481 -25.4306526),tourism,hotel
+307,,POINT (-49.2662558 -25.4306368),tourism,hotel
+308,,POINT (-49.2690695 -25.430753),tourism,hotel
+309,,POINT (-49.2692474 -25.4308253),tourism,hotel
+310,,POINT (-49.2690065 -25.4308885),tourism,hotel
+311,,POINT (-49.2691796 -25.4309569),tourism,hotel
+312,,POINT (-49.2692228 -25.430873),tourism,hotel
+313,,POINT (-49.2614122 -25.4311204),tourism,hotel
+314,,POINT (-49.2615596 -25.4311803),tourism,hotel
+315,,POINT (-49.2614294 -25.4312102),tourism,hotel
+316,,POINT (-49.2613612 -25.4312119),tourism,hotel
+317,,POINT (-49.2614625 -25.4312235),tourism,hotel
+318,,POINT (-49.2614153 -25.4312313),tourism,hotel
+319,,POINT (-49.2624489 -25.4262686),tourism,hotel
+320,,POINT (-49.2623682 -25.4264408),tourism,hotel
+321,,POINT (-49.2622643 -25.4264011),tourism,hotel
+322,,POINT (-49.2623465 -25.4262294),tourism,hotel
+323,,POINT (-49.2623162 -25.426421),tourism,hotel
+324,,POINT (-49.2623178 -25.4262902),tourism,hotel
+325,,POINT (-49.2713038 -25.4159745),tourism,hotel
+326,,POINT (-49.2713574 -25.4160568),tourism,hotel
+327,,POINT (-49.2712823 -25.416115),tourism,hotel
+328,,POINT (-49.2710758 -25.4161101),tourism,hotel
+329,,POINT (-49.2710758 -25.4159745),tourism,hotel
+330,,POINT (-49.2689682 -25.4207502),tourism,hotel
+331,,POINT (-49.2685673 -25.4208236),tourism,hotel
+332,,POINT (-49.268547 -25.4207331),tourism,hotel
+333,,POINT (-49.2685239 -25.4206301),tourism,hotel
+334,,POINT (-49.2689248 -25.4205568),tourism,hotel
+335,,POINT (-49.2685391 -25.420698),tourism,hotel
+336,,POINT (-49.2685551 -25.4207695),tourism,hotel
+337,,POINT (-49.2689466 -25.4206538),tourism,hotel
+338,,POINT (-49.2650029 -25.4122759),tourism,hotel
+339,,POINT (-49.2651432 -25.4122898),tourism,hotel
+340,,POINT (-49.2649679 -25.4125639),tourism,hotel
+341,,POINT (-49.2651082 -25.4125778),tourism,hotel
+342,,POINT (-49.2650388 -25.4125704),tourism,hotel
+343,,POINT (-49.2616152 -25.4164712),tourism,hotel
+344,,POINT (-49.2610882 -25.4158862),tourism,hotel
+345,,POINT (-49.2608406 -25.4160681),tourism,hotel
+346,,POINT (-49.2613676 -25.4166532),tourism,hotel
+347,,POINT (-49.2555586 -25.4352717),tourism,hotel
+348,,POINT (-49.2554045 -25.4352732),tourism,hotel
+349,,POINT (-49.2555605 -25.4354205),tourism,hotel
+350,,POINT (-49.2554063 -25.4354221),tourism,hotel
+351,,POINT (-49.2187691 -25.4046826),tourism,hotel
+352,,POINT (-49.2186886 -25.4046838),tourism,hotel
+353,,POINT (-49.2186833 -25.4046438),tourism,hotel
+354,,POINT (-49.2186591 -25.4045275),tourism,hotel
+355,,POINT (-49.2184204 -25.4043022),tourism,hotel
+356,,POINT (-49.2184499 -25.4042343),tourism,hotel
+357,,POINT (-49.2185626 -25.4042876),tourism,hotel
+358,,POINT (-49.2187128 -25.4044476),tourism,hotel
+359,,POINT (-49.2187718 -25.4046196),tourism,hotel
+360,,POINT (-49.2185131 -25.4043417),tourism,hotel
+361,,POINT (-49.2186526 -25.4043635),tourism,hotel
+362,,POINT (-49.2185855 -25.4044168),tourism,hotel
+363,,POINT (-49.2185667 -25.4044605),tourism,hotel
+364,,POINT (-49.2185024 -25.4044701),tourism,hotel
+365,,POINT (-49.2186418 -25.404475),tourism,hotel
+366,,POINT (-49.218489 -25.4044992),tourism,hotel
+367,,POINT (-49.2185721 -25.4044992),tourism,hotel
+368,,POINT (-49.2187478 -25.4045283),tourism,hotel
+369,,POINT (-49.2185882 -25.4045525),tourism,hotel
+370,,POINT (-49.2186177 -25.4046082),tourism,hotel
+371,,POINT (-49.2185211 -25.4046107),tourism,hotel
+372,,POINT (-49.2186338 -25.4046446),tourism,hotel
+373,,POINT (-49.2186579 -25.4046882),tourism,hotel
+374,,POINT (-49.2185694 -25.4047052),tourism,hotel
+375,,POINT (-49.2187035 -25.4047245),tourism,hotel
+376,,POINT (-49.2187438 -25.4047512),tourism,hotel
+377,,POINT (-49.2188028 -25.4047827),tourism,hotel
+378,,POINT (-49.2186553 -25.4047851),tourism,hotel
+379,,POINT (-49.218765 -25.4048493),tourism,hotel
+380,Hotel San Martin,"POLYGON ((-49.2663881 -25.4306572, -49.2662293 -25.4309836, -49.2661524 -25.4309531, -49.2661666 -25.4309239, -49.266129 -25.430909, -49.2661438 -25.4308786, -49.2660634 -25.4308467, -49.266119 -25.4307323, -49.266143 -25.4307418, -49.2661963 -25.4306321, -49.2662481 -25.4306526, -49.2662558 -25.4306368, -49.2663096 -25.4306581, -49.2663226 -25.4306313, -49.2663881 -25.4306572))",tourism,hotel
+381,Slaviero Rockefeller,"POLYGON ((-49.2648675 -25.4386105, -49.265126 -25.4387107, -49.2652946 -25.438356, -49.2652824 -25.4383513, -49.2650512 -25.4382617, -49.265036 -25.4382558, -49.2648675 -25.4386105))",tourism,hotel
+382,Bristol Centro Cívico,"POLYGON ((-49.2651082 -25.4125778, -49.2651432 -25.4122898, -49.2650029 -25.4122759, -49.2649679 -25.4125639, -49.2650388 -25.4125704, -49.2651082 -25.4125778))",tourism,hotel
+383,Mercure,"POLYGON ((-49.2829375 -25.4431075, -49.2832402 -25.4432261, -49.2833253 -25.4430487, -49.2830226 -25.4429302, -49.2829375 -25.4431075))",tourism,hotel
+384,Estrela do Sul,"POLYGON ((-49.2615596 -25.4311803, -49.2615141 -25.4312668, -49.2614515 -25.4312413, -49.2614625 -25.4312235, -49.2614294 -25.4312102, -49.2614153 -25.4312313, -49.2613612 -25.4312119, -49.2614122 -25.4311204, -49.2615596 -25.4311803))",tourism,hotel
+385,Corporate Evolution,"POLYGON ((-49.2801022 -25.4370716, -49.2799919 -25.436974, -49.2797757 -25.4371733, -49.2796667 -25.4370768, -49.2796497 -25.4370924, -49.2796217 -25.4370671, -49.2794466 -25.4372251, -49.2794764 -25.4372521, -49.279328 -25.4373888, -49.2795473 -25.4375829, -49.2801022 -25.4370716))",tourism,hotel
+386,Bristol Brasil 500,"POLYGON ((-49.2786724 -25.4409088, -49.2784586 -25.441366, -49.2782621 -25.4412911, -49.2781293 -25.4412405, -49.2782445 -25.4409942, -49.2783431 -25.4407833, -49.2784717 -25.4408323, -49.2786724 -25.4409088))",tourism,hotel
+387,Confiance Inn,"POLYGON ((-49.2713038 -25.4159745, -49.2713574 -25.4160568, -49.2712823 -25.416115, -49.2710758 -25.4161101, -49.2710758 -25.4159745, -49.2713038 -25.4159745))",tourism,hotel
+388,Lira Hotel,"POLYGON ((-49.2505177 -25.4567583, -49.2503231 -25.4571032, -49.2493791 -25.4566543, -49.2494201 -25.4566065, -49.249975 -25.4565222, -49.2502633 -25.4566438, -49.2505177 -25.4567583))",tourism,hotel
+389,San Juan Royal,"POLYGON ((-49.2689248 -25.4205568, -49.2689466 -25.4206538, -49.2689682 -25.4207502, -49.2685673 -25.4208236, -49.2685551 -25.4207695, -49.268547 -25.4207331, -49.2685391 -25.420698, -49.2685239 -25.4206301, -49.2689248 -25.4205568))",tourism,hotel
+390,Harbor Hotel,"POLYGON ((-49.2846326 -25.4412078, -49.2845051 -25.4411524, -49.284795 -25.4406087, -49.2849225 -25.4406642, -49.2846326 -25.4412078))",tourism,hotel
+391,Slaviero Full Jazz,"POLYGON ((-49.2870583 -25.4426103, -49.2868527 -25.4425288, -49.2868049 -25.4426281, -49.2867523 -25.4427352, -49.286958 -25.4428168, -49.2870583 -25.4426103))",tourism,hotel
+392,Ambassador Residence,"POLYGON ((-49.2799382 -25.4336939, -49.2796683 -25.4335882, -49.2797662 -25.4333843, -49.2800361 -25.43349, -49.2799382 -25.4336939))",tourism,hotel
+393,Harbor Self Saint Emilion,"POLYGON ((-49.279617 -25.432991, -49.2795316 -25.4329608, -49.2794015 -25.4332605, -49.2794869 -25.4332908, -49.279617 -25.432991))",tourism,hotel
+394,Hotel Johnscher by San Juan,"POLYGON ((-49.2678924 -25.4332865, -49.2679268 -25.4332123, -49.2679448 -25.4331613, -49.2681724 -25.4332449, -49.2683002 -25.4332903, -49.2682409 -25.4334182, -49.2678924 -25.4332865))",tourism,hotel
+395,Hotel O'Hara,"POLYGON ((-49.2664293 -25.429617, -49.2664535 -25.4296267, -49.2663878 -25.4297614, -49.2663671 -25.4298038, -49.2662281 -25.4297484, -49.2662731 -25.4296561, -49.2663194 -25.4295612, -49.2663522 -25.429494, -49.2663663 -25.4294996, -49.266458 -25.4293117, -49.2664439 -25.4293061, -49.2664724 -25.4292477, -49.2665915 -25.429295, -49.2664696 -25.4295447, -49.2664654 -25.429543, -49.2664293 -25.429617))",tourism,hotel
+396,Novo Vernon,"POLYGON ((-49.2555586 -25.4352717, -49.2554045 -25.4352732, -49.2554063 -25.4354221, -49.2555605 -25.4354205, -49.2555586 -25.4352717))",tourism,hotel
+397,Hotel Aladdin,"POLYGON ((-49.2679392 -25.4372477, -49.2677052 -25.437159, -49.2676632 -25.4372493, -49.2678972 -25.4373381, -49.2679392 -25.4372477))",tourism,hotel
+398,Hotel Nacional Inn,"POLYGON ((-49.2682736 -25.437495, -49.2680601 -25.4374123, -49.2679942 -25.4373867, -49.2677849 -25.4373056, -49.2677436 -25.4373926, -49.2679529 -25.4374737, -49.2680188 -25.4374991, -49.2682324 -25.4375819, -49.2682736 -25.437495))",tourism,hotel
+399,Hotel Trevi,"POLYGON ((-49.2748345 -25.4307184, -49.2744822 -25.4305927, -49.274368 -25.4305504, -49.2743095 -25.4306778, -49.2744642 -25.430733, -49.2745364 -25.4307597, -49.274556 -25.4307062, -49.2746624 -25.4307474, -49.2746439 -25.4307865, -49.2747112 -25.4308126, -49.2747321 -25.4307686, -49.2747574 -25.4307784, -49.2747363 -25.4308229, -49.2747774 -25.4308388, -49.2748345 -25.4307184))",tourism,hotel
+400,Curitiba Palace Estação,"POLYGON ((-49.2685159 -25.4343492, -49.2685312 -25.434319, -49.2684194 -25.4342729, -49.2682823 -25.4345442, -49.2683623 -25.4345772, -49.2685248 -25.4346442, -49.2685553 -25.434584, -49.2685173 -25.4345683, -49.2686088 -25.4343874, -49.2685159 -25.4343492))",tourism,hotel
+401,Lizon Curitiba Hotel,"POLYGON ((-49.2611148 -25.4350504, -49.2609973 -25.4350152, -49.2609302 -25.4351981, -49.2610478 -25.4352332, -49.2611148 -25.4350504))",tourism,hotel
+402,Terrazas Hotel,"POLYGON ((-49.2655932 -25.4330484, -49.2654301 -25.4329837, -49.2653498 -25.4331485, -49.2655129 -25.4332132, -49.2655932 -25.4330484))",tourism,hotel
+403,Hotel Caravelle Palace,"POLYGON ((-49.2754923 -25.4303132, -49.275391 -25.4302772, -49.2753245 -25.4302528, -49.2752939 -25.430242, -49.2752389 -25.4303569, -49.2754418 -25.4304291, -49.2754923 -25.4303132))",tourism,hotel
+404,Hotel Vitória Régia,"POLYGON ((-49.2752981 -25.4297306, -49.2752284 -25.4298988, -49.2751281 -25.4298649, -49.2751961 -25.4297004, -49.275232 -25.4297125, -49.2752186 -25.4297449, -49.2752399 -25.4297521, -49.2752548 -25.429716, -49.2752981 -25.4297306))",tourism,hotel
+405,,"POLYGON ((-49.2624489 -25.4262686, -49.2623682 -25.4264408, -49.2623162 -25.426421, -49.2622643 -25.4264011, -49.2623178 -25.4262902, -49.2623465 -25.4262294, -49.2624489 -25.4262686))",tourism,hotel
+406,Mabu Curitiba Express,"POLYGON ((-49.3216825 -25.5158275, -49.3201342 -25.5151602, -49.3195313 -25.5149004, -49.318952 -25.5160139, -49.3201801 -25.5165252, -49.3213123 -25.5169966, -49.3213584 -25.5169046, -49.3217334 -25.5161555, -49.3215551 -25.5160792, -49.3216825 -25.5158275))",tourism,hotel
+407,Hôtel L'Avenue,"POLYGON ((-49.2688724 -25.4301957, -49.2687179 -25.4301374, -49.268647 -25.430291, -49.2686164 -25.4303571, -49.2687709 -25.4304153, -49.2688267 -25.4302946, -49.2688724 -25.4301957))",tourism,hotel
+408,,"POLYGON ((-49.2703445 -25.4258251, -49.2702965 -25.4258346, -49.2703035 -25.4258635, -49.2702731 -25.4258695, -49.2702666 -25.4258425, -49.2702197 -25.4258518, -49.2702396 -25.425934, -49.2702739 -25.4259273, -49.2702832 -25.4259658, -49.2702475 -25.4259729, -49.270265 -25.4260452, -49.2703626 -25.4260258, -49.2703742 -25.4260169, -49.2703824 -25.4260043, -49.2703846 -25.425991, -49.2703445 -25.4258251))",tourism,hotel
+409,Bristol Portal do Iguaçu,"POLYGON ((-49.2094169 -25.4992904, -49.2094728 -25.4991876, -49.2095205 -25.4990591, -49.2095547 -25.4988406, -49.2095301 -25.4985505, -49.2094697 -25.4983066, -49.2093879 -25.498116, -49.2092565 -25.4980724, -49.2089748 -25.4986679, -49.2094169 -25.4992904))",tourism,hotel
+410,Euro Hotel,"POLYGON ((-49.2658735 -25.4327415, -49.2656185 -25.432642, -49.2655699 -25.4327436, -49.2658249 -25.4328431, -49.2658735 -25.4327415))",tourism,hotel
+411,Victoria Villa Hotel,"POLYGON ((-49.2630746 -25.4359094, -49.2630333 -25.4358942, -49.2630267 -25.4359088, -49.2628683 -25.4358501, -49.2628038 -25.4359922, -49.2629821 -25.4360583, -49.2629973 -25.4360248, -49.2630185 -25.4360327, -49.2630746 -25.4359094))",tourism,hotel
+412,San Juan Hotel,"POLYGON ((-49.2636025 -25.436205, -49.263274 -25.4360742, -49.2632224 -25.4361799, -49.2635509 -25.4363107, -49.2636025 -25.436205))",tourism,hotel
+413,,"POLYGON ((-49.2724104 -25.4307921, -49.2723005 -25.4306928, -49.272271 -25.4306904, -49.2722415 -25.4306928, -49.2721664 -25.4308478, -49.2722576 -25.4309035, -49.2724104 -25.4307921))",tourism,hotel
+414,,"POLYGON ((-49.2721664 -25.4308478, -49.2720644 -25.4310174, -49.2721714 -25.4310676, -49.2721979 -25.4310277, -49.2722576 -25.4309035, -49.2721664 -25.4308478))",tourism,hotel
+415,,"POLYGON ((-49.2690695 -25.430753, -49.2690065 -25.4308885, -49.2691796 -25.4309569, -49.2692228 -25.430873, -49.2692474 -25.4308253, -49.2690695 -25.430753))",tourism,hotel
+416,,"POLYGON ((-49.2754278 -25.4314301, -49.2753152 -25.4315318, -49.2752656 -25.4315767, -49.2752276 -25.4316109, -49.2752994 -25.4316758, -49.2755664 -25.4314347, -49.2754278 -25.4314301))",tourism,hotel
+417,,"POLYGON ((-49.2752515 -25.4299998, -49.2754108 -25.4300513, -49.2753494 -25.4301946, -49.2753245 -25.4302528, -49.2752939 -25.430242, -49.2752321 -25.4302222, -49.2751656 -25.4301974, -49.2752515 -25.4299998))",tourism,hotel
+418,,"POLYGON ((-49.2752726 -25.4331045, -49.2753406 -25.4331657, -49.275133 -25.4333478, -49.2750701 -25.4332891, -49.2752726 -25.4331045))",tourism,hotel
+419,,"POLYGON ((-49.2765456 -25.4294115, -49.2765057 -25.4295111, -49.2762872 -25.4294396, -49.2760433 -25.4293586, -49.2761066 -25.4292158, -49.2764519 -25.4293287, -49.2764183 -25.4294125, -49.2764676 -25.4294286, -49.2764827 -25.4293909, -49.2765456 -25.4294115))",tourism,hotel
+420,Laos,"POLYGON ((-49.2748017 -25.4291893, -49.2745107 -25.4290852, -49.2744933 -25.4291372, -49.2747736 -25.4292341, -49.2748017 -25.4291893))",tourism,hotel
+421,,"POLYGON ((-49.2734765 -25.4300496, -49.2738114 -25.4301577, -49.2737907 -25.4302081, -49.2734525 -25.4300842, -49.2734765 -25.4300496))",tourism,hotel
+422,,"POLYGON ((-49.2792423 -25.4266461, -49.2790183 -25.426566, -49.2790024 -25.4265603, -49.2789702 -25.4266301, -49.2792109 -25.4267134, -49.2792423 -25.4266461))",tourism,hotel
+423,,"POLYGON ((-49.2781892 -25.4268787, -49.2781514 -25.4269539, -49.2780026 -25.4268917, -49.2780607 -25.4268238, -49.2781892 -25.4268787))",tourism,hotel
+424,Estação Express,"POLYGON ((-49.2644456 -25.4359762, -49.2640312 -25.4358218, -49.2639246 -25.436019, -49.2641087 -25.4360941, -49.2643362 -25.4361779, -49.2644456 -25.4359762))",tourism,hotel
+425,Intercity,"POLYGON ((-49.2613676 -25.4166532, -49.2616152 -25.4164712, -49.2610882 -25.4158862, -49.2608406 -25.4160681, -49.2613676 -25.4166532))",tourism,hotel
+426,,"POLYGON ((-49.2187691 -25.4046826, -49.2186886 -25.4046838, -49.2186833 -25.4046438, -49.2186591 -25.4045275, -49.2186418 -25.404475, -49.2185855 -25.4044168, -49.2185131 -25.4043417, -49.2184204 -25.4043022, -49.2184499 -25.4042343, -49.2185626 -25.4042876, -49.2186526 -25.4043635, -49.2187128 -25.4044476, -49.2187478 -25.4045283, -49.2187718 -25.4046196, -49.2187691 -25.4046826))",tourism,hotel
+427,,"POLYGON ((-49.2188028 -25.4047827, -49.218765 -25.4048493, -49.2186553 -25.4047851, -49.2185694 -25.4047052, -49.2185211 -25.4046107, -49.218489 -25.4044992, -49.2185024 -25.4044701, -49.2185667 -25.4044605, -49.2185721 -25.4044992, -49.2185882 -25.4045525, -49.2186177 -25.4046082, -49.2186338 -25.4046446, -49.2186579 -25.4046882, -49.2187035 -25.4047245, -49.2187438 -25.4047512, -49.2188028 -25.4047827))",tourism,hotel
+428,Hotel Dunamys,"POLYGON ((-49.2188028 -25.4047827, -49.218765 -25.4048493, -49.2186553 -25.4047851, -49.2185694 -25.4047052, -49.2185211 -25.4046107, -49.218489 -25.4044992, -49.2185024 -25.4044701, -49.2185667 -25.4044605, -49.2185721 -25.4044992, -49.2185882 -25.4045525, -49.2186177 -25.4046082, -49.2186338 -25.4046446, -49.2186579 -25.4046882, -49.2187035 -25.4047245, -49.2187438 -25.4047512, -49.2188028 -25.4047827))",tourism,hotel
+0,,POINT (-49.2738318 -25.4276943),tourism,information
+1,,POINT (-49.2771812 -25.4353477),tourism,information
+0,Green Apple,POINT (-49.3565513 -25.3876316),tourism,motel
+1,Motel My Garden,POINT (-49.348479 -25.4298516),tourism,motel
+2,Motel Você Que Sabe,POINT (-49.3482576 -25.4298458),tourism,motel
+3,Motel Hot Chilli,POINT (-49.3542357 -25.4298362),tourism,motel
+4,Emoções Motel,POINT (-49.3516859 -25.4308131),tourism,motel
+5,Motel Caprici,POINT (-49.2789001 -25.3626116),tourism,motel
+6,Libidus Motel,POINT (-49.2777733 -25.3638005),tourism,motel
+7,Ecstasy Motel,POINT (-49.276132 -25.3662722),tourism,motel
+8,EMMANUEL,POINT (-49.2558494 -25.5283085),tourism,motel
+9,Motel L'Amour,POINT (-49.3356829 -25.4311784),tourism,motel
+10,,POINT (-49.2276379 -25.5208253),tourism,motel
+11,,POINT (-49.2275824 -25.5209381),tourism,motel
+12,,POINT (-49.2276279 -25.5209563),tourism,motel
+13,,POINT (-49.2275446 -25.5211253),tourism,motel
+14,,POINT (-49.2274568 -25.5210901),tourism,motel
+15,,POINT (-49.2274685 -25.5210664),tourism,motel
+16,,POINT (-49.2273112 -25.5210033),tourism,motel
+17,,POINT (-49.2273261 -25.5209731),tourism,motel
+18,,POINT (-49.2272395 -25.5209383),tourism,motel
+19,,POINT (-49.2271948 -25.5210291),tourism,motel
+20,,POINT (-49.2272371 -25.5210461),tourism,motel
+21,,POINT (-49.2272972 -25.5210702),tourism,motel
+22,,POINT (-49.2272756 -25.5211142),tourism,motel
+23,,POINT (-49.2276116 -25.5212491),tourism,motel
+24,,POINT (-49.2277903 -25.5208865),tourism,motel
+25,,POINT (-49.2278496 -25.5168274),tourism,motel
+26,,POINT (-49.2278151 -25.5168974),tourism,motel
+27,,POINT (-49.2278753 -25.5169216),tourism,motel
+28,,POINT (-49.2279098 -25.5168516),tourism,motel
+29,,POINT (-49.227922 -25.516862),tourism,motel
+30,,POINT (-49.2279023 -25.5169011),tourism,motel
+31,,POINT (-49.228016 -25.5169479),tourism,motel
+32,,POINT (-49.2280072 -25.5169655),tourism,motel
+33,,POINT (-49.2280497 -25.5169829),tourism,motel
+34,,POINT (-49.2280783 -25.5169263),tourism,motel
+35,,POINT (-49.2282937 -25.517081),tourism,motel
+36,,POINT (-49.2283419 -25.5169856),tourism,motel
+37,,POINT (-49.2284237 -25.5170193),tourism,motel
+38,,POINT (-49.2283754 -25.5171147),tourism,motel
+39,,POINT (-49.2284253 -25.5169941),tourism,motel
+40,,POINT (-49.2284451 -25.5169544),tourism,motel
+41,,POINT (-49.2281002 -25.5168143),tourism,motel
+42,,POINT (-49.2281192 -25.5167762),tourism,motel
+43,,POINT (-49.228509 -25.5169345),tourism,motel
+44,,POINT (-49.2284702 -25.5170124),tourism,motel
+45,,"POLYGON ((-49.2277903 -25.5208865, -49.2276116 -25.5212491, -49.2272756 -25.5211142, -49.2272972 -25.5210702, -49.2272371 -25.5210461, -49.2271948 -25.5210291, -49.2272395 -25.5209383, -49.2273261 -25.5209731, -49.2273112 -25.5210033, -49.2274685 -25.5210664, -49.2274568 -25.5210901, -49.2275446 -25.5211253, -49.2276279 -25.5209563, -49.2275824 -25.5209381, -49.2276379 -25.5208253, -49.2277903 -25.5208865))",tourism,motel
+46,,"POLYGON ((-49.2279098 -25.5168516, -49.2278753 -25.5169216, -49.2278151 -25.5168974, -49.2278496 -25.5168274, -49.2279098 -25.5168516))",tourism,motel
+47,,"POLYGON ((-49.2280783 -25.5169263, -49.2280497 -25.5169829, -49.2280072 -25.5169655, -49.228016 -25.5169479, -49.2279023 -25.5169011, -49.227922 -25.516862, -49.2280783 -25.5169263))",tourism,motel
+48,,"POLYGON ((-49.2283754 -25.5171147, -49.2284237 -25.5170193, -49.2283419 -25.5169856, -49.2282937 -25.517081, -49.2283754 -25.5171147))",tourism,motel
+49,,"POLYGON ((-49.2284702 -25.5170124, -49.228509 -25.5169345, -49.2281192 -25.5167762, -49.2281002 -25.5168143, -49.2284451 -25.5169544, -49.2284253 -25.5169941, -49.2284702 -25.5170124))",tourism,motel
+0,Solar do Barão,POINT (-49.2700223 -25.4263341),tourism,museum
+1,Museu Ferroviário de Curitiba,POINT (-49.265823 -25.4375277),tourism,museum
+2,Casa Andrade Muricy,POINT (-49.2738763 -25.4296851),tourism,museum
+3,Casa de Antônio Escorsin,POINT (-49.3481623 -25.4191465),tourism,museum
+4,Casa João Turin,POINT (-49.2718088 -25.4273811),tourism,museum
+5,Museu Egípcio e Rosa Cruz,POINT (-49.22622 -25.3907232),tourism,museum
+6,Museu Metropolitano de Arte,POINT (-49.2931739 -25.4763233),tourism,museum
+7,Museu Casa Culpi,POINT (-49.3496439 -25.3935943),tourism,museum
+8,Museu da Polícia Rodoviária Federal,POINT (-49.2443916 -25.4531416),tourism,museum
+9,MAI - Museu de Arte Indígena,POINT (-49.28543 -25.4540059),tourism,museum
+10,Museu Nacional do Espiritismo,POINT (-49.2281603 -25.3859934),tourism,museum
+11,Museu de Arte Sacra de Curitiba,POINT (-49.2721292 -25.427555),tourism,museum
+12,Museu da Vida,POINT (-49.2909486 -25.4153494),tourism,museum
+13,Espaço Cultural Capela Santa Maria,POINT (-49.2652216 -25.4292335),tourism,museum
+14,Museu de Ciências Geodésicas,POINT (-49.2318202 -25.4514523),tourism,museum
+15,,POINT (-49.3235686 -25.4758188),tourism,museum
+16,,POINT (-49.32353 -25.4759142),tourism,museum
+17,,POINT (-49.3239271 -25.4759289),tourism,museum
+18,,POINT (-49.3236445 -25.4759504),tourism,museum
+19,,POINT (-49.3236371 -25.4759867),tourism,museum
+20,,POINT (-49.3237709 -25.4759894),tourism,museum
+21,,POINT (-49.3237605 -25.4760189),tourism,museum
+22,,POINT (-49.3238929 -25.4760243),tourism,museum
+23,,POINT (-49.2931501 -25.4760972),tourism,museum
+24,,POINT (-49.2933784 -25.4761649),tourism,museum
+25,,POINT (-49.2929206 -25.4767537),tourism,museum
+26,,POINT (-49.2931503 -25.4768157),tourism,museum
+27,,POINT (-49.2931318 -25.4761474),tourism,museum
+28,,POINT (-49.2933595 -25.4762163),tourism,museum
+29,,POINT (-49.2930148 -25.4764893),tourism,museum
+30,,POINT (-49.3646332 -25.4521628),tourism,museum
+31,,POINT (-49.3644172 -25.4525878),tourism,museum
+32,,POINT (-49.365031 -25.4522139),tourism,museum
+33,,POINT (-49.3647537 -25.4527056),tourism,museum
+34,,POINT (-49.3061613 -25.4228255),tourism,museum
+35,,POINT (-49.3063049 -25.4226449),tourism,museum
+36,,POINT (-49.3064972 -25.4226465),tourism,museum
+37,,POINT (-49.3064946 -25.4228982),tourism,museum
+38,,POINT (-49.3059667 -25.4228938),tourism,museum
+39,,POINT (-49.305968 -25.4227686),tourism,museum
+40,,POINT (-49.3061618 -25.4227702),tourism,museum
+41,,POINT (-49.306303 -25.4228267),tourism,museum
+42,,POINT (-49.3066725 -25.4222563),tourism,museum
+43,,POINT (-49.3066574 -25.4225294),tourism,museum
+44,,POINT (-49.3065171 -25.4225231),tourism,museum
+45,,POINT (-49.3065321 -25.42225),tourism,museum
+46,,POINT (-49.3065502 -25.4219429),tourism,museum
+47,,POINT (-49.3065451 -25.4221294),tourism,museum
+48,,POINT (-49.3065096 -25.4221286),tourism,museum
+49,,POINT (-49.3065052 -25.4222879),tourism,museum
+50,,POINT (-49.3060428 -25.4222775),tourism,museum
+51,,POINT (-49.3060524 -25.4219317),tourism,museum
+52,,POINT (-49.2525089 -25.4518846),tourism,museum
+53,,POINT (-49.2526257 -25.4521361),tourism,museum
+54,,POINT (-49.2524787 -25.4521208),tourism,museum
+55,,POINT (-49.2526558 -25.4518998),tourism,museum
+56,,POINT (-49.2506337 -25.4530209),tourism,museum
+57,,POINT (-49.2505121 -25.4530203),tourism,museum
+58,,POINT (-49.2506034 -25.4529748),tourism,museum
+59,,POINT (-49.2505441 -25.4529738),tourism,museum
+60,,POINT (-49.2505414 -25.4530731),tourism,museum
+61,,POINT (-49.2506049 -25.4530687),tourism,museum
+62,,POINT (-49.2384705 -25.4399291),tourism,museum
+63,,POINT (-49.2384535 -25.4397488),tourism,museum
+64,,POINT (-49.2381041 -25.4400636),tourism,museum
+65,,POINT (-49.2382898 -25.4399596),tourism,museum
+66,,POINT (-49.2379788 -25.4399365),tourism,museum
+67,,POINT (-49.2382455 -25.4397852),tourism,museum
+68,,POINT (-49.2380228 -25.4398942),tourism,museum
+69,,POINT (-49.2379241 -25.4400294),tourism,museum
+70,,POINT (-49.2380607 -25.4401073),tourism,museum
+71,,POINT (-49.2383888 -25.4397547),tourism,museum
+72,,POINT (-49.238114 -25.4398384),tourism,museum
+73,,POINT (-49.2382142 -25.4399825),tourism,museum
+74,,POINT (-49.2729809 -25.433217),tourism,museum
+75,,POINT (-49.273099 -25.4331919),tourism,museum
+76,,POINT (-49.2729815 -25.4330895),tourism,museum
+77,,POINT (-49.2729568 -25.4331111),tourism,museum
+78,,POINT (-49.272926 -25.4330825),tourism,museum
+79,,POINT (-49.2728135 -25.4331814),tourism,museum
+80,,POINT (-49.2728262 -25.4331931),tourism,museum
+81,,POINT (-49.2727541 -25.4332564),tourism,museum
+82,,POINT (-49.2730346 -25.4332668),tourism,museum
+83,,POINT (-49.2728274 -25.4333244),tourism,museum
+84,,POINT (-49.2728877 -25.4332714),tourism,museum
+85,,POINT (-49.2729028 -25.4332855),tourism,museum
+86,,POINT (-49.2729922 -25.4330801),tourism,museum
+87,,POINT (-49.2730433 -25.4331275),tourism,museum
+88,,POINT (-49.2730265 -25.4331422),tourism,museum
+89,,POINT (-49.2731246 -25.4276477),tourism,museum
+90,,POINT (-49.2727741 -25.4279853),tourism,museum
+91,,POINT (-49.2726909 -25.4276777),tourism,museum
+92,,POINT (-49.2764573 -25.4279108),tourism,museum
+93,,POINT (-49.276464 -25.4279447),tourism,museum
+94,,POINT (-49.2759543 -25.4280852),tourism,museum
+95,,POINT (-49.2728317 -25.4276347),tourism,museum
+96,,POINT (-49.2728344 -25.4276734),tourism,museum
+97,,POINT (-49.2727862 -25.4276734),tourism,museum
+98,,POINT (-49.2727486 -25.4277012),tourism,museum
+99,,POINT (-49.2732535 -25.4281441),tourism,museum
+100,,POINT (-49.2732915 -25.428047),tourism,museum
+101,,POINT (-49.2732394 -25.4280168),tourism,museum
+102,,POINT (-49.2732724 -25.4279456),tourism,museum
+103,,POINT (-49.2730168 -25.4278448),tourism,museum
+104,,POINT (-49.2731415 -25.4275692),tourism,museum
+105,,POINT (-49.2728071 -25.4279964),tourism,museum
+106,,POINT (-49.2760384 -25.4279188),tourism,museum
+107,,POINT (-49.2761751 -25.4278434),tourism,museum
+108,,POINT (-49.276359 -25.4276044),tourism,museum
+109,,POINT (-49.2732559 -25.4279812),tourism,museum
+110,,POINT (-49.2760326 -25.4279303),tourism,museum
+111,,POINT (-49.2761217 -25.4277658),tourism,museum
+112,,POINT (-49.276071 -25.4277777),tourism,museum
+113,,POINT (-49.2760806 -25.4278353),tourism,museum
+114,,POINT (-49.2761319 -25.4278331),tourism,museum
+115,,POINT (-49.2761187 -25.4275953),tourism,museum
+116,,POINT (-49.2759907 -25.4277641),tourism,museum
+117,,POINT (-49.2759527 -25.4276175),tourism,museum
+118,,POINT (-49.2759288 -25.4277786),tourism,museum
+119,,POINT (-49.2758869 -25.4276329),tourism,museum
+120,,POINT (-49.2759468 -25.4275969),tourism,museum
+121,,POINT (-49.2761083 -25.4275591),tourism,museum
+122,,POINT (-49.2763414 -25.4275431),tourism,museum
+123,,POINT (-49.2759994 -25.4277945),tourism,museum
+124,,POINT (-49.2763875 -25.4277036),tourism,museum
+125,,POINT (-49.2727851 -25.4276742),tourism,museum
+126,,POINT (-49.2587166 -25.4285485),tourism,museum
+127,,POINT (-49.258481 -25.4284472),tourism,museum
+128,,POINT (-49.2583913 -25.4286472),tourism,museum
+129,,POINT (-49.2586113 -25.4287359),tourism,museum
+130,,POINT (-49.2584767 -25.4285669),tourism,museum
+131,,POINT (-49.258508 -25.4285804),tourism,museum
+132,,POINT (-49.2585896 -25.4286105),tourism,museum
+133,,POINT (-49.2586182 -25.4286228),tourism,museum
+134,,POINT (-49.2586397 -25.4285154),tourism,museum
+135,,POINT (-49.2586683 -25.4285278),tourism,museum
+136,,POINT (-49.2585289 -25.4284678),tourism,museum
+137,,POINT (-49.2585603 -25.4284813),tourism,museum
+138,,POINT (-49.2584499 -25.4286737),tourism,museum
+139,,POINT (-49.258557 -25.428715),tourism,museum
+140,,POINT (-49.2612465 -25.4272686),tourism,museum
+141,,POINT (-49.2613519 -25.4273773),tourism,museum
+142,,POINT (-49.2613327 -25.4273698),tourism,museum
+143,,POINT (-49.2612709 -25.4274991),tourism,museum
+144,,POINT (-49.2611575 -25.427455),tourism,museum
+145,,POINT (-49.2613791 -25.4273203),tourism,museum
+146,,POINT (-49.2712101 -25.4245456),tourism,museum
+147,,POINT (-49.2712289 -25.4246452),tourism,museum
+148,,POINT (-49.2711546 -25.4246567),tourism,museum
+149,,POINT (-49.2711501 -25.4246325),tourism,museum
+150,,POINT (-49.2710873 -25.4245645),tourism,museum
+151,,POINT (-49.2711015 -25.42464),tourism,museum
+152,,POINT (-49.2725357 -25.4153438),tourism,museum
+153,,POINT (-49.272411 -25.4154322),tourism,museum
+154,,POINT (-49.2722346 -25.4155139),tourism,museum
+155,,POINT (-49.2722034 -25.4154725),tourism,museum
+156,,POINT (-49.2720113 -25.4151384),tourism,museum
+157,,POINT (-49.2719858 -25.4150215),tourism,museum
+158,,POINT (-49.2720452 -25.4150143),tourism,museum
+159,,POINT (-49.2720421 -25.4149731),tourism,museum
+160,,POINT (-49.2722483 -25.4149452),tourism,museum
+161,,POINT (-49.2722504 -25.4149652),tourism,museum
+162,,POINT (-49.2722923 -25.4149592),tourism,museum
+163,,POINT (-49.2724012 -25.4153916),tourism,museum
+164,,POINT (-49.2725451 -25.4153849),tourism,museum
+165,,POINT (-49.2726088 -25.4153753),tourism,museum
+166,,POINT (-49.2726222 -25.4154334),tourism,museum
+167,,POINT (-49.2719925 -25.4151172),tourism,museum
+168,,POINT (-49.272185 -25.415454),tourism,museum
+169,,POINT (-49.2724015 -25.4153638),tourism,museum
+170,,POINT (-49.2722903 -25.4149332),tourism,museum
+171,,POINT (-49.272026 -25.4149513),tourism,museum
+172,,POINT (-49.2722299 -25.4149174),tourism,museum
+173,,POINT (-49.2719033 -25.4149695),tourism,museum
+174,,POINT (-49.2719717 -25.4149598),tourism,museum
+175,,POINT (-49.2722815 -25.4149071),tourism,museum
+176,,POINT (-49.2199354 -25.4367843),tourism,museum
+177,,POINT (-49.2199874 -25.4368834),tourism,museum
+178,,POINT (-49.2196742 -25.4368939),tourism,museum
+179,,POINT (-49.2197262 -25.4369982),tourism,museum
+180,,POINT (-49.2672262 -25.4091277),tourism,museum
+181,,POINT (-49.2667043 -25.4095443),tourism,museum
+182,,POINT (-49.2667177 -25.4095945),tourism,museum
+183,,POINT (-49.2664216 -25.4096068),tourism,museum
+184,,POINT (-49.2665787 -25.4102246),tourism,museum
+185,,POINT (-49.2668616 -25.4101667),tourism,museum
+186,,POINT (-49.2675243 -25.4103565),tourism,museum
+187,,POINT (-49.2667775 -25.409204),tourism,museum
+188,,POINT (-49.2676663 -25.4109421),tourism,museum
+189,,POINT (-49.2672194 -25.4110291),tourism,museum
+190,,POINT (-49.267197 -25.4109296),tourism,museum
+191,,POINT (-49.2673413 -25.409602),tourism,museum
+192,,POINT (-49.2664576 -25.4097485),tourism,museum
+193,,POINT (-49.2664344 -25.4096573),tourism,museum
+194,Museu do Expedicionário,"POLYGON ((-49.2587166 -25.4285485, -49.2586683 -25.4285278, -49.2586182 -25.4286228, -49.2585896 -25.4286105, -49.2586397 -25.4285154, -49.2585603 -25.4284813, -49.258508 -25.4285804, -49.2584767 -25.4285669, -49.2585289 -25.4284678, -49.258481 -25.4284472, -49.2583913 -25.4286472, -49.2584499 -25.4286737, -49.258557 -25.428715, -49.2586113 -25.4287359, -49.2587166 -25.4285485))",tourism,museum
+195,Museu Universitário PUCPR,"POLYGON ((-49.2526558 -25.4518998, -49.2526257 -25.4521361, -49.2524787 -25.4521208, -49.2525089 -25.4518846, -49.2526558 -25.4518998))",tourism,museum
+196,Portão Cultural,"POLYGON ((-49.2933784 -25.4761649, -49.2931501 -25.4760972, -49.2931318 -25.4761474, -49.2930148 -25.4764893, -49.2929206 -25.4767537, -49.2931503 -25.4768157, -49.2933595 -25.4762163, -49.2933784 -25.4761649))",tourism,museum
+197,Museu Botânico,"POLYGON ((-49.2380607 -25.4401073, -49.2379241 -25.4400294, -49.2379788 -25.4399365, -49.2380228 -25.4398942, -49.238114 -25.4398384, -49.2382455 -25.4397852, -49.2383888 -25.4397547, -49.2384535 -25.4397488, -49.2384705 -25.4399291, -49.2382898 -25.4399596, -49.2382142 -25.4399825, -49.2381041 -25.4400636, -49.2380607 -25.4401073))",tourism,museum
+198,Liceu de Ofícios Casa Klemtz,"POLYGON ((-49.3239271 -25.4759289, -49.3238929 -25.4760243, -49.3237709 -25.4759894, -49.3237605 -25.4760189, -49.3236371 -25.4759867, -49.3236445 -25.4759504, -49.32353 -25.4759142, -49.3235686 -25.4758188, -49.3239271 -25.4759289))",tourism,museum
+199,Museu de História Natural do Capão da Imbuia,"POLYGON ((-49.2199874 -25.4368834, -49.2199354 -25.4367843, -49.2196742 -25.4368939, -49.2197262 -25.4369982, -49.2199874 -25.4368834))",tourism,museum
+200,Museu de Arte Contemporânea do Paraná,"POLYGON ((-49.273099 -25.4331919, -49.2730265 -25.4331422, -49.2730433 -25.4331275, -49.2729922 -25.4330801, -49.2729815 -25.4330895, -49.2729568 -25.4331111, -49.272926 -25.4330825, -49.2728135 -25.4331814, -49.2728262 -25.4331931, -49.2727541 -25.4332564, -49.2728274 -25.4333244, -49.2728877 -25.4332714, -49.2729028 -25.4332855, -49.2729809 -25.433217, -49.2730346 -25.4332668, -49.273099 -25.4331919))",tourism,museum
+201,Museu Paranaense,"POLYGON ((-49.2761217 -25.4277658, -49.2763875 -25.4277036, -49.276359 -25.4276044, -49.2763414 -25.4275431, -49.2761187 -25.4275953, -49.2761083 -25.4275591, -49.2759468 -25.4275969, -49.2759527 -25.4276175, -49.2758869 -25.4276329, -49.2759288 -25.4277786, -49.2759907 -25.4277641, -49.2759994 -25.4277945, -49.276071 -25.4277777, -49.2760806 -25.4278353, -49.2760384 -25.4279188, -49.2760326 -25.4279303, -49.2759543 -25.4280852, -49.276464 -25.4279447, -49.2764573 -25.4279108, -49.2761751 -25.4278434, -49.2761319 -25.4278331, -49.2761217 -25.4277658))",tourism,museum
+202,Alfredo Andersen,"POLYGON ((-49.2712101 -25.4245456, -49.2710873 -25.4245645, -49.2711015 -25.42464, -49.2711501 -25.4246325, -49.2711546 -25.4246567, -49.2712289 -25.4246452, -49.2712101 -25.4245456))",tourism,museum
+203,Memorial de Curitiba,"POLYGON ((-49.2731415 -25.4275692, -49.2728317 -25.4276347, -49.2728344 -25.4276734, -49.2727862 -25.4276734, -49.2727851 -25.4276742, -49.2727486 -25.4277012, -49.2726909 -25.4276777, -49.2727741 -25.4279853, -49.2728071 -25.4279964, -49.2732535 -25.4281441, -49.2732915 -25.428047, -49.2732394 -25.4280168, -49.2732559 -25.4279812, -49.2732724 -25.4279456, -49.2730168 -25.4278448, -49.2731246 -25.4276477, -49.2731415 -25.4275692))",tourism,museum
+204,Museu Guido Viaro,"POLYGON ((-49.2612465 -25.4272686, -49.2613791 -25.4273203, -49.2613519 -25.4273773, -49.2613327 -25.4273698, -49.2612709 -25.4274991, -49.2611575 -25.427455, -49.2612465 -25.4272686))",tourism,museum
+205,Museu do Automóvel,"POLYGON ((-49.3063049 -25.4226449, -49.3064972 -25.4226465, -49.3064946 -25.4228982, -49.3059667 -25.4228938, -49.305968 -25.4227686, -49.3061618 -25.4227702, -49.3061613 -25.4228255, -49.306303 -25.4228267, -49.3063049 -25.4226449))",tourism,museum
+206,Casa Estrela,"POLYGON ((-49.2505414 -25.4530731, -49.2506049 -25.4530687, -49.2506337 -25.4530209, -49.2506034 -25.4529748, -49.2505441 -25.4529738, -49.2505121 -25.4530203, -49.2505414 -25.4530731))",tourism,museum
+207,Museu do Automóvel de Curitiba,"POLYGON ((-49.3066725 -25.4222563, -49.3066574 -25.4225294, -49.3065171 -25.4225231, -49.3065321 -25.42225, -49.3066725 -25.4222563))",tourism,museum
+208,Museu do Automóvel de Curitiba,"POLYGON ((-49.3065502 -25.4219429, -49.3065451 -25.4221294, -49.3065096 -25.4221286, -49.3065052 -25.4222879, -49.3060428 -25.4222775, -49.3060524 -25.4219317, -49.3065502 -25.4219429))",tourism,museum
+209,Memorial da Segurança no Transporte no Brasil,"POLYGON ((-49.365031 -25.4522139, -49.3646332 -25.4521628, -49.3644172 -25.4525878, -49.3647537 -25.4527056, -49.365031 -25.4522139))",tourism,museum
+210,,"POLYGON ((-49.2724012 -25.4153916, -49.272411 -25.4154322, -49.2722034 -25.4154725, -49.2720113 -25.4151384, -49.2719858 -25.4150215, -49.2720452 -25.4150143, -49.2720421 -25.4149731, -49.2722483 -25.4149452, -49.2722504 -25.4149652, -49.2722923 -25.4149592, -49.2724012 -25.4153916))",tourism,museum
+211,Museu do Holocausto,"POLYGON ((-49.2726222 -25.4154334, -49.2726088 -25.4153753, -49.2725451 -25.4153849, -49.2725357 -25.4153438, -49.2724015 -25.4153638, -49.2722903 -25.4149332, -49.2722815 -25.4149071, -49.2722299 -25.4149174, -49.272026 -25.4149513, -49.2719717 -25.4149598, -49.2719033 -25.4149695, -49.2719925 -25.4151172, -49.272185 -25.415454, -49.2722346 -25.4155139, -49.2726222 -25.4154334))",tourism,museum
+212,,"POLYGON ((-49.2672262 -25.4091277, -49.2667775 -25.409204, -49.267197 -25.4109296, -49.2672194 -25.4110291, -49.2676663 -25.4109421, -49.2675243 -25.4103565, -49.2673413 -25.409602, -49.2672262 -25.4091277))",tourism,museum
+213,,"POLYGON ((-49.2667043 -25.4095443, -49.2667177 -25.4095945, -49.2668616 -25.4101667, -49.2665787 -25.4102246, -49.2664576 -25.4097485, -49.2664344 -25.4096573, -49.2664216 -25.4096068, -49.2667043 -25.4095443))",tourism,museum
+214,Museu Oscar Niemeyer,"POLYGON ((-49.2667043 -25.4095443, -49.2667177 -25.4095945, -49.2668616 -25.4101667, -49.2665787 -25.4102246, -49.2664576 -25.4097485, -49.2664344 -25.4096573, -49.2664216 -25.4096068, -49.2667043 -25.4095443))",tourism,museum
+0,,POINT (-49.3032657 -25.4156254),tourism,picnic_site
+1,,POINT (-49.2789702 -25.3909484),tourism,picnic_site
+2,,POINT (-49.2790263 -25.3909521),tourism,picnic_site
+3,,POINT (-49.2789485 -25.390972),tourism,picnic_site
+4,,POINT (-49.2790478 -25.3909863),tourism,picnic_site
+5,,POINT (-49.2789456 -25.3910108),tourism,picnic_site
+6,,POINT (-49.2790389 -25.3910133),tourism,picnic_site
+7,,POINT (-49.2789731 -25.3910335),tourism,picnic_site
+8,,POINT (-49.279009 -25.391037),tourism,picnic_site
+9,,"POLYGON ((-49.2790263 -25.3909521, -49.2790478 -25.3909863, -49.2790389 -25.3910133, -49.279009 -25.391037, -49.2789731 -25.3910335, -49.2789456 -25.3910108, -49.2789485 -25.390972, -49.2789702 -25.3909484, -49.2790263 -25.3909521))",tourism,picnic_site
+0,Mirante da Chaminé Passaúna,POINT (-49.3802665 -25.4817884),tourism,viewpoint
+1,Torre dos Filósofos,POINT (-49.2876646 -25.404541),tourism,viewpoint
+2,,POINT (-49.2835496 -25.3790261),tourism,viewpoint
+3,Belvedere,POINT (-49.2759629 -25.4270892),tourism,viewpoint
+4,Mirante Passaúna,POINT (-49.3785847 -25.4760343),tourism,viewpoint
+5,Mirante Parque do Bugio,POINT (-49.3447767 -25.5665771),tourism,viewpoint
+6,Mirante do vale do Barigui,POINT (-49.3175095 -25.4538359),tourism,viewpoint
+7,,POINT (-49.3477366 -25.4767267),tourism,viewpoint
+8,,POINT (-49.3206883 -25.4377496),tourism,viewpoint
+9,,POINT (-49.2360785 -25.5603939),tourism,viewpoint
+0,,POINT (-49.2312527 -25.5626069),tourism,zoo
+1,,POINT (-49.2319032 -25.5626822),tourism,zoo
+2,,POINT (-49.2325738 -25.5627621),tourism,zoo
+3,,POINT (-49.2335824 -25.5629019),tourism,zoo
+4,,POINT (-49.2352218 -25.5630779),tourism,zoo
+5,,POINT (-49.2364727 -25.5632183),tourism,zoo
+6,,POINT (-49.2366866 -25.5626496),tourism,zoo
+7,,POINT (-49.2330663 -25.5628373),tourism,zoo
+8,,POINT (-49.2344329 -25.562997),tourism,zoo
+9,,POINT (-49.236305 -25.5631857),tourism,zoo
+10,,POINT (-49.2358303 -25.5631518),tourism,zoo
+11,,POINT (-49.2355138 -25.5631143),tourism,zoo
+12,,POINT (-49.2315495 -25.5626473),tourism,zoo
+13,,POINT (-49.2322469 -25.5627199),tourism,zoo
+14,,POINT (-49.2340118 -25.5629474),tourism,zoo
+15,,POINT (-49.2347199 -25.5630296),tourism,zoo
+16,,POINT (-49.2379279 -25.5613812),tourism,zoo
+17,,POINT (-49.2379264 -25.5611292),tourism,zoo
+18,,POINT (-49.2379925 -25.5604532),tourism,zoo
+19,,POINT (-49.237673 -25.5595749),tourism,zoo
+20,,POINT (-49.2375156 -25.5585862),tourism,zoo
+21,,POINT (-49.2315178 -25.5611628),tourism,zoo
+22,,POINT (-49.2312013 -25.5607563),tourism,zoo
+23,,POINT (-49.2312602 -25.5581196),tourism,zoo
+24,,POINT (-49.2312964 -25.5580703),tourism,zoo
+25,,POINT (-49.2313608 -25.5569669),tourism,zoo
+26,,POINT (-49.2370754 -25.5567198),tourism,zoo
+27,,POINT (-49.2307707 -25.5587865),tourism,zoo
+28,,POINT (-49.2307921 -25.5558344),tourism,zoo
+29,,POINT (-49.2308136 -25.5559409),tourism,zoo
+30,,POINT (-49.2313729 -25.5576148),tourism,zoo
+31,,POINT (-49.2313822 -25.5572669),tourism,zoo
+32,,POINT (-49.2311891 -25.5566184),tourism,zoo
+33,,POINT (-49.2309291 -25.5605379),tourism,zoo
+34,,POINT (-49.2370721 -25.5621285),tourism,zoo
+35,,POINT (-49.2341519 -25.556079),tourism,zoo
+36,,POINT (-49.2356576 -25.5565349),tourism,zoo
+37,,POINT (-49.2363919 -25.5564091),tourism,zoo
+38,,POINT (-49.2310346 -25.558427),tourism,zoo
+39,,POINT (-49.2313729 -25.5578706),tourism,zoo
+40,,POINT (-49.2318673 -25.5553323),tourism,zoo
+41,,POINT (-49.2326393 -25.5549034),tourism,zoo
+42,,POINT (-49.2329182 -25.5547188),tourism,zoo
+43,,POINT (-49.2328536 -25.5549102),tourism,zoo
+44,,POINT (-49.2329425 -25.5552649),tourism,zoo
+45,,POINT (-49.231114 -25.5556215),tourism,zoo
+46,,POINT (-49.2308672 -25.5557473),tourism,zoo
+47,,POINT (-49.2323837 -25.5550869),tourism,zoo
+48,,POINT (-49.230531 -25.5602284),tourism,zoo
+49,,POINT (-49.2306074 -25.5587162),tourism,zoo
+50,,POINT (-49.2301275 -25.5591461),tourism,zoo
+51,,POINT (-49.2303773 -25.5594225),tourism,zoo
+52,,POINT (-49.2305189 -25.5596669),tourism,zoo
+53,,POINT (-49.2305577 -25.5597623),tourism,zoo
+54,,POINT (-49.2305133 -25.5597342),tourism,zoo
+55,,POINT (-49.2302637 -25.5592389),tourism,zoo
+56,,POINT (-49.2301621 -25.559385),tourism,zoo
+57,,POINT (-49.2305078 -25.5601283),tourism,zoo
+58,,POINT (-49.2305551 -25.5596017),tourism,zoo
+59,,POINT (-49.2305707 -25.559654),tourism,zoo
+60,,POINT (-49.2304764 -25.5595006),tourism,zoo
+61,,POINT (-49.2305369 -25.5598139),tourism,zoo
+62,,POINT (-49.2302252 -25.559319),tourism,zoo
+63,,POINT (-49.2379681 -25.4399514),tourism,zoo
+64,,POINT (-49.2378433 -25.4401172),tourism,zoo
+65,,POINT (-49.2376452 -25.4400767),tourism,zoo
+66,,POINT (-49.2378081 -25.4401682),tourism,zoo
+67,,POINT (-49.2379148 -25.4400287),tourism,zoo
+68,,POINT (-49.2377775 -25.4400802),tourism,zoo
+69,,POINT (-49.2377975 -25.4398556),tourism,zoo
+70,,POINT (-49.2378414 -25.4399875),tourism,zoo
+71,,POINT (-49.2678812 -25.4254659),tourism,zoo
+72,,POINT (-49.2680221 -25.4253736),tourism,zoo
+73,,POINT (-49.2680355 -25.4252847),tourism,zoo
+74,,POINT (-49.2679532 -25.4252699),tourism,zoo
+75,,POINT (-49.2677988 -25.4253736),tourism,zoo
+76,,POINT (-49.2677945 -25.4254657),tourism,zoo
+77,,POINT (-49.2680432 -25.4253337),tourism,zoo
+78,,POINT (-49.2680355 -25.4253561),tourism,zoo
+79,,POINT (-49.2680462 -25.4253143),tourism,zoo
+80,,POINT (-49.2680232 -25.4252761),tourism,zoo
+81,,POINT (-49.2679918 -25.4252659),tourism,zoo
+82,,POINT (-49.2679698 -25.4252646),tourism,zoo
+83,,POINT (-49.2680436 -25.4252987),tourism,zoo
+84,,POINT (-49.2678326 -25.4254784),tourism,zoo
+85,,POINT (-49.267774 -25.4254223),tourism,zoo
+86,,POINT (-49.2678541 -25.4254766),tourism,zoo
+87,,POINT (-49.2678132 -25.4254753),tourism,zoo
+88,,POINT (-49.2677818 -25.4254452),tourism,zoo
+89,,POINT (-49.2677812 -25.4253963),tourism,zoo
+90,,POINT (-49.2677211 -25.4253678),tourism,zoo
+91,,POINT (-49.2677115 -25.4253876),tourism,zoo
+92,,POINT (-49.2675816 -25.4253429),tourism,zoo
+93,,POINT (-49.2675886 -25.4253231),tourism,zoo
+94,,POINT (-49.2676951 -25.4254034),tourism,zoo
+95,,POINT (-49.2676739 -25.4254134),tourism,zoo
+96,,POINT (-49.2676502 -25.4254165),tourism,zoo
+97,,POINT (-49.2676267 -25.4254123),tourism,zoo
+98,,POINT (-49.267606 -25.4254013),tourism,zoo
+99,,POINT (-49.2675906 -25.4253848),tourism,zoo
+100,,POINT (-49.2675821 -25.4253645),tourism,zoo
+101,,POINT (-49.2676021 -25.4253064),tourism,zoo
+102,,POINT (-49.2676209 -25.4252945),tourism,zoo
+103,,POINT (-49.2676429 -25.4252885),tourism,zoo
+104,,POINT (-49.2676658 -25.4252892),tourism,zoo
+105,,POINT (-49.2676873 -25.4252964),tourism,zoo
+106,,POINT (-49.2677051 -25.4253095),tourism,zoo
+107,,POINT (-49.2677174 -25.425327),tourism,zoo
+108,,POINT (-49.267723 -25.4253471),tourism,zoo
+109,,POINT (-49.268185 -25.4247325),tourism,zoo
+110,,POINT (-49.268247 -25.4247976),tourism,zoo
+111,,POINT (-49.2681343 -25.4248851),tourism,zoo
+112,,POINT (-49.2680723 -25.4248199),tourism,zoo
+113,,POINT (-49.2674366 -25.4247189),tourism,zoo
+114,,POINT (-49.2672671 -25.4247896),tourism,zoo
+115,,POINT (-49.2670403 -25.4248263),tourism,zoo
+116,,POINT (-49.2670507 -25.424929),tourism,zoo
+117,,POINT (-49.2671146 -25.4249214),tourism,zoo
+118,,POINT (-49.2671104 -25.4248699),tourism,zoo
+119,,POINT (-49.2671966 -25.4248585),tourism,zoo
+120,,POINT (-49.2672092 -25.4249124),tourism,zoo
+121,,POINT (-49.2672858 -25.4248944),tourism,zoo
+122,,POINT (-49.2672752 -25.4248394),tourism,zoo
+123,,POINT (-49.2673572 -25.4248156),tourism,zoo
+124,,POINT (-49.2673804 -25.4248744),tourism,zoo
+125,,POINT (-49.267462 -25.4248451),tourism,zoo
+126,,POINT (-49.2674353 -25.4247925),tourism,zoo
+127,,POINT (-49.2675154 -25.4247326),tourism,zoo
+128,,POINT (-49.2675655 -25.4247818),tourism,zoo
+129,,POINT (-49.2676227 -25.4247274),tourism,zoo
+130,,POINT (-49.2675722 -25.4246883),tourism,zoo
+131,,POINT (-49.2673633 -25.4247631),tourism,zoo
+132,,POINT (-49.2671546 -25.4248152),tourism,zoo
+133,,POINT (-49.267944 -25.4249175),tourism,zoo
+134,,POINT (-49.2680457 -25.4248487),tourism,zoo
+135,,POINT (-49.2680152 -25.4250001),tourism,zoo
+136,,POINT (-49.2681117 -25.4249285),tourism,zoo
+137,,POINT (-49.2680095 -25.4252699),tourism,zoo
+138,,POINT (-49.267609 -25.4244392),tourism,zoo
+139,,POINT (-49.2675526 -25.4245938),tourism,zoo
+140,,POINT (-49.2676175 -25.4246335),tourism,zoo
+141,,POINT (-49.2676875 -25.4246535),tourism,zoo
+142,,POINT (-49.2677121 -25.4245857),tourism,zoo
+143,,POINT (-49.2676415 -25.4245701),tourism,zoo
+144,,POINT (-49.2677224 -25.4245209),tourism,zoo
+145,,POINT (-49.2677351 -25.4244604),tourism,zoo
+146,,POINT (-49.2676573 -25.4245114),tourism,zoo
+147,,POINT (-49.2675017 -25.4246596),tourism,zoo
+148,,POINT (-49.2675897 -25.4245213),tourism,zoo
+149,Zoológico de Curitiba,"POLYGON ((-49.2364727 -25.5632183, -49.236305 -25.5631857, -49.2358303 -25.5631518, -49.2355138 -25.5631143, -49.2352218 -25.5630779, -49.2347199 -25.5630296, -49.2344329 -25.562997, -49.2340118 -25.5629474, -49.2335824 -25.5629019, -49.2330663 -25.5628373, -49.2325738 -25.5627621, -49.2322469 -25.5627199, -49.2319032 -25.5626822, -49.2315495 -25.5626473, -49.2312527 -25.5626069, -49.2315178 -25.5611628, -49.2312013 -25.5607563, -49.2309291 -25.5605379, -49.230531 -25.5602284, -49.2305078 -25.5601283, -49.2305369 -25.5598139, -49.2305577 -25.5597623, -49.2305133 -25.5597342, -49.2305189 -25.5596669, -49.2305707 -25.559654, -49.2305551 -25.5596017, -49.2304764 -25.5595006, -49.2303773 -25.5594225, -49.2301621 -25.559385, -49.2302252 -25.559319, -49.2302637 -25.5592389, -49.2301275 -25.5591461, -49.2306074 -25.5587162, -49.2307707 -25.5587865, -49.2310346 -25.558427, -49.2312602 -25.5581196, -49.2312964 -25.5580703, -49.2313729 -25.5578706, -49.2313729 -25.5576148, -49.2313822 -25.5572669, -49.2313608 -25.5569669, -49.2311891 -25.5566184, -49.2308136 -25.5559409, -49.2307921 -25.5558344, -49.2308672 -25.5557473, -49.231114 -25.5556215, -49.2318673 -25.5553323, -49.2323837 -25.5550869, -49.2326393 -25.5549034, -49.2329182 -25.5547188, -49.2328536 -25.5549102, -49.2329425 -25.5552649, -49.2341519 -25.556079, -49.2356576 -25.5565349, -49.2363919 -25.5564091, -49.2370754 -25.5567198, -49.2375156 -25.5585862, -49.237673 -25.5595749, -49.2379925 -25.5604532, -49.2379264 -25.5611292, -49.2379279 -25.5613812, -49.2370721 -25.5621285, -49.2366866 -25.5626496, -49.2364727 -25.5632183))",tourism,zoo
+150,,"POLYGON ((-49.2378081 -25.4401682, -49.2378433 -25.4401172, -49.2377775 -25.4400802, -49.2378414 -25.4399875, -49.2379148 -25.4400287, -49.2379681 -25.4399514, -49.2377975 -25.4398556, -49.2376452 -25.4400767, -49.2378081 -25.4401682))",tourism,zoo
+151,,"POLYGON ((-49.2678812 -25.4254659, -49.2680221 -25.4253736, -49.2680355 -25.4253561, -49.2680432 -25.4253337, -49.2680462 -25.4253143, -49.2680436 -25.4252987, -49.2680355 -25.4252847, -49.2680232 -25.4252761, -49.2680095 -25.4252699, -49.2679918 -25.4252659, -49.2679698 -25.4252646, -49.2679532 -25.4252699, -49.2677988 -25.4253736, -49.2677812 -25.4253963, -49.267774 -25.4254223, -49.2677818 -25.4254452, -49.2677945 -25.4254657, -49.2678132 -25.4254753, -49.2678326 -25.4254784, -49.2678541 -25.4254766, -49.2678812 -25.4254659))",tourism,zoo
+152,,"POLYGON ((-49.2676021 -25.4253064, -49.2676209 -25.4252945, -49.2676429 -25.4252885, -49.2676658 -25.4252892, -49.2676873 -25.4252964, -49.2677051 -25.4253095, -49.2677174 -25.425327, -49.267723 -25.4253471, -49.2677211 -25.4253678, -49.2677115 -25.4253876, -49.2676951 -25.4254034, -49.2676739 -25.4254134, -49.2676502 -25.4254165, -49.2676267 -25.4254123, -49.267606 -25.4254013, -49.2675906 -25.4253848, -49.2675821 -25.4253645, -49.2675816 -25.4253429, -49.2675886 -25.4253231, -49.2676021 -25.4253064))",tourism,zoo
+153,Psitascídeos,"POLYGON ((-49.268185 -25.4247325, -49.268247 -25.4247976, -49.2681343 -25.4248851, -49.2680723 -25.4248199, -49.268185 -25.4247325))",tourism,zoo
+154,Jardim Zoológico de Curitiba,"POLYGON ((-49.267609 -25.4244392, -49.2675897 -25.4245213, -49.2675526 -25.4245938, -49.2675017 -25.4246596, -49.2674366 -25.4247189, -49.2673633 -25.4247631, -49.2672671 -25.4247896, -49.2671546 -25.4248152, -49.2670403 -25.4248263, -49.2670507 -25.424929, -49.2671146 -25.4249214, -49.2671104 -25.4248699, -49.2671966 -25.4248585, -49.2672092 -25.4249124, -49.2672858 -25.4248944, -49.2672752 -25.4248394, -49.2673572 -25.4248156, -49.2673804 -25.4248744, -49.267462 -25.4248451, -49.2674353 -25.4247925, -49.2675154 -25.4247326, -49.2675655 -25.4247818, -49.2676227 -25.4247274, -49.2675722 -25.4246883, -49.2676175 -25.4246335, -49.2676875 -25.4246535, -49.2677121 -25.4245857, -49.2676415 -25.4245701, -49.2676573 -25.4245114, -49.2677224 -25.4245209, -49.2677351 -25.4244604, -49.267609 -25.4244392))",tourism,zoo
+155,Serpentário,"POLYGON ((-49.267944 -25.4249175, -49.2680152 -25.4250001, -49.2681117 -25.4249285, -49.2680457 -25.4248487, -49.267944 -25.4249175))",tourism,zoo
+0,,POINT (-49.230769 -25.4121325),aeroway,aerodrome
+1,,POINT (-49.2308401 -25.411837),aeroway,aerodrome
+2,,POINT (-49.2302728 -25.4119339),aeroway,aerodrome
+3,,POINT (-49.2319036 -25.4074675),aeroway,aerodrome
+4,,POINT (-49.2328441 -25.4052153),aeroway,aerodrome
+5,,POINT (-49.2311861 -25.4092434),aeroway,aerodrome
+6,,POINT (-49.2309272 -25.4113124),aeroway,aerodrome
+7,,POINT (-49.2309688 -25.4110314),aeroway,aerodrome
+8,,POINT (-49.2309567 -25.4106474),aeroway,aerodrome
+9,,POINT (-49.2309594 -25.4104185),aeroway,aerodrome
+10,,POINT (-49.231111 -25.4094506),aeroway,aerodrome
+11,,POINT (-49.2391676 -25.4010088),aeroway,aerodrome
+12,,POINT (-49.2375796 -25.4033683),aeroway,aerodrome
+13,,POINT (-49.2383588 -25.4023875),aeroway,aerodrome
+14,,POINT (-49.2390469 -25.4015267),aeroway,aerodrome
+15,,POINT (-49.238097 -25.402715),aeroway,aerodrome
+16,,POINT (-49.2390208 -25.401508),aeroway,aerodrome
+17,,POINT (-49.2390872 -25.4014238),aeroway,aerodrome
+18,,POINT (-49.2391516 -25.4011694),aeroway,aerodrome
+19,,POINT (-49.2389993 -25.4013596),aeroway,aerodrome
+20,,POINT (-49.2391737 -25.4010736),aeroway,aerodrome
+21,,POINT (-49.2391549 -25.400967),aeroway,aerodrome
+22,,POINT (-49.239136 -25.4008965),aeroway,aerodrome
+23,,POINT (-49.2391127 -25.4009222),aeroway,aerodrome
+24,,POINT (-49.2315549 -25.398767),aeroway,aerodrome
+25,,POINT (-49.2368549 -25.4042876),aeroway,aerodrome
+26,,POINT (-49.2356305 -25.3986157),aeroway,aerodrome
+27,,POINT (-49.23681 -25.4043167),aeroway,aerodrome
+28,,POINT (-49.2329693 -25.404886),aeroway,aerodrome
+29,,POINT (-49.2308568 -25.3993255),aeroway,aerodrome
+30,,POINT (-49.2312833 -25.3991232),aeroway,aerodrome
+31,,POINT (-49.230952 -25.3992558),aeroway,aerodrome
+32,,POINT (-49.2309211 -25.3992001),aeroway,aerodrome
+33,,POINT (-49.2308246 -25.399234),aeroway,aerodrome
+34,,POINT (-49.2308179 -25.3992952),aeroway,aerodrome
+35,,POINT (-49.2312597 -25.3990672),aeroway,aerodrome
+36,,POINT (-49.2316233 -25.3989402),aeroway,aerodrome
+37,,POINT (-49.230824 -25.3993406),aeroway,aerodrome
+38,,POINT (-49.2327987 -25.3979281),aeroway,aerodrome
+39,,POINT (-49.2338397 -25.3974281),aeroway,aerodrome
+40,,POINT (-49.2328893 -25.3980759),aeroway,aerodrome
+41,,POINT (-49.2332423 -25.3977128),aeroway,aerodrome
+42,,POINT (-49.2333397 -25.3976688),aeroway,aerodrome
+43,,POINT (-49.2336185 -25.3975428),aeroway,aerodrome
+44,,POINT (-49.2332138 -25.3977257),aeroway,aerodrome
+45,,POINT (-49.2350733 -25.3982393),aeroway,aerodrome
+46,,POINT (-49.2345479 -25.3978999),aeroway,aerodrome
+47,,POINT (-49.2343167 -25.397749),aeroway,aerodrome
+48,,POINT (-49.2276683 -25.4081108),aeroway,aerodrome
+49,,POINT (-49.2272472 -25.4087274),aeroway,aerodrome
+50,,POINT (-49.2288358 -25.4101623),aeroway,aerodrome
+51,,POINT (-49.2292804 -25.4057655),aeroway,aerodrome
+52,,POINT (-49.2287714 -25.409662),aeroway,aerodrome
+53,,POINT (-49.2270199 -25.4090635),aeroway,aerodrome
+54,,POINT (-49.2294265 -25.4112337),aeroway,aerodrome
+55,,POINT (-49.2290423 -25.4104415),aeroway,aerodrome
+56,,POINT (-49.2287131 -25.4106595),aeroway,aerodrome
+57,,POINT (-49.228355 -25.4071259),aeroway,aerodrome
+58,,POINT (-49.2283134 -25.4094881),aeroway,aerodrome
+59,,POINT (-49.2278829 -25.409407),aeroway,aerodrome
+60,,POINT (-49.2281578 -25.4094591),aeroway,aerodrome
+61,,POINT (-49.2288076 -25.4100399),aeroway,aerodrome
+62,,POINT (-49.2289404 -25.4103325),aeroway,aerodrome
+63,,POINT (-49.2293972 -25.4027565),aeroway,aerodrome
+64,,POINT (-49.2294703 -25.4030873),aeroway,aerodrome
+65,,POINT (-49.2292742 -25.4028229),aeroway,aerodrome
+66,,POINT (-49.2293012 -25.4027721),aeroway,aerodrome
+67,,POINT (-49.2293129 -25.4031129),aeroway,aerodrome
+68,,POINT (-49.2293102 -25.402817),aeroway,aerodrome
+69,,POINT (-49.230199 -25.4044516),aeroway,aerodrome
+70,,POINT (-49.2299477 -25.4010167),aeroway,aerodrome
+71,,POINT (-49.2298317 -25.4004855),aeroway,aerodrome
+72,,POINT (-49.2299373 -25.4009687),aeroway,aerodrome
+73,,POINT (-49.2296686 -25.3998095),aeroway,aerodrome
+74,,POINT (-49.229457 -25.3998912),aeroway,aerodrome
+75,,POINT (-49.2297617 -25.4001209),aeroway,aerodrome
+76,,POINT (-49.2297045 -25.3998301),aeroway,aerodrome
+77,,POINT (-49.2290754 -25.4004423),aeroway,aerodrome
+78,,POINT (-49.2290196 -25.4001952),aeroway,aerodrome
+79,,POINT (-49.2291194 -25.4006329),aeroway,aerodrome
+80,,POINT (-49.2291824 -25.4009334),aeroway,aerodrome
+81,,POINT (-49.2291463 -25.4007647),aeroway,aerodrome
+82,,POINT (-49.2292283 -25.4011436),aeroway,aerodrome
+83,,POINT (-49.2291817 -25.4009675),aeroway,aerodrome
+84,,POINT (-49.22928 -25.4013731),aeroway,aerodrome
+85,,POINT (-49.2292414 -25.4011931),aeroway,aerodrome
+86,,POINT (-49.2293222 -25.4015502),aeroway,aerodrome
+87,,POINT (-49.2293884 -25.4018223),aeroway,aerodrome
+88,,POINT (-49.2293308 -25.4016096),aeroway,aerodrome
+89,,POINT (-49.2293631 -25.4041569),aeroway,aerodrome
+90,,POINT (-49.2300207 -25.4010256),aeroway,aerodrome
+91,,POINT (-49.230313 -25.4009755),aeroway,aerodrome
+92,,POINT (-49.2303986 -25.4009204),aeroway,aerodrome
+93,,POINT (-49.2292906 -25.4030015),aeroway,aerodrome
+94,,POINT (-49.2293093 -25.4029985),aeroway,aerodrome
+95,,POINT (-49.2296062 -25.4036262),aeroway,aerodrome
+96,,POINT (-49.229561 -25.4041849),aeroway,aerodrome
+97,,POINT (-49.2296371 -25.4041723),aeroway,aerodrome
+98,,POINT (-49.2295348 -25.4041667),aeroway,aerodrome
+99,,POINT (-49.2292388 -25.3999755),aeroway,aerodrome
+100,,POINT (-49.2296103 -25.4036552),aeroway,aerodrome
+101,,POINT (-49.2292294 -25.403591),aeroway,aerodrome
+102,,POINT (-49.2292958 -25.4038806),aeroway,aerodrome
+103,,POINT (-49.2293125 -25.40388),aeroway,aerodrome
+104,,POINT (-49.2293451 -25.4040678),aeroway,aerodrome
+105,,POINT (-49.2295251 -25.4041301),aeroway,aerodrome
+106,,POINT (-49.2295405 -25.4041883),aeroway,aerodrome
+107,,POINT (-49.2302755 -25.4040665),aeroway,aerodrome
+108,,POINT (-49.2303003 -25.4040944),aeroway,aerodrome
+109,,POINT (-49.2302285 -25.4043912),aeroway,aerodrome
+110,,POINT (-49.2300126 -25.4047794),aeroway,aerodrome
+111,,POINT (-49.2294004 -25.4024753),aeroway,aerodrome
+112,,POINT (-49.2301809 -25.4043676),aeroway,aerodrome
+113,,POINT (-49.2294886 -25.4027991),aeroway,aerodrome
+114,,POINT (-49.2294074 -25.4028076),aeroway,aerodrome
+115,,POINT (-49.2294829 -25.4030859),aeroway,aerodrome
+116,,POINT (-49.2303647 -25.3995157),aeroway,aerodrome
+117,,POINT (-49.2303626 -25.4009301),aeroway,aerodrome
+118,,POINT (-49.2289726 -25.4000869),aeroway,aerodrome
+119,,POINT (-49.2289759 -25.4002065),aeroway,aerodrome
+120,,POINT (-49.2304526 -25.4011616),aeroway,aerodrome
+121,,POINT (-49.2303633 -25.4011808),aeroway,aerodrome
+122,,POINT (-49.2299536 -25.4010419),aeroway,aerodrome
+123,,POINT (-49.2300776 -25.399901),aeroway,aerodrome
+124,,POINT (-49.2300146 -25.3996465),aeroway,aerodrome
+125,,POINT (-49.2294728 -25.4022415),aeroway,aerodrome
+126,,POINT (-49.2294708 -25.4023239),aeroway,aerodrome
+127,,POINT (-49.2294406 -25.4024056),aeroway,aerodrome
+128,,POINT (-49.2294716 -25.4022895),aeroway,aerodrome
+129,Aeroporto de Bacacheri,"POLYGON ((-49.2391549 -25.400967, -49.2391127 -25.4009222, -49.239136 -25.4008965, -49.2356305 -25.3986157, -49.2350733 -25.3982393, -49.2345479 -25.3978999, -49.2343167 -25.397749, -49.2338397 -25.3974281, -49.2336185 -25.3975428, -49.2333397 -25.3976688, -49.2332423 -25.3977128, -49.2332138 -25.3977257, -49.2327987 -25.3979281, -49.2328893 -25.3980759, -49.2315549 -25.398767, -49.2316233 -25.3989402, -49.2312597 -25.3990672, -49.2312833 -25.3991232, -49.230952 -25.3992558, -49.2309211 -25.3992001, -49.2308246 -25.399234, -49.2308179 -25.3992952, -49.2308568 -25.3993255, -49.230824 -25.3993406, -49.2303647 -25.3995157, -49.2300146 -25.3996465, -49.2300776 -25.399901, -49.2303626 -25.4009301, -49.2303986 -25.4009204, -49.2304526 -25.4011616, -49.2303633 -25.4011808, -49.230313 -25.4009755, -49.2300207 -25.4010256, -49.2299536 -25.4010419, -49.2299477 -25.4010167, -49.2299373 -25.4009687, -49.2298317 -25.4004855, -49.2297617 -25.4001209, -49.2297045 -25.3998301, -49.2296686 -25.3998095, -49.229457 -25.3998912, -49.2292388 -25.3999755, -49.2289726 -25.4000869, -49.2289759 -25.4002065, -49.2290196 -25.4001952, -49.2290754 -25.4004423, -49.2291194 -25.4006329, -49.2291463 -25.4007647, -49.2291824 -25.4009334, -49.2291817 -25.4009675, -49.2292283 -25.4011436, -49.2292414 -25.4011931, -49.22928 -25.4013731, -49.2293222 -25.4015502, -49.2293308 -25.4016096, -49.2293884 -25.4018223, -49.2294728 -25.4022415, -49.2294716 -25.4022895, -49.2294708 -25.4023239, -49.2294406 -25.4024056, -49.2294004 -25.4024753, -49.2294886 -25.4027991, -49.2294074 -25.4028076, -49.2293972 -25.4027565, -49.2293012 -25.4027721, -49.2293102 -25.402817, -49.2292742 -25.4028229, -49.2293093 -25.4029985, -49.2292906 -25.4030015, -49.2293129 -25.4031129, -49.2294703 -25.4030873, -49.2294829 -25.4030859, -49.2296062 -25.4036262, -49.2296103 -25.4036552, -49.2292294 -25.403591, -49.2292958 -25.4038806, -49.2293125 -25.40388, -49.2293451 -25.4040678, -49.2293631 -25.4041569, -49.2295251 -25.4041301, -49.2295348 -25.4041667, -49.2295405 -25.4041883, -49.229561 -25.4041849, -49.2296371 -25.4041723, -49.2302755 -25.4040665, -49.2303003 -25.4040944, -49.2301809 -25.4043676, -49.2302285 -25.4043912, -49.230199 -25.4044516, -49.2300126 -25.4047794, -49.2292804 -25.4057655, -49.228355 -25.4071259, -49.2276683 -25.4081108, -49.2272472 -25.4087274, -49.2270199 -25.4090635, -49.2278829 -25.409407, -49.2281578 -25.4094591, -49.2283134 -25.4094881, -49.2287714 -25.409662, -49.2288076 -25.4100399, -49.2288358 -25.4101623, -49.2289404 -25.4103325, -49.2290423 -25.4104415, -49.2287131 -25.4106595, -49.2294265 -25.4112337, -49.2302728 -25.4119339, -49.230769 -25.4121325, -49.2308401 -25.411837, -49.2309272 -25.4113124, -49.2309688 -25.4110314, -49.2309567 -25.4106474, -49.2309594 -25.4104185, -49.231111 -25.4094506, -49.2311861 -25.4092434, -49.2319036 -25.4074675, -49.2328441 -25.4052153, -49.2329693 -25.404886, -49.23681 -25.4043167, -49.2368549 -25.4042876, -49.2375796 -25.4033683, -49.238097 -25.402715, -49.2383588 -25.4023875, -49.2390469 -25.4015267, -49.2390208 -25.401508, -49.2390872 -25.4014238, -49.2389993 -25.4013596, -49.2391516 -25.4011694, -49.2391737 -25.4010736, -49.2391676 -25.4010088, -49.2391549 -25.400967))",aeroway,aerodrome
+0,Centro Século XXI,POINT (-49.2765574 -25.4351991),aeroway,helipad
+1,Valmor Weiss,POINT (-49.2441645 -25.4486884),aeroway,helipad
+2,Polícia Federal Curitiba,POINT (-49.2283325 -25.3744431),aeroway,helipad
+3,,POINT (-49.2802646 -25.432946),aeroway,helipad
+4,,POINT (-49.2936189 -25.604037),aeroway,helipad
+5,,POINT (-49.2938123 -25.6038882),aeroway,helipad
+6,,POINT (-49.2936329 -25.6038755),aeroway,helipad
+7,,POINT (-49.2937983 -25.6040497),aeroway,helipad
+8,,POINT (-49.3036589 -25.5582764),aeroway,helipad
+9,,POINT (-49.3034958 -25.5583808),aeroway,helipad
+10,,POINT (-49.3036114 -25.5585276),aeroway,helipad
+11,,POINT (-49.3037744 -25.5584231),aeroway,helipad
+12,,POINT (-49.3322444 -25.5077759),aeroway,helipad
+13,,POINT (-49.3320597 -25.5078296),aeroway,helipad
+14,,POINT (-49.3321192 -25.5079962),aeroway,helipad
+15,,POINT (-49.3323038 -25.5079425),aeroway,helipad
+16,,POINT (-49.2954456 -25.4844332),aeroway,helipad
+17,,POINT (-49.2954414 -25.4845476),aeroway,helipad
+18,,POINT (-49.2955666 -25.4845514),aeroway,helipad
+19,,POINT (-49.2955709 -25.484437),aeroway,helipad
+20,,POINT (-49.3424961 -25.4397649),aeroway,helipad
+21,,POINT (-49.3423898 -25.4396953),aeroway,helipad
+22,,POINT (-49.3423126 -25.4397913),aeroway,helipad
+23,,POINT (-49.342419 -25.439861),aeroway,helipad
+24,,POINT (-49.3676067 -25.4309466),aeroway,helipad
+25,,POINT (-49.367576 -25.4311487),aeroway,helipad
+26,,POINT (-49.3677319 -25.431168),aeroway,helipad
+27,,POINT (-49.3677626 -25.4309659),aeroway,helipad
+28,,POINT (-49.2889667 -25.4492048),aeroway,helipad
+29,,POINT (-49.2888077 -25.4491498),aeroway,helipad
+30,,POINT (-49.2887469 -25.4492929),aeroway,helipad
+31,,POINT (-49.2889059 -25.4493479),aeroway,helipad
+32,,POINT (-49.326313 -25.4324126),aeroway,helipad
+33,,POINT (-49.326113 -25.4324154),aeroway,helipad
+34,,POINT (-49.3261161 -25.4325954),aeroway,helipad
+35,,POINT (-49.3263161 -25.4325926),aeroway,helipad
+36,,POINT (-49.3154477 -25.4308057),aeroway,helipad
+37,,POINT (-49.3152826 -25.430868),aeroway,helipad
+38,,POINT (-49.3153517 -25.4310175),aeroway,helipad
+39,,POINT (-49.3155169 -25.4309551),aeroway,helipad
+40,,POINT (-49.3153649 -25.4308369),aeroway,helipad
+41,,POINT (-49.280727 -25.5030953),aeroway,helipad
+42,,POINT (-49.280592 -25.502928),aeroway,helipad
+43,,POINT (-49.2804068 -25.5030496),aeroway,helipad
+44,,POINT (-49.2805418 -25.5032169),aeroway,helipad
+45,,POINT (-49.2677991 -25.4389924),aeroway,helipad
+46,,POINT (-49.2678658 -25.4388421),aeroway,helipad
+47,,POINT (-49.2676996 -25.438782),aeroway,helipad
+48,,POINT (-49.2676329 -25.4389323),aeroway,helipad
+49,,POINT (-49.2616213 -25.4422561),aeroway,helipad
+50,,POINT (-49.2614008 -25.4421726),aeroway,helipad
+51,,POINT (-49.2613064 -25.4423758),aeroway,helipad
+52,,POINT (-49.2615268 -25.4424593),aeroway,helipad
+53,,POINT (-49.240744 -25.4381048),aeroway,helipad
+54,,POINT (-49.2405352 -25.4381128),aeroway,helipad
+55,,POINT (-49.240544 -25.4383017),aeroway,helipad
+56,,POINT (-49.2407528 -25.4382937),aeroway,helipad
+57,,POINT (-49.2684857 -25.4125571),aeroway,helipad
+58,,POINT (-49.2682802 -25.4125574),aeroway,helipad
+59,,POINT (-49.2682805 -25.412737),aeroway,helipad
+60,,POINT (-49.268486 -25.4127367),aeroway,helipad
+61,,POINT (-49.2450672 -25.43652),aeroway,helipad
+62,,POINT (-49.2450224 -25.4363379),aeroway,helipad
+63,,POINT (-49.2448252 -25.4363775),aeroway,helipad
+64,,POINT (-49.2448699 -25.4365595),aeroway,helipad
+65,,POINT (-49.2177982 -25.4078151),aeroway,helipad
+66,,POINT (-49.2178812 -25.4079871),aeroway,helipad
+67,,POINT (-49.2177279 -25.4079115),aeroway,helipad
+68,,POINT (-49.2177665 -25.4078309),aeroway,helipad
+69,,POINT (-49.2177816 -25.4079867),aeroway,helipad
+70,,POINT (-49.2179043 -25.4078367),aeroway,helipad
+71,,POINT (-49.2178743 -25.4078183),aeroway,helipad
+72,,POINT (-49.2177534 -25.4079663),aeroway,helipad
+73,,POINT (-49.2179255 -25.4078631),aeroway,helipad
+74,,POINT (-49.217834 -25.4078101),aeroway,helipad
+75,,POINT (-49.2178468 -25.4079974),aeroway,helipad
+76,,POINT (-49.2179286 -25.407939),aeroway,helipad
+77,,POINT (-49.2177427 -25.4078554),aeroway,helipad
+78,,POINT (-49.2179354 -25.4078946),aeroway,helipad
+79,,POINT (-49.2179096 -25.4079668),aeroway,helipad
+80,,POINT (-49.2177369 -25.4079432),aeroway,helipad
+81,,POINT (-49.2178159 -25.4079972),aeroway,helipad
+82,,POINT (-49.2278094 -25.3759947),aeroway,helipad
+83,,POINT (-49.227559 -25.3760543),aeroway,helipad
+84,,POINT (-49.2276249 -25.3762806),aeroway,helipad
+85,,POINT (-49.2278753 -25.376221),aeroway,helipad
+86,,"POLYGON ((-49.2178743 -25.4078183, -49.2179043 -25.4078367, -49.2179255 -25.4078631, -49.2179354 -25.4078946, -49.2179286 -25.407939, -49.2179096 -25.4079668, -49.2178812 -25.4079871, -49.2178468 -25.4079974, -49.2178159 -25.4079972, -49.2177816 -25.4079867, -49.2177534 -25.4079663, -49.2177369 -25.4079432, -49.2177279 -25.4079115, -49.2177427 -25.4078554, -49.2177665 -25.4078309, -49.2177982 -25.4078151, -49.217834 -25.4078101, -49.2178743 -25.4078183))",aeroway,helipad
+87,,"POLYGON ((-49.2684857 -25.4125571, -49.2682802 -25.4125574, -49.2682805 -25.412737, -49.268486 -25.4127367, -49.2684857 -25.4125571))",aeroway,helipad
+88,Laguna Iguaçu,"POLYGON ((-49.2889059 -25.4493479, -49.2887469 -25.4492929, -49.2888077 -25.4491498, -49.2889667 -25.4492048, -49.2889059 -25.4493479))",aeroway,helipad
+89,Supermax,"POLYGON ((-49.3263161 -25.4325926, -49.3261161 -25.4325954, -49.326113 -25.4324154, -49.326313 -25.4324126, -49.3263161 -25.4325926))",aeroway,helipad
+90,,"POLYGON ((-49.280727 -25.5030953, -49.2805418 -25.5032169, -49.2804068 -25.5030496, -49.280592 -25.502928, -49.280727 -25.5030953))",aeroway,helipad
+91,Ouro Verde,"POLYGON ((-49.3323038 -25.5079425, -49.3321192 -25.5079962, -49.3320597 -25.5078296, -49.3322444 -25.5077759, -49.3323038 -25.5079425))",aeroway,helipad
+92,Igreja Universal do Reino de Deus,"POLYGON ((-49.2615268 -25.4424593, -49.2613064 -25.4423758, -49.2614008 -25.4421726, -49.2616213 -25.4422561, -49.2615268 -25.4424593))",aeroway,helipad
+93,Destro Macro,"POLYGON ((-49.3037744 -25.5584231, -49.3036114 -25.5585276, -49.3034958 -25.5583808, -49.3036589 -25.5582764, -49.3037744 -25.5584231))",aeroway,helipad
+94,Parque Barigui,"POLYGON ((-49.3155169 -25.4309551, -49.3153517 -25.4310175, -49.3152826 -25.430868, -49.3153649 -25.4308369, -49.3154477 -25.4308057, -49.3155169 -25.4309551))",aeroway,helipad
+95,CJB Curitiba,"POLYGON ((-49.2407528 -25.4382937, -49.240544 -25.4383017, -49.2405352 -25.4381128, -49.240744 -25.4381048, -49.2407528 -25.4382937))",aeroway,helipad
+96,Palazzo Lumini,"POLYGON ((-49.342419 -25.439861, -49.3423126 -25.4397913, -49.3423898 -25.4396953, -49.3424961 -25.4397649, -49.342419 -25.439861))",aeroway,helipad
+97,Umbará Energy,"POLYGON ((-49.2937983 -25.6040497, -49.2936189 -25.604037, -49.2936329 -25.6038755, -49.2938123 -25.6038882, -49.2937983 -25.6040497))",aeroway,helipad
+98,Estação Convention Center,"POLYGON ((-49.2677991 -25.4389924, -49.2676329 -25.4389323, -49.2676996 -25.438782, -49.2678658 -25.4388421, -49.2677991 -25.4389924))",aeroway,helipad
+99,Polícia Federal Curitiba,"POLYGON ((-49.2278753 -25.376221, -49.2276249 -25.3762806, -49.227559 -25.3760543, -49.2278094 -25.3759947, -49.2278753 -25.376221))",aeroway,helipad
+100,,"POLYGON ((-49.2955709 -25.484437, -49.2955666 -25.4845514, -49.2954414 -25.4845476, -49.2954456 -25.4844332, -49.2955709 -25.484437))",aeroway,helipad
+101,,"POLYGON ((-49.2450672 -25.43652, -49.2450224 -25.4363379, -49.2448252 -25.4363775, -49.2448699 -25.4365595, -49.2450672 -25.43652))",aeroway,helipad
+102,,"POLYGON ((-49.3677626 -25.4309659, -49.3677319 -25.431168, -49.367576 -25.4311487, -49.3676067 -25.4309466, -49.3677626 -25.4309659))",aeroway,helipad
