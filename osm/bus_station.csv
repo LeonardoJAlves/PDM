@@ -1,0 +1,692 @@
+,name,geom,key,value
+0,Terminal Campo Comprido,POINT (-49.3466482 -25.4415818),amenity,bus_station
+1,Terminal Hauer,POINT (-49.2470343 -25.4819118),amenity,bus_station
+2,Terminal Hauer,POINT (-49.2468834 -25.4817788),amenity,bus_station
+3,Guilhermina - 561,POINT (-49.2773758 -25.4874937),amenity,bus_station
+4,,POINT (-49.3305895 -25.5757062),amenity,bus_station
+5,,POINT (-49.3306972 -25.5756069),amenity,bus_station
+6,,POINT (-49.3316682 -25.5764169),amenity,bus_station
+7,,POINT (-49.3315601 -25.5765157),amenity,bus_station
+8,,POINT (-49.3316212 -25.5764598),amenity,bus_station
+9,,POINT (-49.3306411 -25.5756586),amenity,bus_station
+10,,POINT (-49.3499661 -25.4836853),amenity,bus_station
+11,,POINT (-49.3501603 -25.4837148),amenity,bus_station
+12,,POINT (-49.3501465 -25.4837481),amenity,bus_station
+13,,POINT (-49.3503386 -25.4837769),amenity,bus_station
+14,,POINT (-49.3499202 -25.4838092),amenity,bus_station
+15,,POINT (-49.3503244 -25.4838102),amenity,bus_station
+16,,POINT (-49.3500941 -25.4838741),amenity,bus_station
+17,,POINT (-49.3498896 -25.483876),amenity,bus_station
+18,,POINT (-49.3502424 -25.4839296),amenity,bus_station
+19,,POINT (-49.3502117 -25.4839965),amenity,bus_station
+20,,POINT (-49.3500666 -25.4839403),amenity,bus_station
+21,,POINT (-49.3499871 -25.4839392),amenity,bus_station
+22,,POINT (-49.3499565 -25.483901),amenity,bus_station
+23,,POINT (-49.3499242 -25.4839143),amenity,bus_station
+24,,POINT (-49.3499465 -25.4839227),amenity,bus_station
+25,,POINT (-49.3499166 -25.4839309),amenity,bus_station
+26,,POINT (-49.3500191 -25.4839692),amenity,bus_station
+27,,POINT (-49.3500262 -25.4839538),amenity,bus_station
+28,,POINT (-49.3499975 -25.4839165),amenity,bus_station
+29,,POINT (-49.3500178 -25.4834943),amenity,bus_station
+30,,POINT (-49.3500016 -25.4835336),amenity,bus_station
+31,,POINT (-49.350207 -25.4836025),amenity,bus_station
+32,,POINT (-49.3503808 -25.483616),amenity,bus_station
+33,,POINT (-49.3499804 -25.483652),amenity,bus_station
+34,,POINT (-49.3503646 -25.4836553),amenity,bus_station
+35,,POINT (-49.3237805 -25.5117216),amenity,bus_station
+36,,POINT (-49.3238705 -25.5119),amenity,bus_station
+37,,POINT (-49.3239871 -25.5119448),amenity,bus_station
+38,,POINT (-49.3241762 -25.5119762),amenity,bus_station
+39,,POINT (-49.3244585 -25.511952),amenity,bus_station
+40,,POINT (-49.3251717 -25.5117954),amenity,bus_station
+41,,POINT (-49.3250256 -25.511366),amenity,bus_station
+42,,POINT (-49.2953152 -25.5118737),amenity,bus_station
+43,,POINT (-49.2952743 -25.5134327),amenity,bus_station
+44,,POINT (-49.2955534 -25.5134387),amenity,bus_station
+45,,POINT (-49.2955943 -25.5118797),amenity,bus_station
+46,,POINT (-49.2957347 -25.5118753),amenity,bus_station
+47,,POINT (-49.2956416 -25.5118734),amenity,bus_station
+48,,POINT (-49.2956026 -25.5134408),amenity,bus_station
+49,,POINT (-49.2956957 -25.5134427),amenity,bus_station
+50,,POINT (-49.2951523 -25.5118628),amenity,bus_station
+51,,POINT (-49.2949909 -25.5118594),amenity,bus_station
+52,,POINT (-49.2949506 -25.513429),amenity,bus_station
+53,,POINT (-49.295112 -25.5134323),amenity,bus_station
+54,,POINT (-49.2949419 -25.5118559),amenity,bus_station
+55,,POINT (-49.2948024 -25.5118532),amenity,bus_station
+56,,POINT (-49.2947674 -25.5133577),amenity,bus_station
+57,,POINT (-49.2949068 -25.5133608),amenity,bus_station
+58,,POINT (-49.2945195 -25.5119062),amenity,bus_station
+59,,POINT (-49.2946444 -25.511909),amenity,bus_station
+60,,POINT (-49.2946047 -25.5133539),amenity,bus_station
+61,,POINT (-49.2944797 -25.5133511),amenity,bus_station
+62,,POINT (-49.2947781 -25.5134249),amenity,bus_station
+63,,POINT (-49.2947796 -25.513358),amenity,bus_station
+64,,POINT (-49.2948957 -25.5134272),amenity,bus_station
+65,,POINT (-49.2948973 -25.5133606),amenity,bus_station
+66,,POINT (-49.2945414 -25.5133525),amenity,bus_station
+67,,POINT (-49.2945728 -25.5119074),amenity,bus_station
+68,,POINT (-49.2955651 -25.5118791),amenity,bus_station
+69,,POINT (-49.2954966 -25.5134375),amenity,bus_station
+70,,POINT (-49.2948019 -25.5118751),amenity,bus_station
+71,,POINT (-49.2949904 -25.5118789),amenity,bus_station
+72,,POINT (-49.2951518 -25.5118821),amenity,bus_station
+73,,POINT (-49.2953149 -25.5118854),amenity,bus_station
+74,,POINT (-49.2952749 -25.5134083),amenity,bus_station
+75,,POINT (-49.2951127 -25.513405),amenity,bus_station
+76,,POINT (-49.2949513 -25.5134018),amenity,bus_station
+77,,POINT (-49.2948963 -25.5134006),amenity,bus_station
+78,,POINT (-49.2947787 -25.5133983),amenity,bus_station
+79,,POINT (-49.2955541 -25.5134139),amenity,bus_station
+80,,POINT (-49.2956032 -25.5134149),amenity,bus_station
+81,,POINT (-49.295594 -25.511891),amenity,bus_station
+82,,POINT (-49.2956412 -25.511892),amenity,bus_station
+83,,POINT (-49.2957343 -25.5118938),amenity,bus_station
+84,,POINT (-49.2956963 -25.5134168),amenity,bus_station
+85,,POINT (-49.2949414 -25.5118779),amenity,bus_station
+86,,POINT (-49.2843806 -25.5065754),amenity,bus_station
+87,,POINT (-49.2845586 -25.5067853),amenity,bus_station
+88,,POINT (-49.2845201 -25.5068119),amenity,bus_station
+89,,POINT (-49.2843421 -25.5066021),amenity,bus_station
+90,,POINT (-49.2843793 -25.5069041),amenity,bus_station
+91,,POINT (-49.2843412 -25.5069293),amenity,bus_station
+92,,POINT (-49.2841632 -25.5067102),amenity,bus_station
+93,,POINT (-49.2842013 -25.506685),amenity,bus_station
+94,,POINT (-49.2845367 -25.5068005),amenity,bus_station
+95,,POINT (-49.2843591 -25.5069175),amenity,bus_station
+96,,POINT (-49.2936693 -25.4916777),amenity,bus_station
+97,,POINT (-49.2937547 -25.4916864),amenity,bus_station
+98,,POINT (-49.2936607 -25.4924359),amenity,bus_station
+99,,POINT (-49.2935753 -25.4924272),amenity,bus_station
+100,,POINT (-49.2935108 -25.4915836),amenity,bus_station
+101,,POINT (-49.2933864 -25.4925602),amenity,bus_station
+102,,POINT (-49.2932982 -25.492551),amenity,bus_station
+103,,POINT (-49.2934227 -25.4915745),amenity,bus_station
+104,,POINT (-49.2931457 -25.4916271),amenity,bus_station
+105,,POINT (-49.2930362 -25.492487),amenity,bus_station
+106,,POINT (-49.2929815 -25.4924813),amenity,bus_station
+107,,POINT (-49.293091 -25.4916214),amenity,bus_station
+108,,POINT (-49.2933343 -25.4916217),amenity,bus_station
+109,,POINT (-49.2932192 -25.4925429),amenity,bus_station
+110,,POINT (-49.2931696 -25.4925379),amenity,bus_station
+111,,POINT (-49.2932847 -25.4916167),amenity,bus_station
+112,,POINT (-49.2932883 -25.4919896),amenity,bus_station
+113,,POINT (-49.2932387 -25.4919847),amenity,bus_station
+114,,POINT (-49.2931019 -25.491971),amenity,bus_station
+115,,POINT (-49.2937142 -25.4916823),amenity,bus_station
+116,,POINT (-49.2936162 -25.4924314),amenity,bus_station
+117,,POINT (-49.2933687 -25.4919977),amenity,bus_station
+118,,POINT (-49.2933361 -25.4922535),amenity,bus_station
+119,,POINT (-49.2932564 -25.492245),amenity,bus_station
+120,,POINT (-49.2932069 -25.4922397),amenity,bus_station
+121,,POINT (-49.2930695 -25.492225),amenity,bus_station
+122,,POINT (-49.2930169 -25.4922165),amenity,bus_station
+123,,POINT (-49.3277361 -25.4771622),amenity,bus_station
+124,,POINT (-49.3277824 -25.4771437),amenity,bus_station
+125,,POINT (-49.3277369 -25.4771673),amenity,bus_station
+126,,POINT (-49.327743 -25.4772011),amenity,bus_station
+127,,POINT (-49.3277986 -25.4772389),amenity,bus_station
+128,,POINT (-49.3277494 -25.4772384),amenity,bus_station
+129,,POINT (-49.3263946 -25.4774262),amenity,bus_station
+130,,POINT (-49.3263318 -25.4774519),amenity,bus_station
+131,,POINT (-49.3263638 -25.4773417),amenity,bus_station
+132,,POINT (-49.3263559 -25.4774088),amenity,bus_station
+133,,POINT (-49.3263973 -25.4774215),amenity,bus_station
+134,,POINT (-49.3263081 -25.4774418),amenity,bus_station
+135,,POINT (-49.3263873 -25.4773491),amenity,bus_station
+136,,POINT (-49.3277664 -25.4771459),amenity,bus_station
+137,,POINT (-49.3277824 -25.4772412),amenity,bus_station
+138,,POINT (-49.3277693 -25.4771628),amenity,bus_station
+139,,POINT (-49.3277749 -25.4771967),amenity,bus_station
+140,,POINT (-49.3270515 -25.4774636),amenity,bus_station
+141,,POINT (-49.3270586 -25.4775062),amenity,bus_station
+142,,POINT (-49.3272897 -25.477475),amenity,bus_station
+143,,POINT (-49.3272826 -25.4774325),amenity,bus_station
+144,,POINT (-49.3264189 -25.4774228),amenity,bus_station
+145,,POINT (-49.2926667 -25.4766985),amenity,bus_station
+146,,POINT (-49.2929832 -25.4761113),amenity,bus_station
+147,,POINT (-49.2927448 -25.4764891),amenity,bus_station
+148,,POINT (-49.2928349 -25.4765155),amenity,bus_station
+149,,POINT (-49.2923107 -25.4761475),amenity,bus_station
+150,,POINT (-49.2928619 -25.4759473),amenity,bus_station
+151,,POINT (-49.29295 -25.4762005),amenity,bus_station
+152,,POINT (-49.2926968 -25.4758963),amenity,bus_station
+153,,POINT (-49.2924202 -25.4766254),amenity,bus_station
+154,,POINT (-49.2923372 -25.4765997),amenity,bus_station
+155,,POINT (-49.2926139 -25.4758707),amenity,bus_station
+156,,POINT (-49.2921891 -25.4764726),amenity,bus_station
+157,,POINT (-49.292943 -25.4759719),amenity,bus_station
+158,,POINT (-49.2928935 -25.4761047),amenity,bus_station
+159,,POINT (-49.292943 -25.4761198),amenity,bus_station
+160,,POINT (-49.2929148 -25.4761898),amenity,bus_station
+161,,POINT (-49.2929214 -25.4761722),amenity,bus_station
+162,,POINT (-49.2928649 -25.476155),amenity,bus_station
+163,,POINT (-49.2927714 -25.4764057),amenity,bus_station
+164,,POINT (-49.2928068 -25.476507),amenity,bus_station
+165,,POINT (-49.2928182 -25.4764764),amenity,bus_station
+166,,POINT (-49.2927565 -25.4764576),amenity,bus_station
+167,,POINT (-49.2928403 -25.4764056),amenity,bus_station
+168,,POINT (-49.2928333 -25.4764245),amenity,bus_station
+169,,POINT (-49.2928722 -25.4764153),amenity,bus_station
+170,,POINT (-49.2925905 -25.4766754),amenity,bus_station
+171,,POINT (-49.2924122 -25.4759262),amenity,bus_station
+172,,POINT (-49.2924032 -25.4759504),amenity,bus_station
+173,,POINT (-49.2924314 -25.475959),amenity,bus_station
+174,,POINT (-49.2922345 -25.4764864),amenity,bus_station
+175,,POINT (-49.2923951 -25.475921),amenity,bus_station
+176,,POINT (-49.2929499 -25.4761012),amenity,bus_station
+177,,POINT (-49.3459836 -25.4414547),amenity,bus_station
+178,,POINT (-49.3472973 -25.4414736),amenity,bus_station
+179,,POINT (-49.3459823 -25.4415291),amenity,bus_station
+180,,POINT (-49.347296 -25.441548),amenity,bus_station
+181,,POINT (-49.3459634 -25.4416863),amenity,bus_station
+182,,POINT (-49.3472568 -25.4417055),amenity,bus_station
+183,,POINT (-49.3459619 -25.4417712),amenity,bus_station
+184,,POINT (-49.3472553 -25.4417904),amenity,bus_station
+185,,POINT (-49.3467545 -25.4415402),amenity,bus_station
+186,,POINT (-49.3467508 -25.4416979),amenity,bus_station
+187,,POINT (-49.3079114 -25.4362574),amenity,bus_station
+188,,POINT (-49.3067756 -25.4355928),amenity,bus_station
+189,,POINT (-49.3066589 -25.4358817),amenity,bus_station
+190,,POINT (-49.3066913 -25.4358097),amenity,bus_station
+191,,POINT (-49.3067418 -25.4356696),amenity,bus_station
+192,,POINT (-49.308004 -25.4360494),amenity,bus_station
+193,,POINT (-49.307976 -25.436113),amenity,bus_station
+194,,POINT (-49.3078759 -25.4363364),amenity,bus_station
+195,,POINT (-49.3079896 -25.436082),amenity,bus_station
+196,,POINT (-49.3066732 -25.43585),amenity,bus_station
+197,,POINT (-49.3077293 -25.4362826),amenity,bus_station
+198,,POINT (-49.3073856 -25.4357831),amenity,bus_station
+199,,POINT (-49.3072688 -25.4357411),amenity,bus_station
+200,,POINT (-49.3072771 -25.4357221),amenity,bus_station
+201,,POINT (-49.3073939 -25.4357641),amenity,bus_station
+202,,POINT (-49.3072903 -25.4357488),amenity,bus_station
+203,,POINT (-49.3073598 -25.4357739),amenity,bus_station
+204,,POINT (-49.3072797 -25.4357727),amenity,bus_station
+205,,POINT (-49.3073466 -25.4358039),amenity,bus_station
+206,,POINT (-49.307833 -25.4359531),amenity,bus_station
+207,,POINT (-49.3078122 -25.4359457),amenity,bus_station
+208,,POINT (-49.307694 -25.4358976),amenity,bus_station
+209,,POINT (-49.3077064 -25.4359021),amenity,bus_station
+210,,POINT (-49.3077018 -25.4358799),amenity,bus_station
+211,,POINT (-49.3078429 -25.4359307),amenity,bus_station
+212,,POINT (-49.3076946 -25.435929),amenity,bus_station
+213,,POINT (-49.307799 -25.4359757),amenity,bus_station
+214,,POINT (-49.307457 -25.4362056),amenity,bus_station
+215,,POINT (-49.3074772 -25.4362129),amenity,bus_station
+216,,POINT (-49.3075578 -25.4362425),amenity,bus_station
+217,,POINT (-49.3075781 -25.4362499),amenity,bus_station
+218,,POINT (-49.3072366 -25.4361241),amenity,bus_station
+219,,POINT (-49.30714 -25.4360882),amenity,bus_station
+220,,POINT (-49.3071321 -25.4361058),amenity,bus_station
+221,,POINT (-49.3072288 -25.4361413),amenity,bus_station
+222,,POINT (-49.3068672 -25.4359867),amenity,bus_station
+223,,POINT (-49.3069258 -25.4360092),amenity,bus_station
+224,,POINT (-49.3068525 -25.4359813),amenity,bus_station
+225,,POINT (-49.3069436 -25.4360158),amenity,bus_station
+226,,POINT (-49.3068782 -25.4359622),amenity,bus_station
+227,,POINT (-49.3068445 -25.4359991),amenity,bus_station
+228,,POINT (-49.306936 -25.4360327),amenity,bus_station
+229,,POINT (-49.3069364 -25.4359858),amenity,bus_station
+230,,POINT (-49.3072086 -25.4361139),amenity,bus_station
+231,,POINT (-49.3071665 -25.4360979),amenity,bus_station
+232,,POINT (-49.3071772 -25.4360741),amenity,bus_station
+233,,POINT (-49.3072186 -25.4360916),amenity,bus_station
+234,,POINT (-49.3075684 -25.4362716),amenity,bus_station
+235,,POINT (-49.3074473 -25.4362272),amenity,bus_station
+236,,POINT (-49.3074874 -25.4361902),amenity,bus_station
+237,,POINT (-49.3075666 -25.4362229),amenity,bus_station
+238,,POINT (-49.30706 -25.4356936),amenity,bus_station
+239,,POINT (-49.3070008 -25.4356737),amenity,bus_station
+240,,POINT (-49.3070116 -25.4356493),amenity,bus_station
+241,,POINT (-49.3070708 -25.4356693),amenity,bus_station
+242,,POINT (-49.3070966 -25.4356786),amenity,bus_station
+243,,POINT (-49.3071042 -25.4356614),amenity,bus_station
+244,,POINT (-49.3069957 -25.4356223),amenity,bus_station
+245,,POINT (-49.3069876 -25.4356406),amenity,bus_station
+246,,POINT (-49.3309041 -25.4005273),amenity,bus_station
+247,,POINT (-49.329817 -25.4013185),amenity,bus_station
+248,,POINT (-49.3308486 -25.4004659),amenity,bus_station
+249,,POINT (-49.3297696 -25.4012544),amenity,bus_station
+250,,POINT (-49.2762788 -25.4968178),amenity,bus_station
+251,,POINT (-49.2762381 -25.4968454),amenity,bus_station
+252,,POINT (-49.2762622 -25.496829),amenity,bus_station
+253,,POINT (-49.2762801 -25.4964797),amenity,bus_station
+254,,POINT (-49.2762375 -25.4965073),amenity,bus_station
+255,,POINT (-49.2764141 -25.4967291),amenity,bus_station
+256,,POINT (-49.2764566 -25.4967016),amenity,bus_station
+257,,POINT (-49.2760977 -25.4966002),amenity,bus_station
+258,,POINT (-49.276057 -25.4966278),amenity,bus_station
+259,,POINT (-49.2764386 -25.4967132),amenity,bus_station
+260,,POINT (-49.2667489 -25.4851271),amenity,bus_station
+261,,POINT (-49.2667059 -25.4851555),amenity,bus_station
+262,,POINT (-49.266908 -25.485323),amenity,bus_station
+263,,POINT (-49.2670888 -25.4852107),amenity,bus_station
+264,,POINT (-49.2669208 -25.4849975),amenity,bus_station
+265,,POINT (-49.2670425 -25.4852404),amenity,bus_station
+266,,POINT (-49.2668745 -25.4850272),amenity,bus_station
+267,,POINT (-49.2668651 -25.4853514),amenity,bus_station
+268,,POINT (-49.2670707 -25.4852223),amenity,bus_station
+269,,POINT (-49.2668869 -25.485337),amenity,bus_station
+270,,POINT (-49.2587849 -25.474922),amenity,bus_station
+271,,POINT (-49.2587472 -25.4749474),amenity,bus_station
+272,,POINT (-49.2585713 -25.474735),amenity,bus_station
+273,,POINT (-49.258609 -25.4747096),amenity,bus_station
+274,,POINT (-49.25862 -25.4750357),amenity,bus_station
+275,,POINT (-49.2585738 -25.4750658),amenity,bus_station
+276,,POINT (-49.2584003 -25.4748486),amenity,bus_station
+277,,POINT (-49.2584465 -25.4748185),amenity,bus_station
+278,,POINT (-49.2587655 -25.474935),amenity,bus_station
+279,,POINT (-49.2585992 -25.4750492),amenity,bus_station
+280,,POINT (-49.2541105 -25.4692147),amenity,bus_station
+281,,POINT (-49.2540699 -25.4692421),amenity,bus_station
+282,,POINT (-49.2538935 -25.469029),amenity,bus_station
+283,,POINT (-49.2539342 -25.4690016),amenity,bus_station
+284,,POINT (-49.2539361 -25.4693292),amenity,bus_station
+285,,POINT (-49.2538948 -25.469356),amenity,bus_station
+286,,POINT (-49.253718 -25.4691334),amenity,bus_station
+287,,POINT (-49.2537592 -25.4691067),amenity,bus_station
+288,,POINT (-49.2539125 -25.4690162),amenity,bus_station
+289,,POINT (-49.2537359 -25.4691218),amenity,bus_station
+290,,POINT (-49.2581272 -25.4390855),amenity,bus_station
+291,,POINT (-49.2579058 -25.4393527),amenity,bus_station
+292,,POINT (-49.2588691 -25.4383243),amenity,bus_station
+293,,POINT (-49.2585589 -25.4385718),amenity,bus_station
+294,,POINT (-49.2583389 -25.4388039),amenity,bus_station
+295,,POINT (-49.2568979 -25.4385285),amenity,bus_station
+296,,POINT (-49.2575839 -25.4391344),amenity,bus_station
+297,,POINT (-49.25735 -25.4389389),amenity,bus_station
+298,,POINT (-49.2571401 -25.4387485),amenity,bus_station
+299,,POINT (-49.2577388 -25.4392503),amenity,bus_station
+300,,POINT (-49.2496253 -25.4586285),amenity,bus_station
+301,,POINT (-49.2495775 -25.4586441),amenity,bus_station
+302,,POINT (-49.2496808 -25.4589017),amenity,bus_station
+303,,POINT (-49.2497286 -25.4588861),amenity,bus_station
+304,,POINT (-49.2498335 -25.4585863),amenity,bus_station
+305,,POINT (-49.2497858 -25.4586019),amenity,bus_station
+306,,POINT (-49.2498891 -25.4588595),amenity,bus_station
+307,,POINT (-49.2499368 -25.4588439),amenity,bus_station
+308,,POINT (-49.2748707 -25.4360098),amenity,bus_station
+309,,POINT (-49.2745322 -25.4357148),amenity,bus_station
+310,,POINT (-49.2743344 -25.4355833),amenity,bus_station
+311,,POINT (-49.2749661 -25.4358045),amenity,bus_station
+312,,POINT (-49.2749273 -25.4357898),amenity,bus_station
+313,,POINT (-49.2743061 -25.435618),amenity,bus_station
+314,,POINT (-49.2748319 -25.4359951),amenity,bus_station
+315,,POINT (-49.2745039 -25.4357495),amenity,bus_station
+316,,POINT (-49.2749485 -25.4357978),amenity,bus_station
+317,,POINT (-49.2748502 -25.436002),amenity,bus_station
+318,,POINT (-49.2704195 -25.4337334),amenity,bus_station
+319,,POINT (-49.2701846 -25.43364),amenity,bus_station
+320,,POINT (-49.2701528 -25.4337052),amenity,bus_station
+321,,POINT (-49.2703877 -25.4337986),amenity,bus_station
+322,,POINT (-49.2656073 -25.4321122),amenity,bus_station
+323,,POINT (-49.2653951 -25.4320271),amenity,bus_station
+324,,POINT (-49.2650507 -25.4332438),amenity,bus_station
+325,,POINT (-49.2648387 -25.4331587),amenity,bus_station
+326,,POINT (-49.2650079 -25.4328148),amenity,bus_station
+327,,POINT (-49.2649138 -25.432777),amenity,bus_station
+328,,POINT (-49.2651311 -25.4321628),amenity,bus_station
+329,,POINT (-49.2652265 -25.4323698),amenity,bus_station
+330,,POINT (-49.2652017 -25.4321911),amenity,bus_station
+331,,POINT (-49.2651324 -25.4323321),amenity,bus_station
+332,,POINT (-49.2646872 -25.433065),amenity,bus_station
+333,,POINT (-49.2647581 -25.4330934),amenity,bus_station
+334,,POINT (-49.2651997 -25.4324242),amenity,bus_station
+335,,POINT (-49.2651051 -25.4323862),amenity,bus_station
+336,,POINT (-49.2649408 -25.4327207),amenity,bus_station
+337,,POINT (-49.2650354 -25.4327586),amenity,bus_station
+338,,POINT (-49.2600727 -25.4361006),amenity,bus_station
+339,,POINT (-49.260097 -25.4372026),amenity,bus_station
+340,,POINT (-49.2572056 -25.435898),amenity,bus_station
+341,,POINT (-49.2592103 -25.4359153),amenity,bus_station
+342,,POINT (-49.2589365 -25.435905),amenity,bus_station
+343,,POINT (-49.2601728 -25.4369399),amenity,bus_station
+344,,POINT (-49.2600393 -25.4373032),amenity,bus_station
+345,,POINT (-49.2601545 -25.4367325),amenity,bus_station
+346,,POINT (-49.2601027 -25.4363259),amenity,bus_station
+347,,POINT (-49.2601665 -25.4369682),amenity,bus_station
+348,,POINT (-49.2608228 -25.4353477),amenity,bus_station
+349,,POINT (-49.2608203 -25.4353531),amenity,bus_station
+350,,POINT (-49.2608168 -25.4353605),amenity,bus_station
+351,,POINT (-49.2608421 -25.43537),amenity,bus_station
+352,,POINT (-49.2609129 -25.4353817),amenity,bus_station
+353,,POINT (-49.2608792 -25.4353834),amenity,bus_station
+354,,POINT (-49.2607995 -25.4353891),amenity,bus_station
+355,,POINT (-49.2609072 -25.435394),amenity,bus_station
+356,,POINT (-49.2608283 -25.4353999),amenity,bus_station
+357,,POINT (-49.2607927 -25.4354038),amenity,bus_station
+358,,POINT (-49.2608649 -25.4354143),amenity,bus_station
+359,,POINT (-49.2608934 -25.4354251),amenity,bus_station
+360,,POINT (-49.26089 -25.4354324),amenity,bus_station
+361,,POINT (-49.2608869 -25.4354393),amenity,bus_station
+362,,POINT (-49.2599678 -25.4373955),amenity,bus_station
+363,,POINT (-49.2598959 -25.4359297),amenity,bus_station
+364,,POINT (-49.2599981 -25.4359966),amenity,bus_station
+365,,POINT (-49.2607964 -25.4353957),amenity,bus_station
+366,,POINT (-49.2609101 -25.4353877),amenity,bus_station
+367,,POINT (-49.2647596 -25.4269928),amenity,bus_station
+368,,POINT (-49.2647195 -25.4274106),amenity,bus_station
+369,,POINT (-49.2647406 -25.4274188),amenity,bus_station
+370,,POINT (-49.2647816 -25.4273324),amenity,bus_station
+371,,POINT (-49.2647606 -25.4273242),amenity,bus_station
+372,,POINT (-49.2647845 -25.4272925),amenity,bus_station
+373,,POINT (-49.2648056 -25.4273007),amenity,bus_station
+374,,POINT (-49.2648467 -25.4272143),amenity,bus_station
+375,,POINT (-49.2648256 -25.4272061),amenity,bus_station
+376,,POINT (-49.2645167 -25.4270503),amenity,bus_station
+377,,POINT (-49.2645225 -25.4270704),amenity,bus_station
+378,,POINT (-49.2646232 -25.4270467),amenity,bus_station
+379,,POINT (-49.2646175 -25.4270266),amenity,bus_station
+380,,POINT (-49.2646589 -25.4270165),amenity,bus_station
+381,,POINT (-49.2646647 -25.4270366),amenity,bus_station
+382,,POINT (-49.2647654 -25.4270129),amenity,bus_station
+383,,POINT (-49.2635411 -25.428996),amenity,bus_station
+384,,POINT (-49.2635312 -25.4290148),amenity,bus_station
+385,,POINT (-49.2636251 -25.4290553),amenity,bus_station
+386,,POINT (-49.2636351 -25.4290366),amenity,bus_station
+387,,POINT (-49.2674833 -25.4300693),amenity,bus_station
+388,,POINT (-49.2674384 -25.4300537),amenity,bus_station
+389,,POINT (-49.2675245 -25.4298515),amenity,bus_station
+390,,POINT (-49.2675693 -25.4298671),amenity,bus_station
+391,,POINT (-49.2676096 -25.4301176),amenity,bus_station
+392,,POINT (-49.2675646 -25.430102),amenity,bus_station
+393,,POINT (-49.2676502 -25.4299006),amenity,bus_station
+394,,POINT (-49.2676952 -25.4299162),amenity,bus_station
+395,,POINT (-49.2683563 -25.4238174),amenity,bus_station
+396,,POINT (-49.2683702 -25.4238037),amenity,bus_station
+397,,POINT (-49.2685759 -25.4239745),amenity,bus_station
+398,,POINT (-49.268562 -25.4239882),amenity,bus_station
+399,,POINT (-49.2682678 -25.4239118),amenity,bus_station
+400,,POINT (-49.2682817 -25.4238981),amenity,bus_station
+401,,POINT (-49.2684874 -25.424069),amenity,bus_station
+402,,POINT (-49.2684735 -25.4240827),amenity,bus_station
+403,,POINT (-49.2536162 -25.4362023),amenity,bus_station
+404,,POINT (-49.2552528 -25.4358782),amenity,bus_station
+405,,POINT (-49.254781 -25.4364427),amenity,bus_station
+406,,POINT (-49.2552176 -25.4373861),amenity,bus_station
+407,,POINT (-49.2542223 -25.436141),amenity,bus_station
+408,,POINT (-49.2539635 -25.4359673),amenity,bus_station
+409,,POINT (-49.2538208 -25.4360715),amenity,bus_station
+410,,POINT (-49.2548032 -25.4364162),amenity,bus_station
+411,,POINT (-49.2551522 -25.4359986),amenity,bus_station
+412,,POINT (-49.2543107 -25.4366319),amenity,bus_station
+413,,POINT (-49.2544247 -25.4366779),amenity,bus_station
+414,,POINT (-49.2541873 -25.4366186),amenity,bus_station
+415,,POINT (-49.2545843 -25.4368245),amenity,bus_station
+416,,POINT (-49.25451 -25.4367563),amenity,bus_station
+417,,POINT (-49.2548972 -25.4370912),amenity,bus_station
+418,,POINT (-49.2550913 -25.437272),amenity,bus_station
+419,,POINT (-49.25474 -25.4370021),amenity,bus_station
+420,,POINT (-49.2549048 -25.4362946),amenity,bus_station
+421,,POINT (-49.2423805 -25.4257946),amenity,bus_station
+422,,POINT (-49.2423262 -25.4259425),amenity,bus_station
+423,,POINT (-49.2423492 -25.4259494),amenity,bus_station
+424,,POINT (-49.2424035 -25.4258015),amenity,bus_station
+425,,POINT (-49.2146094 -25.4522088),amenity,bus_station
+426,,POINT (-49.215294 -25.4510459),amenity,bus_station
+427,,POINT (-49.2146519 -25.4522222),amenity,bus_station
+428,,POINT (-49.2153472 -25.4510626),amenity,bus_station
+429,,POINT (-49.2148223 -25.4522728),amenity,bus_station
+430,,POINT (-49.2151318 -25.450974),amenity,bus_station
+431,,POINT (-49.2148755 -25.4522895),amenity,bus_station
+432,,POINT (-49.2150892 -25.4509606),amenity,bus_station
+433,,POINT (-49.2151117 -25.4509677),amenity,bus_station
+434,,POINT (-49.2146319 -25.4522159),amenity,bus_station
+435,,POINT (-49.2148515 -25.452282),amenity,bus_station
+436,,POINT (-49.2153232 -25.451055),amenity,bus_station
+437,,POINT (-49.2148528 -25.4516996),amenity,bus_station
+438,,POINT (-49.2150222 -25.4517527),amenity,bus_station
+439,,POINT (-49.2223815 -25.4397543),amenity,bus_station
+440,,POINT (-49.2223913 -25.439772),amenity,bus_station
+441,,POINT (-49.2222389 -25.4398182),amenity,bus_station
+442,,POINT (-49.2222486 -25.4398359),amenity,bus_station
+443,,POINT (-49.2210213 -25.4402535),amenity,bus_station
+444,,POINT (-49.2210313 -25.440271),amenity,bus_station
+445,,POINT (-49.2209279 -25.440297),amenity,bus_station
+446,,POINT (-49.220938 -25.4403146),amenity,bus_station
+447,,POINT (-49.222256 -25.439622),amenity,bus_station
+448,,POINT (-49.2221718 -25.4396599),amenity,bus_station
+449,,POINT (-49.2222875 -25.4396791),amenity,bus_station
+450,,POINT (-49.2221864 -25.4396864),amenity,bus_station
+451,,POINT (-49.2219484 -25.4397677),amenity,bus_station
+452,,POINT (-49.22196 -25.4397887),amenity,bus_station
+453,,POINT (-49.2218834 -25.4397844),amenity,bus_station
+454,,POINT (-49.221889 -25.4397945),amenity,bus_station
+455,,POINT (-49.2216227 -25.4399017),amenity,bus_station
+456,,POINT (-49.2216383 -25.4399301),amenity,bus_station
+457,,POINT (-49.2213215 -25.4400632),amenity,bus_station
+458,,POINT (-49.2212688 -25.4400662),amenity,bus_station
+459,,POINT (-49.2213255 -25.4400704),amenity,bus_station
+460,,POINT (-49.2212779 -25.4400828),amenity,bus_station
+461,,POINT (-49.2211465 -25.4400975),amenity,bus_station
+462,,POINT (-49.221157 -25.4401165),amenity,bus_station
+463,,POINT (-49.2212336 -25.4401281),amenity,bus_station
+464,,POINT (-49.2211694 -25.4401347),amenity,bus_station
+465,,POINT (-49.2210865 -25.4401519),amenity,bus_station
+466,,POINT (-49.2212446 -25.440148),amenity,bus_station
+467,,POINT (-49.2211792 -25.4401525),amenity,bus_station
+468,,POINT (-49.2210954 -25.440168),amenity,bus_station
+469,,POINT (-49.2208875 -25.4402139),amenity,bus_station
+470,,POINT (-49.2208996 -25.4402359),amenity,bus_station
+471,,POINT (-49.2220432 -25.439954),amenity,bus_station
+472,,POINT (-49.2210024 -25.4404163),amenity,bus_station
+473,,POINT (-49.2209856 -25.4403854),amenity,bus_station
+474,,POINT (-49.2220264 -25.4399232),amenity,bus_station
+475,,POINT (-49.2222762 -25.4396586),amenity,bus_station
+476,,POINT (-49.2217551 -25.4398421),amenity,bus_station
+477,,POINT (-49.2214094 -25.4400106),amenity,bus_station
+478,,POINT (-49.221383 -25.4400224),amenity,bus_station
+479,,POINT (-49.2213929 -25.4400404),amenity,bus_station
+480,,POINT (-49.2213544 -25.4400574),amenity,bus_station
+481,,POINT (-49.2213147 -25.4400532),amenity,bus_station
+482,,POINT (-49.2213446 -25.4400398),amenity,bus_station
+483,,POINT (-49.2213071 -25.4400394),amenity,bus_station
+484,,POINT (-49.2214018 -25.4399968),amenity,bus_station
+485,,POINT (-49.2220294 -25.4397575),amenity,bus_station
+486,,POINT (-49.2219953 -25.4397462),amenity,bus_station
+487,,POINT (-49.2220176 -25.4397362),amenity,bus_station
+488,,POINT (-49.2219883 -25.4397336),amenity,bus_station
+489,,POINT (-49.2221133 -25.4397193),amenity,bus_station
+490,,POINT (-49.2221016 -25.4396982),amenity,bus_station
+491,,POINT (-49.2221403 -25.4396808),amenity,bus_station
+492,,POINT (-49.2221334 -25.4396684),amenity,bus_station
+493,,POINT (-49.2219952 -25.4398105),amenity,bus_station
+494,,POINT (-49.222032 -25.4399336),amenity,bus_station
+495,,POINT (-49.2222481 -25.4398349),amenity,bus_station
+496,,POINT (-49.2210257 -25.4402611),amenity,bus_station
+497,,POINT (-49.2210538 -25.4401666),amenity,bus_station
+498,,POINT (-49.2211384 -25.4403176),amenity,bus_station
+499,,POINT (-49.2530292 -25.4069634),amenity,bus_station
+500,,POINT (-49.252962 -25.4070145),amenity,bus_station
+501,,POINT (-49.2522919 -25.4062976),amenity,bus_station
+502,,POINT (-49.2523598 -25.406246),amenity,bus_station
+503,,POINT (-49.2528863 -25.4071525),amenity,bus_station
+504,,POINT (-49.2528142 -25.4072073),amenity,bus_station
+505,,POINT (-49.2520782 -25.4064138),amenity,bus_station
+506,,POINT (-49.2521481 -25.4063606),amenity,bus_station
+507,,POINT (-49.2532258 -25.4068106),amenity,bus_station
+508,,POINT (-49.2531601 -25.4068608),amenity,bus_station
+509,,POINT (-49.2523782 -25.4060267),amenity,bus_station
+510,,POINT (-49.2524503 -25.4059715),amenity,bus_station
+511,,POINT (-49.2526759 -25.407059),amenity,bus_station
+512,,POINT (-49.2526147 -25.4069915),amenity,bus_station
+513,,POINT (-49.252671 -25.4070628),amenity,bus_station
+514,,POINT (-49.2526824 -25.4070751),amenity,bus_station
+515,,POINT (-49.2526683 -25.4070858),amenity,bus_station
+516,,POINT (-49.252588 -25.4069997),amenity,bus_station
+517,,POINT (-49.2525959 -25.4069937),amenity,bus_station
+518,,POINT (-49.2526025 -25.4070008),amenity,bus_station
+519,,POINT (-49.2529939 -25.4065631),amenity,bus_station
+520,,POINT (-49.2529335 -25.406494),amenity,bus_station
+521,,POINT (-49.2530224 -25.4065413),amenity,bus_station
+522,,POINT (-49.2530549 -25.4065463),amenity,bus_station
+523,,POINT (-49.2530387 -25.4065587),amenity,bus_station
+524,,POINT (-49.2529649 -25.4064503),amenity,bus_station
+525,,POINT (-49.2529493 -25.4064623),amenity,bus_station
+526,,POINT (-49.25296 -25.4064737),amenity,bus_station
+527,,POINT (-49.2527619 -25.406311),amenity,bus_station
+528,,POINT (-49.2527914 -25.4062884),amenity,bus_station
+529,,POINT (-49.2528158 -25.4062918),amenity,bus_station
+530,,POINT (-49.2528034 -25.4063013),amenity,bus_station
+531,,POINT (-49.2527496 -25.4062211),amenity,bus_station
+532,,POINT (-49.2527318 -25.4062347),amenity,bus_station
+533,,POINT (-49.2527413 -25.4062448),amenity,bus_station
+534,,POINT (-49.2527178 -25.4062628),amenity,bus_station
+535,,POINT (-49.2525671 -25.406102),amenity,bus_station
+536,,POINT (-49.2525921 -25.4060829),amenity,bus_station
+537,,POINT (-49.2526198 -25.4060829),amenity,bus_station
+538,,POINT (-49.2525527 -25.4060114),amenity,bus_station
+539,,POINT (-49.2525356 -25.4060245),amenity,bus_station
+540,,POINT (-49.2525334 -25.4060601),amenity,bus_station
+541,,POINT (-49.2525541 -25.4060443),amenity,bus_station
+542,,POINT (-49.2526037 -25.4060953),amenity,bus_station
+543,,POINT (-49.2524491 -25.4068139),amenity,bus_station
+544,,POINT (-49.2523871 -25.4067471),amenity,bus_station
+545,,POINT (-49.2523791 -25.4067532),amenity,bus_station
+546,,POINT (-49.2524432 -25.4068184),amenity,bus_station
+547,,POINT (-49.2524386 -25.4068406),amenity,bus_station
+548,,POINT (-49.2524534 -25.4068294),amenity,bus_station
+549,,POINT (-49.2523587 -25.406755),amenity,bus_station
+550,,POINT (-49.2523717 -25.4067451),amenity,bus_station
+551,,POINT (-49.2522324 -25.4065811),amenity,bus_station
+552,,POINT (-49.2521639 -25.4065058),amenity,bus_station
+553,,POINT (-49.2522271 -25.4066121),amenity,bus_station
+554,,POINT (-49.2522258 -25.4065861),amenity,bus_station
+555,,POINT (-49.2522405 -25.4066019),amenity,bus_station
+556,,POINT (-49.2521527 -25.4065143),amenity,bus_station
+557,,POINT (-49.2521443 -25.4065053),amenity,bus_station
+558,,POINT (-49.2521345 -25.4065128),amenity,bus_station
+559,,POINT (-49.2528319 -25.4071938),amenity,bus_station
+560,,POINT (-49.2523241 -25.4062731),amenity,bus_station
+561,,POINT (-49.2409269 -25.3935257),amenity,bus_station
+562,,POINT (-49.2409838 -25.3935874),amenity,bus_station
+563,,POINT (-49.2414309 -25.3932507),amenity,bus_station
+564,,POINT (-49.241374 -25.393189),amenity,bus_station
+565,,POINT (-49.2411601 -25.3929025),amenity,bus_station
+566,,POINT (-49.2408689 -25.3937628),amenity,bus_station
+567,,POINT (-49.2412185 -25.3929656),amenity,bus_station
+568,,POINT (-49.24049 -25.3933523),amenity,bus_station
+569,,POINT (-49.2404556 -25.3934416),amenity,bus_station
+570,,POINT (-49.24041 -25.3934755),amenity,bus_station
+571,,POINT (-49.240756 -25.3938463),amenity,bus_station
+572,,POINT (-49.2407935 -25.3938172),amenity,bus_station
+573,,POINT (-49.24055 -25.3933628),amenity,bus_station
+574,,POINT (-49.2406156 -25.3934202),amenity,bus_station
+575,,POINT (-49.2405197 -25.3933299),amenity,bus_station
+576,,POINT (-49.2409061 -25.3937347),amenity,bus_station
+577,,POINT (-49.2412032 -25.3930861),amenity,bus_station
+578,,POINT (-49.2408517 -25.3933544),amenity,bus_station
+579,,POINT (-49.2408736 -25.3933778),amenity,bus_station
+580,,POINT (-49.2412251 -25.3931095),amenity,bus_station
+581,,POINT (-49.2412101 -25.3934169),amenity,bus_station
+582,,POINT (-49.2625148 -25.3771336),amenity,bus_station
+583,,POINT (-49.2624628 -25.3777722),amenity,bus_station
+584,,POINT (-49.2624218 -25.3777695),amenity,bus_station
+585,,POINT (-49.2624202 -25.3778001),amenity,bus_station
+586,,POINT (-49.2624575 -25.3778275),amenity,bus_station
+587,,POINT (-49.26244 -25.3778468),amenity,bus_station
+588,,POINT (-49.2623706 -25.3777955),amenity,bus_station
+589,,POINT (-49.2624249 -25.3771276),amenity,bus_station
+590,,POINT (-49.2622787 -25.3772901),amenity,bus_station
+591,,POINT (-49.2622363 -25.3772862),amenity,bus_station
+592,,POINT (-49.2622032 -25.3775768),amenity,bus_station
+593,,POINT (-49.2622455 -25.3775808),amenity,bus_station
+594,,POINT (-49.224727 -25.3774239),amenity,bus_station
+595,,POINT (-49.2247387 -25.3768595),amenity,bus_station
+596,,POINT (-49.2247329 -25.3771411),amenity,bus_station
+597,,POINT (-49.2245987 -25.3772916),amenity,bus_station
+598,,POINT (-49.2245996 -25.377246),amenity,bus_station
+599,,POINT (-49.2246044 -25.3770086),amenity,bus_station
+600,,POINT (-49.2246038 -25.3770372),amenity,bus_station
+601,,POINT (-49.2236264 -25.3774054),amenity,bus_station
+602,,POINT (-49.223638 -25.376841),amenity,bus_station
+603,,POINT (-49.2236324 -25.3771226),amenity,bus_station
+604,,POINT (-49.2236291 -25.3772753),amenity,bus_station
+605,,POINT (-49.2236302 -25.3772297),amenity,bus_station
+606,,POINT (-49.2236345 -25.3770209),amenity,bus_station
+607,,POINT (-49.2236349 -25.3769923),amenity,bus_station
+608,Rodoferroviária de Curitiba,"POLYGON ((-49.2600727 -25.4361006, -49.2601027 -25.4363259, -49.2601545 -25.4367325, -49.2601728 -25.4369399, -49.2601665 -25.4369682, -49.260097 -25.4372026, -49.2600393 -25.4373032, -49.2599678 -25.4373955, -49.2588691 -25.4383243, -49.2585589 -25.4385718, -49.2583389 -25.4388039, -49.2581272 -25.4390855, -49.2579058 -25.4393527, -49.2577388 -25.4392503, -49.2575839 -25.4391344, -49.25735 -25.4389389, -49.2571401 -25.4387485, -49.2568979 -25.4385285, -49.2552176 -25.4373861, -49.2550913 -25.437272, -49.2548972 -25.4370912, -49.25474 -25.4370021, -49.2545843 -25.4368245, -49.25451 -25.4367563, -49.2544247 -25.4366779, -49.2543107 -25.4366319, -49.2541873 -25.4366186, -49.2536162 -25.4362023, -49.2538208 -25.4360715, -49.2539635 -25.4359673, -49.2542223 -25.436141, -49.254781 -25.4364427, -49.2548032 -25.4364162, -49.2549048 -25.4362946, -49.2551522 -25.4359986, -49.2552528 -25.4358782, -49.2572056 -25.435898, -49.2589365 -25.435905, -49.2592103 -25.4359153, -49.2598959 -25.4359297, -49.2599981 -25.4359966, -49.2600727 -25.4361006))",amenity,bus_station
+609,Terminal Santa Felicidade,"POLYGON ((-49.3309041 -25.4005273, -49.3308486 -25.4004659, -49.3297696 -25.4012544, -49.329817 -25.4013185, -49.3309041 -25.4005273))",amenity,bus_station
+610,Estação Tubo Rodoferroviária,"POLYGON ((-49.2608869 -25.4354393, -49.2607927 -25.4354038, -49.2607964 -25.4353957, -49.2607995 -25.4353891, -49.2608283 -25.4353999, -49.2608421 -25.43537, -49.2608168 -25.4353605, -49.2608203 -25.4353531, -49.2608228 -25.4353477, -49.2609129 -25.4353817, -49.2609101 -25.4353877, -49.2609072 -25.435394, -49.2608792 -25.4353834, -49.2608649 -25.4354143, -49.2608934 -25.4354251, -49.26089 -25.4354324, -49.2608869 -25.4354393))",amenity,bus_station
+611,Estação Tubo Santa Bernadethe,"POLYGON ((-49.2670888 -25.4852107, -49.2670707 -25.4852223, -49.2670425 -25.4852404, -49.2668745 -25.4850272, -49.2669208 -25.4849975, -49.2670888 -25.4852107))",amenity,bus_station
+612,Estação Tubo Santa Bernadethe,"POLYGON ((-49.266908 -25.485323, -49.2668869 -25.485337, -49.2668651 -25.4853514, -49.2667059 -25.4851555, -49.2667489 -25.4851271, -49.266908 -25.485323))",amenity,bus_station
+613,Estação Tubo Praça Rui Barbosa,"POLYGON ((-49.2749661 -25.4358045, -49.2748707 -25.4360098, -49.2748502 -25.436002, -49.2748319 -25.4359951, -49.2749273 -25.4357898, -49.2749485 -25.4357978, -49.2749661 -25.4358045))",amenity,bus_station
+614,Estação Tubo Praça Rui Barbosa,"POLYGON ((-49.2745039 -25.4357495, -49.2743061 -25.435618, -49.2743344 -25.4355833, -49.2745322 -25.4357148, -49.2745039 -25.4357495))",amenity,bus_station
+615,Estação Tubo Praça das Nações,"POLYGON ((-49.2424035 -25.4258015, -49.2423805 -25.4257946, -49.2423262 -25.4259425, -49.2423492 -25.4259494, -49.2424035 -25.4258015))",amenity,bus_station
+616,Estação Tubo São Pedro,"POLYGON ((-49.2843806 -25.5065754, -49.2845586 -25.5067853, -49.2845367 -25.5068005, -49.2845201 -25.5068119, -49.2843421 -25.5066021, -49.2843806 -25.5065754))",amenity,bus_station
+617,Estação Tubo São Pedro,"POLYGON ((-49.2843793 -25.5069041, -49.2843591 -25.5069175, -49.2843412 -25.5069293, -49.2841632 -25.5067102, -49.2842013 -25.506685, -49.2843793 -25.5069041))",amenity,bus_station
+618,Estação Tubo Xaxim,"POLYGON ((-49.2762801 -25.4964797, -49.2762375 -25.4965073, -49.2764141 -25.4967291, -49.2764386 -25.4967132, -49.2764566 -25.4967016, -49.2762801 -25.4964797))",amenity,bus_station
+619,Estação Tubo Xaxim,"POLYGON ((-49.2760977 -25.4966002, -49.2762788 -25.4968178, -49.2762622 -25.496829, -49.2762381 -25.4968454, -49.276057 -25.4966278, -49.2760977 -25.4966002))",amenity,bus_station
+620,Estação Tubo Fanny,"POLYGON ((-49.2587849 -25.474922, -49.2587655 -25.474935, -49.2587472 -25.4749474, -49.2585713 -25.474735, -49.258609 -25.4747096, -49.2587849 -25.474922))",amenity,bus_station
+621,Estação Tubo Fanny,"POLYGON ((-49.25862 -25.4750357, -49.2585992 -25.4750492, -49.2585738 -25.4750658, -49.2584003 -25.4748486, -49.2584465 -25.4748185, -49.25862 -25.4750357))",amenity,bus_station
+622,Estação Tubo Marechal Floriano Peixoto,"POLYGON ((-49.2541105 -25.4692147, -49.2540699 -25.4692421, -49.2538935 -25.469029, -49.2539125 -25.4690162, -49.2539342 -25.4690016, -49.2541105 -25.4692147))",amenity,bus_station
+623,Estação Tubo Marechal Floriano Peixoto,"POLYGON ((-49.2539361 -25.4693292, -49.2538948 -25.469356, -49.253718 -25.4691334, -49.2537359 -25.4691218, -49.2537592 -25.4691067, -49.2539361 -25.4693292))",amenity,bus_station
+624,Estação Tubo Círculo Militar (700),"POLYGON ((-49.2647606 -25.4273242, -49.2647816 -25.4273324, -49.2647406 -25.4274188, -49.2647195 -25.4274106, -49.2647606 -25.4273242))",amenity,bus_station
+625,Estação Tubo Círculo Militar (256/505),"POLYGON ((-49.2648256 -25.4272061, -49.2648467 -25.4272143, -49.2648056 -25.4273007, -49.2647845 -25.4272925, -49.2648256 -25.4272061))",amenity,bus_station
+626,Estação Tubo Círculo Militar (700),"POLYGON ((-49.2646175 -25.4270266, -49.2646232 -25.4270467, -49.2645225 -25.4270704, -49.2645167 -25.4270503, -49.2646175 -25.4270266))",amenity,bus_station
+627,Estação Tubo Círculo Militar (256/505),"POLYGON ((-49.2647596 -25.4269928, -49.2647654 -25.4270129, -49.2646647 -25.4270366, -49.2646589 -25.4270165, -49.2647596 -25.4269928))",amenity,bus_station
+628,Estação Tubo Marechal Deodoro,"POLYGON ((-49.2636351 -25.4290366, -49.2636251 -25.4290553, -49.2635312 -25.4290148, -49.2635411 -25.428996, -49.2636351 -25.4290366))",amenity,bus_station
+629,Estação Tubo Central,"POLYGON ((-49.2675693 -25.4298671, -49.2675245 -25.4298515, -49.2674384 -25.4300537, -49.2674833 -25.4300693, -49.2675693 -25.4298671))",amenity,bus_station
+630,Estação Tubo Central,"POLYGON ((-49.2676952 -25.4299162, -49.2676502 -25.4299006, -49.2675646 -25.430102, -49.2676096 -25.4301176, -49.2676952 -25.4299162))",amenity,bus_station
+631,Estação Tubo Passeio Público,"POLYGON ((-49.268562 -25.4239882, -49.2685759 -25.4239745, -49.2683702 -25.4238037, -49.2683563 -25.4238174, -49.268562 -25.4239882))",amenity,bus_station
+632,Estação Tubo Passeio Público,"POLYGON ((-49.2684735 -25.4240827, -49.2684874 -25.424069, -49.2682817 -25.4238981, -49.2682678 -25.4239118, -49.2684735 -25.4240827))",amenity,bus_station
+633,Estação Tubo Praça Carlos Gomes,"POLYGON ((-49.2703877 -25.4337986, -49.2701528 -25.4337052, -49.2701846 -25.43364, -49.2704195 -25.4337334, -49.2703877 -25.4337986))",amenity,bus_station
+634,Estação Tubo PUC,"POLYGON ((-49.2497286 -25.4588861, -49.2496808 -25.4589017, -49.2495775 -25.4586441, -49.2496253 -25.4586285, -49.2497286 -25.4588861))",amenity,bus_station
+635,Estação Tubo PUC,"POLYGON ((-49.2499368 -25.4588439, -49.2498891 -25.4588595, -49.2497858 -25.4586019, -49.2498335 -25.4585863, -49.2499368 -25.4588439))",amenity,bus_station
+636,Terminal Tatuquara,"POLYGON ((-49.3315601 -25.5765157, -49.3316212 -25.5764598, -49.3316682 -25.5764169, -49.3306972 -25.5756069, -49.3306411 -25.5756586, -49.3305895 -25.5757062, -49.3315601 -25.5765157))",amenity,bus_station
+637,Terminal CIC,"POLYGON ((-49.3250256 -25.511366, -49.3251717 -25.5117954, -49.3244585 -25.511952, -49.3241762 -25.5119762, -49.3239871 -25.5119448, -49.3238705 -25.5119, -49.3237805 -25.5117216, -49.3250256 -25.511366))",amenity,bus_station
+638,,"POLYGON ((-49.3502117 -25.4839965, -49.3502424 -25.4839296, -49.3500941 -25.4838741, -49.3499202 -25.4838092, -49.3498896 -25.483876, -49.3499565 -25.483901, -49.3499465 -25.4839227, -49.3499242 -25.4839143, -49.3499166 -25.4839309, -49.3500191 -25.4839692, -49.3500262 -25.4839538, -49.3499871 -25.4839392, -49.3499975 -25.4839165, -49.3500666 -25.4839403, -49.3502117 -25.4839965))",amenity,bus_station
+639,,"POLYGON ((-49.3503386 -25.4837769, -49.3501603 -25.4837148, -49.3499804 -25.483652, -49.3499661 -25.4836853, -49.3501465 -25.4837481, -49.3503244 -25.4838102, -49.3503386 -25.4837769))",amenity,bus_station
+640,,"POLYGON ((-49.3503646 -25.4836553, -49.3503808 -25.483616, -49.3500178 -25.4834943, -49.3500016 -25.4835336, -49.350207 -25.4836025, -49.3503646 -25.4836553))",amenity,bus_station
+641,,"POLYGON ((-49.2953152 -25.5118737, -49.2953149 -25.5118854, -49.2952749 -25.5134083, -49.2952743 -25.5134327, -49.2954966 -25.5134375, -49.2955534 -25.5134387, -49.2955541 -25.5134139, -49.295594 -25.511891, -49.2955943 -25.5118797, -49.2955651 -25.5118791, -49.2953152 -25.5118737))",amenity,bus_station
+642,,"POLYGON ((-49.2957347 -25.5118753, -49.2956416 -25.5118734, -49.2956412 -25.511892, -49.2956032 -25.5134149, -49.2956026 -25.5134408, -49.2956957 -25.5134427, -49.2956963 -25.5134168, -49.2957343 -25.5118938, -49.2957347 -25.5118753))",amenity,bus_station
+643,,"POLYGON ((-49.2951523 -25.5118628, -49.2949909 -25.5118594, -49.2949904 -25.5118789, -49.2949513 -25.5134018, -49.2949506 -25.513429, -49.295112 -25.5134323, -49.2951127 -25.513405, -49.2951518 -25.5118821, -49.2951523 -25.5118628))",amenity,bus_station
+644,,"POLYGON ((-49.2949419 -25.5118559, -49.2948024 -25.5118532, -49.2948019 -25.5118751, -49.2947674 -25.5133577, -49.2947796 -25.513358, -49.2947787 -25.5133983, -49.2947781 -25.5134249, -49.2948957 -25.5134272, -49.2948963 -25.5134006, -49.2948973 -25.5133606, -49.2949068 -25.5133608, -49.2949414 -25.5118779, -49.2949419 -25.5118559))",amenity,bus_station
+645,,"POLYGON ((-49.2945195 -25.5119062, -49.2945728 -25.5119074, -49.2946444 -25.511909, -49.2946047 -25.5133539, -49.2945414 -25.5133525, -49.2944797 -25.5133511, -49.2945195 -25.5119062))",amenity,bus_station
+646,,"POLYGON ((-49.2936693 -25.4916777, -49.2937142 -25.4916823, -49.2937547 -25.4916864, -49.2936607 -25.4924359, -49.2936162 -25.4924314, -49.2935753 -25.4924272, -49.2936693 -25.4916777))",amenity,bus_station
+647,,"POLYGON ((-49.2935108 -25.4915836, -49.2933864 -25.4925602, -49.2932982 -25.492551, -49.2933361 -25.4922535, -49.2933687 -25.4919977, -49.2934227 -25.4915745, -49.2935108 -25.4915836))",amenity,bus_station
+648,,"POLYGON ((-49.2931457 -25.4916271, -49.2931019 -25.491971, -49.2930695 -25.492225, -49.2930362 -25.492487, -49.2929815 -25.4924813, -49.2930169 -25.4922165, -49.293091 -25.4916214, -49.2931457 -25.4916271))",amenity,bus_station
+649,,"POLYGON ((-49.2933343 -25.4916217, -49.2932883 -25.4919896, -49.2932564 -25.492245, -49.2932192 -25.4925429, -49.2931696 -25.4925379, -49.2932069 -25.4922397, -49.2932387 -25.4919847, -49.2932847 -25.4916167, -49.2933343 -25.4916217))",amenity,bus_station
+650,,"POLYGON ((-49.3263873 -25.4773491, -49.3277361 -25.4771622, -49.3277369 -25.4771673, -49.3277693 -25.4771628, -49.3277664 -25.4771459, -49.3277824 -25.4771437, -49.3277986 -25.4772389, -49.3277824 -25.4772412, -49.3277749 -25.4771967, -49.327743 -25.4772011, -49.3277494 -25.4772384, -49.3264189 -25.4774228, -49.3263946 -25.4774262, -49.3263973 -25.4774215, -49.3263559 -25.4774088, -49.3263318 -25.4774519, -49.3263081 -25.4774418, -49.3263638 -25.4773417, -49.3263873 -25.4773491))",amenity,bus_station
+651,,"POLYGON ((-49.3272826 -25.4774325, -49.3272897 -25.477475, -49.3270586 -25.4775062, -49.3270515 -25.4774636, -49.3272826 -25.4774325))",amenity,bus_station
+652,,"POLYGON ((-49.292943 -25.4759719, -49.2928935 -25.4761047, -49.292943 -25.4761198, -49.2929499 -25.4761012, -49.2929832 -25.4761113, -49.29295 -25.4762005, -49.2929148 -25.4761898, -49.2929214 -25.4761722, -49.2928649 -25.476155, -49.2927714 -25.4764057, -49.2928333 -25.4764245, -49.2928403 -25.4764056, -49.2928722 -25.4764153, -49.2928349 -25.4765155, -49.2928068 -25.476507, -49.2928182 -25.4764764, -49.2927565 -25.4764576, -49.2927448 -25.4764891, -49.2926667 -25.4766985, -49.2925905 -25.4766754, -49.2928619 -25.4759473, -49.292943 -25.4759719))",amenity,bus_station
+653,,"POLYGON ((-49.2926968 -25.4758963, -49.2926139 -25.4758707, -49.2923372 -25.4765997, -49.2924202 -25.4766254, -49.2926968 -25.4758963))",amenity,bus_station
+654,,"POLYGON ((-49.2923951 -25.475921, -49.2924122 -25.4759262, -49.2924032 -25.4759504, -49.2924314 -25.475959, -49.2922345 -25.4764864, -49.2921891 -25.4764726, -49.2923107 -25.4761475, -49.2923951 -25.475921))",amenity,bus_station
+655,,"POLYGON ((-49.347296 -25.441548, -49.3472973 -25.4414736, -49.3459836 -25.4414547, -49.3459823 -25.4415291, -49.3467545 -25.4415402, -49.347296 -25.441548))",amenity,bus_station
+656,,"POLYGON ((-49.3472553 -25.4417904, -49.3472568 -25.4417055, -49.3467508 -25.4416979, -49.3459634 -25.4416863, -49.3459619 -25.4417712, -49.3472553 -25.4417904))",amenity,bus_station
+657,,"POLYGON ((-49.308004 -25.4360494, -49.3079896 -25.436082, -49.307976 -25.436113, -49.3067418 -25.4356696, -49.3067756 -25.4355928, -49.3070008 -25.4356737, -49.3070116 -25.4356493, -49.3069876 -25.4356406, -49.3069957 -25.4356223, -49.3071042 -25.4356614, -49.3070966 -25.4356786, -49.3070708 -25.4356693, -49.30706 -25.4356936, -49.3072797 -25.4357727, -49.3072903 -25.4357488, -49.3072688 -25.4357411, -49.3072771 -25.4357221, -49.3073939 -25.4357641, -49.3073856 -25.4357831, -49.3073598 -25.4357739, -49.3073466 -25.4358039, -49.3076946 -25.435929, -49.3077064 -25.4359021, -49.307694 -25.4358976, -49.3077018 -25.4358799, -49.3078429 -25.4359307, -49.307833 -25.4359531, -49.3078122 -25.4359457, -49.307799 -25.4359757, -49.308004 -25.4360494))",amenity,bus_station
+658,,"POLYGON ((-49.3079114 -25.4362574, -49.3078759 -25.4363364, -49.3077293 -25.4362826, -49.3075666 -25.4362229, -49.3075578 -25.4362425, -49.3075781 -25.4362499, -49.3075684 -25.4362716, -49.3074473 -25.4362272, -49.307457 -25.4362056, -49.3074772 -25.4362129, -49.3074874 -25.4361902, -49.3072186 -25.4360916, -49.3072086 -25.4361139, -49.3072366 -25.4361241, -49.3072288 -25.4361413, -49.3071321 -25.4361058, -49.30714 -25.4360882, -49.3071665 -25.4360979, -49.3071772 -25.4360741, -49.3069364 -25.4359858, -49.3069258 -25.4360092, -49.3069436 -25.4360158, -49.306936 -25.4360327, -49.3068445 -25.4359991, -49.3068525 -25.4359813, -49.3068672 -25.4359867, -49.3068782 -25.4359622, -49.3066589 -25.4358817, -49.3066732 -25.43585, -49.3066913 -25.4358097, -49.3079114 -25.4362574))",amenity,bus_station
+659,,"POLYGON ((-49.2656073 -25.4321122, -49.2653951 -25.4320271, -49.2652265 -25.4323698, -49.2651324 -25.4323321, -49.2652017 -25.4321911, -49.2651311 -25.4321628, -49.2646872 -25.433065, -49.2647581 -25.4330934, -49.2649138 -25.432777, -49.2650079 -25.4328148, -49.2648387 -25.4331587, -49.2650507 -25.4332438, -49.2656073 -25.4321122))",amenity,bus_station
+660,,"POLYGON ((-49.2651997 -25.4324242, -49.2651051 -25.4323862, -49.2649408 -25.4327207, -49.2650354 -25.4327586, -49.2651997 -25.4324242))",amenity,bus_station
+661,,"POLYGON ((-49.2151318 -25.450974, -49.2151117 -25.4509677, -49.2150892 -25.4509606, -49.2146094 -25.4522088, -49.2146319 -25.4522159, -49.2146519 -25.4522222, -49.2148528 -25.4516996, -49.2151318 -25.450974))",amenity,bus_station
+662,,"POLYGON ((-49.2153472 -25.4510626, -49.2153232 -25.451055, -49.215294 -25.4510459, -49.2150222 -25.4517527, -49.2148223 -25.4522728, -49.2148515 -25.452282, -49.2148755 -25.4522895, -49.2153472 -25.4510626))",amenity,bus_station
+663,,"POLYGON ((-49.2223913 -25.439772, -49.2223815 -25.4397543, -49.2222389 -25.4398182, -49.2222481 -25.4398349, -49.2222486 -25.4398359, -49.2223913 -25.439772))",amenity,bus_station
+664,,"POLYGON ((-49.2210313 -25.440271, -49.220938 -25.4403146, -49.2209279 -25.440297, -49.2210213 -25.4402535, -49.2210257 -25.4402611, -49.2210313 -25.440271))",amenity,bus_station
+665,,"POLYGON ((-49.2222875 -25.4396791, -49.2222762 -25.4396586, -49.222256 -25.439622, -49.2221718 -25.4396599, -49.2221864 -25.4396864, -49.2221133 -25.4397193, -49.2221016 -25.4396982, -49.2221403 -25.4396808, -49.2221334 -25.4396684, -49.2219883 -25.4397336, -49.2219953 -25.4397462, -49.2220176 -25.4397362, -49.2220294 -25.4397575, -49.22196 -25.4397887, -49.2219484 -25.4397677, -49.221889 -25.4397945, -49.2218834 -25.4397844, -49.2217551 -25.4398421, -49.2216227 -25.4399017, -49.2216383 -25.4399301, -49.2213929 -25.4400404, -49.221383 -25.4400224, -49.2214094 -25.4400106, -49.2214018 -25.4399968, -49.2213071 -25.4400394, -49.2213147 -25.4400532, -49.2213446 -25.4400398, -49.2213544 -25.4400574, -49.2213255 -25.4400704, -49.2213215 -25.4400632, -49.2212779 -25.4400828, -49.2212688 -25.4400662, -49.221157 -25.4401165, -49.2211465 -25.4400975, -49.2208875 -25.4402139, -49.2208996 -25.4402359, -49.2210538 -25.4401666, -49.2210865 -25.4401519, -49.2210954 -25.440168, -49.2211694 -25.4401347, -49.2211792 -25.4401525, -49.2212336 -25.4401281, -49.2212446 -25.440148, -49.2219952 -25.4398105, -49.2222875 -25.4396791))",amenity,bus_station
+666,,"POLYGON ((-49.2220432 -25.439954, -49.2210024 -25.4404163, -49.2209856 -25.4403854, -49.2211384 -25.4403176, -49.2220264 -25.4399232, -49.222032 -25.4399336, -49.2220432 -25.439954))",amenity,bus_station
+667,,"POLYGON ((-49.2530292 -25.4069634, -49.252962 -25.4070145, -49.2522919 -25.4062976, -49.2523241 -25.4062731, -49.2523598 -25.406246, -49.2530292 -25.4069634))",amenity,bus_station
+668,,"POLYGON ((-49.2528863 -25.4071525, -49.2528319 -25.4071938, -49.2528142 -25.4072073, -49.2526759 -25.407059, -49.252671 -25.4070628, -49.2526824 -25.4070751, -49.2526683 -25.4070858, -49.252588 -25.4069997, -49.2525959 -25.4069937, -49.2526025 -25.4070008, -49.2526147 -25.4069915, -49.2524491 -25.4068139, -49.2524432 -25.4068184, -49.2524534 -25.4068294, -49.2524386 -25.4068406, -49.2523587 -25.406755, -49.2523717 -25.4067451, -49.2523791 -25.4067532, -49.2523871 -25.4067471, -49.2522324 -25.4065811, -49.2522258 -25.4065861, -49.2522405 -25.4066019, -49.2522271 -25.4066121, -49.2521345 -25.4065128, -49.2521443 -25.4065053, -49.2521527 -25.4065143, -49.2521639 -25.4065058, -49.2520782 -25.4064138, -49.2521481 -25.4063606, -49.2528863 -25.4071525))",amenity,bus_station
+669,,"POLYGON ((-49.2532258 -25.4068106, -49.2531601 -25.4068608, -49.2523782 -25.4060267, -49.2524503 -25.4059715, -49.2525334 -25.4060601, -49.2525541 -25.4060443, -49.2525356 -25.4060245, -49.2525527 -25.4060114, -49.2526198 -25.4060829, -49.2526037 -25.4060953, -49.2525921 -25.4060829, -49.2525671 -25.406102, -49.2527178 -25.4062628, -49.2527413 -25.4062448, -49.2527318 -25.4062347, -49.2527496 -25.4062211, -49.2528158 -25.4062918, -49.2528034 -25.4063013, -49.2527914 -25.4062884, -49.2527619 -25.406311, -49.2529335 -25.406494, -49.25296 -25.4064737, -49.2529493 -25.4064623, -49.2529649 -25.4064503, -49.2530549 -25.4065463, -49.2530387 -25.4065587, -49.2530224 -25.4065413, -49.2529939 -25.4065631, -49.2532258 -25.4068106))",amenity,bus_station
+670,,"POLYGON ((-49.241374 -25.393189, -49.2414309 -25.3932507, -49.2412101 -25.3934169, -49.2409838 -25.3935874, -49.2409269 -25.3935257, -49.241374 -25.393189))",amenity,bus_station
+671,,"POLYGON ((-49.2412185 -25.3929656, -49.2406156 -25.3934202, -49.2409061 -25.3937347, -49.2408689 -25.3937628, -49.24049 -25.3933523, -49.2405197 -25.3933299, -49.24055 -25.3933628, -49.2411601 -25.3929025, -49.2412185 -25.3929656))",amenity,bus_station
+672,,"POLYGON ((-49.2404556 -25.3934416, -49.24041 -25.3934755, -49.240756 -25.3938463, -49.2407935 -25.3938172, -49.2404556 -25.3934416))",amenity,bus_station
+673,,"POLYGON ((-49.2412032 -25.3930861, -49.2408517 -25.3933544, -49.2408736 -25.3933778, -49.2412251 -25.3931095, -49.2412032 -25.3930861))",amenity,bus_station
+674,,"POLYGON ((-49.2624218 -25.3777695, -49.2624202 -25.3778001, -49.2624575 -25.3778275, -49.26244 -25.3778468, -49.2623706 -25.3777955, -49.2624249 -25.3771276, -49.2625148 -25.3771336, -49.2624628 -25.3777722, -49.2624218 -25.3777695))",amenity,bus_station
+675,,"POLYGON ((-49.2622787 -25.3772901, -49.2622363 -25.3772862, -49.2622032 -25.3775768, -49.2622455 -25.3775808, -49.2622787 -25.3772901))",amenity,bus_station
+676,,"POLYGON ((-49.2236302 -25.3772297, -49.2245996 -25.377246, -49.2245987 -25.3772916, -49.2236291 -25.3772753, -49.2236264 -25.3774054, -49.224727 -25.3774239, -49.2247329 -25.3771411, -49.2247387 -25.3768595, -49.223638 -25.376841, -49.2236349 -25.3769923, -49.2246044 -25.3770086, -49.2246038 -25.3770372, -49.2236345 -25.3770209, -49.2236324 -25.3771226, -49.2236302 -25.3772297))",amenity,bus_station
+677,Terminal Cabral,"POLYGON ((-49.2532258 -25.4068106, -49.2531601 -25.4068608, -49.2523782 -25.4060267, -49.2524503 -25.4059715, -49.2525334 -25.4060601, -49.2525541 -25.4060443, -49.2525356 -25.4060245, -49.2525527 -25.4060114, -49.2526198 -25.4060829, -49.2526037 -25.4060953, -49.2525921 -25.4060829, -49.2525671 -25.406102, -49.2527178 -25.4062628, -49.2527413 -25.4062448, -49.2527318 -25.4062347, -49.2527496 -25.4062211, -49.2528158 -25.4062918, -49.2528034 -25.4063013, -49.2527914 -25.4062884, -49.2527619 -25.406311, -49.2529335 -25.406494, -49.25296 -25.4064737, -49.2529493 -25.4064623, -49.2529649 -25.4064503, -49.2530549 -25.4065463, -49.2530387 -25.4065587, -49.2530224 -25.4065413, -49.2529939 -25.4065631, -49.2532258 -25.4068106))",amenity,bus_station
+678,Terminal Campina do Siqueira,"POLYGON ((-49.3079114 -25.4362574, -49.3078759 -25.4363364, -49.3077293 -25.4362826, -49.3075666 -25.4362229, -49.3075578 -25.4362425, -49.3075781 -25.4362499, -49.3075684 -25.4362716, -49.3074473 -25.4362272, -49.307457 -25.4362056, -49.3074772 -25.4362129, -49.3074874 -25.4361902, -49.3072186 -25.4360916, -49.3072086 -25.4361139, -49.3072366 -25.4361241, -49.3072288 -25.4361413, -49.3071321 -25.4361058, -49.30714 -25.4360882, -49.3071665 -25.4360979, -49.3071772 -25.4360741, -49.3069364 -25.4359858, -49.3069258 -25.4360092, -49.3069436 -25.4360158, -49.306936 -25.4360327, -49.3068445 -25.4359991, -49.3068525 -25.4359813, -49.3068672 -25.4359867, -49.3068782 -25.4359622, -49.3066589 -25.4358817, -49.3066732 -25.43585, -49.3066913 -25.4358097, -49.3079114 -25.4362574))",amenity,bus_station
+679,Terminal Campo Comprido,"POLYGON ((-49.3472553 -25.4417904, -49.3472568 -25.4417055, -49.3467508 -25.4416979, -49.3459634 -25.4416863, -49.3459619 -25.4417712, -49.3472553 -25.4417904))",amenity,bus_station
+680,Terminal Oficinas,"POLYGON ((-49.2151318 -25.450974, -49.2151117 -25.4509677, -49.2150892 -25.4509606, -49.2146094 -25.4522088, -49.2146319 -25.4522159, -49.2146519 -25.4522222, -49.2148528 -25.4516996, -49.2151318 -25.450974))",amenity,bus_station
+681,Terminal Capão da Imbuia,"POLYGON ((-49.2210313 -25.440271, -49.220938 -25.4403146, -49.2209279 -25.440297, -49.2210213 -25.4402535, -49.2210257 -25.4402611, -49.2210313 -25.440271))",amenity,bus_station
+682,Terminal Guadalupe,"POLYGON ((-49.2656073 -25.4321122, -49.2653951 -25.4320271, -49.2652265 -25.4323698, -49.2651324 -25.4323321, -49.2652017 -25.4321911, -49.2651311 -25.4321628, -49.2646872 -25.433065, -49.2647581 -25.4330934, -49.2649138 -25.432777, -49.2650079 -25.4328148, -49.2648387 -25.4331587, -49.2650507 -25.4332438, -49.2656073 -25.4321122))",amenity,bus_station
+683,Terminal Santa Cândida,"POLYGON ((-49.2236302 -25.3772297, -49.2245996 -25.377246, -49.2245987 -25.3772916, -49.2236291 -25.3772753, -49.2236264 -25.3774054, -49.224727 -25.3774239, -49.2247329 -25.3771411, -49.2247387 -25.3768595, -49.223638 -25.376841, -49.2236349 -25.3769923, -49.2246044 -25.3770086, -49.2246038 -25.3770372, -49.2236345 -25.3770209, -49.2236324 -25.3771226, -49.2236302 -25.3772297))",amenity,bus_station
+684,Terminal Barreirinha,"POLYGON ((-49.2622787 -25.3772901, -49.2622363 -25.3772862, -49.2622032 -25.3775768, -49.2622455 -25.3775808, -49.2622787 -25.3772901))",amenity,bus_station
+685,Terminal Pinheirinho,"POLYGON ((-49.2957347 -25.5118753, -49.2956416 -25.5118734, -49.2956412 -25.511892, -49.2956032 -25.5134149, -49.2956026 -25.5134408, -49.2956957 -25.5134427, -49.2956963 -25.5134168, -49.2957343 -25.5118938, -49.2957347 -25.5118753))",amenity,bus_station
+686,Terminal Boa Vista,"POLYGON ((-49.2404556 -25.3934416, -49.24041 -25.3934755, -49.240756 -25.3938463, -49.2407935 -25.3938172, -49.2404556 -25.3934416))",amenity,bus_station
+687,Terminal Caiuá,"POLYGON ((-49.3503646 -25.4836553, -49.3503808 -25.483616, -49.3500178 -25.4834943, -49.3500016 -25.4835336, -49.350207 -25.4836025, -49.3503646 -25.4836553))",amenity,bus_station
+688,Terminal Capão Raso,"POLYGON ((-49.2931457 -25.4916271, -49.2931019 -25.491971, -49.2930695 -25.492225, -49.2930362 -25.492487, -49.2929815 -25.4924813, -49.2930169 -25.4922165, -49.293091 -25.4916214, -49.2931457 -25.4916271))",amenity,bus_station
+689,Terminal Fazendinha,"POLYGON ((-49.3263873 -25.4773491, -49.3277361 -25.4771622, -49.3277369 -25.4771673, -49.3277693 -25.4771628, -49.3277664 -25.4771459, -49.3277824 -25.4771437, -49.3277986 -25.4772389, -49.3277824 -25.4772412, -49.3277749 -25.4771967, -49.327743 -25.4772011, -49.3277494 -25.4772384, -49.3264189 -25.4774228, -49.3263946 -25.4774262, -49.3263973 -25.4774215, -49.3263559 -25.4774088, -49.3263318 -25.4774519, -49.3263081 -25.4774418, -49.3263638 -25.4773417, -49.3263873 -25.4773491))",amenity,bus_station
+690,Terminal Portão,"POLYGON ((-49.2923951 -25.475921, -49.2924122 -25.4759262, -49.2924032 -25.4759504, -49.2924314 -25.475959, -49.2922345 -25.4764864, -49.2921891 -25.4764726, -49.2923107 -25.4761475, -49.2923951 -25.475921))",amenity,bus_station

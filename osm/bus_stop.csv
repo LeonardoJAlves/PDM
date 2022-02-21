@@ -1,0 +1,1768 @@
+,name,geom,key,value
+0,Estacao Carlos Dietzsch,POINT (-49.2943978 -25.472622),highway,bus_stop
+1,Estacao Morretes,POINT (-49.2931525 -25.4676313),highway,bus_stop
+2,Estação Tubo Vital Brasil,POINT (-49.2912392 -25.4646556),highway,bus_stop
+3,Estacao Silva Jardim,POINT (-49.2878279 -25.4483887),highway,bus_stop
+4,Estação Tubo Wenceslau Bráz,POINT (-49.2850011 -25.4774141),highway,bus_stop
+5,Estação Tubo Dom Ático,POINT (-49.2802015 -25.4762588),highway,bus_stop
+6,,POINT (-49.2744201 -25.5357861),highway,bus_stop
+7,,POINT (-49.2826937 -25.5346727),highway,bus_stop
+8,,POINT (-49.287745 -25.5308615),highway,bus_stop
+9,,POINT (-49.2914937 -25.52808),highway,bus_stop
+10,,POINT (-49.2339226 -25.4377181),highway,bus_stop
+11,Linha Turismo - Bosque do Papa,POINT (-49.2715436 -25.4089024),highway,bus_stop
+12,Linha Turismo - Museu Oscar Niemeyer,POINT (-49.266647 -25.4090791),highway,bus_stop
+13,Linha Turismo - Bosque Alemão,POINT (-49.2855958 -25.407168),highway,bus_stop
+14,Linha Turismo - Bosque Alemão,POINT (-49.2884577 -25.4044447),highway,bus_stop
+15,Linha Turismo - Parque Tanguá,POINT (-49.2807956 -25.3783875),highway,bus_stop
+16,Linha Turismo - Memorial Ucraniano,POINT (-49.3056897 -25.4024527),highway,bus_stop
+17,180833,POINT (-49.2981144 -25.469024),highway,bus_stop
+18,180105,POINT (-49.2995348 -25.4686985),highway,bus_stop
+19,,POINT (-49.2521573 -25.4267856),highway,bus_stop
+20,Linha Turismo - Memorial Arabe,POINT (-49.2686121 -25.4236305),highway,bus_stop
+21,Linha Turismo - Teatro Paiol,POINT (-49.257486 -25.4480324),highway,bus_stop
+22,Linha Turismo - Rua XV,POINT (-49.2742735 -25.4322296),highway,bus_stop
+23,Linha Turismo - Teatro Guaíra,POINT (-49.2649894 -25.4285121),highway,bus_stop
+24,Linha Turismo - Setor Historico,POINT (-49.2745155 -25.4275347),highway,bus_stop
+25,Linha Turismo - Jardim Botanico,POINT (-49.2413343 -25.4419091),highway,bus_stop
+26,Linha Turismo - Rua das Flores,POINT (-49.2758419 -25.4350117),highway,bus_stop
+27,Linha Turismo - Mercado Municipal,POINT (-49.2570195 -25.4354269),highway,bus_stop
+28,"Rua Almirante Tamandaré, 800",POINT (-49.2551033 -25.4258192),highway,bus_stop
+29,"Mal. Deodoro, 1800",POINT (-49.2547418 -25.4273021),highway,bus_stop
+30,Estação Tubo Araçá,POINT (-49.237275 -25.52695),highway,bus_stop
+31,,POINT (-49.3416785 -25.4867399),highway,bus_stop
+32,Linha Porto Belo,POINT (-49.3397271 -25.481461),highway,bus_stop
+33,,POINT (-49.3403923 -25.4837079),highway,bus_stop
+34,,POINT (-49.3407892 -25.4853737),highway,bus_stop
+35,,POINT (-49.3438872 -25.4870686),highway,bus_stop
+36,,POINT (-49.3450888 -25.4847249),highway,bus_stop
+37,,POINT (-49.3456145 -25.4827491),highway,bus_stop
+38,,POINT (-49.3372675 -25.4815385),highway,bus_stop
+39,Estação Fernando de Noronha - Santa Cândida/Capão Raso,POINT (-49.2362453 -25.3887983),highway,bus_stop
+40,Estação-tubo Fernando de Noronha,POINT (-49.2328402 -25.3851272),highway,bus_stop
+41,Estação Antonio Cavalheiros - Sta Candida/Capão Raso,POINT (-49.2488757 -25.4025791),highway,bus_stop
+42,Estação Maria Clara - Sta Candida/Capão Raso,POINT (-49.2649181 -25.4198132),highway,bus_stop
+43,Estação Coronel Dulcídio,POINT (-49.280376 -25.4428962),highway,bus_stop
+44,Estação Tubo Praça Oswaldo Cruz > Sent. Sul,POINT (-49.2771054 -25.4416385),highway,bus_stop
+45,Estação Sebastião Paraná,POINT (-49.2898031 -25.4611863),highway,bus_stop
+46,Estação Herculano de Araújo,POINT (-49.2942469 -25.4878027),highway,bus_stop
+47,Estação Itajubá,POINT (-49.2925452 -25.4810499),highway,bus_stop
+48,,POINT (-49.2868478 -25.496312),highway,bus_stop
+49,,POINT (-49.2839617 -25.4961861),highway,bus_stop
+50,,POINT (-49.2805209 -25.4960251),highway,bus_stop
+51,,POINT (-49.2777015 -25.495852),highway,bus_stop
+52,Interbairros II Sent Hauer - Alto Boqueirão - Xaxim/Capão Raso - Sent Bairro,POINT (-49.2884464 -25.4914795),highway,bus_stop
+53,Interbairros II Sent Hauer - Alto Boqueirão - Xaxim/Capão Raso - Sent Bairro,POINT (-49.2868756 -25.4934431),highway,bus_stop
+54,Estação-tubo José Bettega,POINT (-49.2960285 -25.4995066),highway,bus_stop
+55,Estação Santa Regina,POINT (-49.2959856 -25.5034733),highway,bus_stop
+56,Estação Tubo Kennedy,POINT (-49.267603 -25.4555143),highway,bus_stop
+57,,POINT (-49.2987168 -25.4530781),highway,bus_stop
+58,,POINT (-49.2968714 -25.4546378),highway,bus_stop
+59,,POINT (-49.2952001 -25.4517936),highway,bus_stop
+60,Linha Aeroporto Executivo - Shopping Estação,POINT (-49.2648534 -25.4376489),highway,bus_stop
+61,,POINT (-49.3015955 -25.4496197),highway,bus_stop
+62,,POINT (-49.2995115 -25.4493437),highway,bus_stop
+63,Estação-tubo Winston Churchill,POINT (-49.2955224 -25.5207082),highway,bus_stop
+64,Estação Tubo Praça Oswaldo Cruz > Sent. Norte,POINT (-49.2758818 -25.4411679),highway,bus_stop
+65,Estação-tubo Constantino Marochi,POINT (-49.261466 -25.4161199),highway,bus_stop
+66,Estação-tubo Moysés Marcondes,POINT (-49.2587329 -25.413157),highway,bus_stop
+67,Estação-tubo Bom Jesus,POINT (-49.2555652 -25.4097604),highway,bus_stop
+68,Estação-tubo Joaquim Nabuco,POINT (-49.2288483 -25.3807688),highway,bus_stop
+69,Estação-tubo Mossunguê,POINT (-49.3331512 -25.4386392),highway,bus_stop
+70,Estação Tubo São Grato,POINT (-49.3285166 -25.4365522),highway,bus_stop
+71,Estação-tubo Paulo Gorski,POINT (-49.3243737 -25.4375592),highway,bus_stop
+72,Estação-Tubo Rio Barigui,POINT (-49.3177245 -25.4392476),highway,bus_stop
+73,Estação-tubo Major Heitor Guimarães,POINT (-49.3140941 -25.4379517),highway,bus_stop
+74,Estação-tubo Bigorrilho,POINT (-49.2999111 -25.4333135),highway,bus_stop
+75,Estação-tubo Bruno Filgueira,POINT (-49.2965252 -25.4319921),highway,bus_stop
+76,Estação-tubo Praça da Ucrânia,POINT (-49.2927177 -25.4303756),highway,bus_stop
+77,Estação-tubo Presidente Taunay,POINT (-49.2880324 -25.4287618),highway,bus_stop
+78,Estação-tubo Brigadeiro Franco,POINT (-49.2838007 -25.4295314),highway,bus_stop
+79,Estação-tubo Visconde de Nácar,POINT (-49.2788224 -25.4313369),highway,bus_stop
+80,Estação-tubo Viaduto Capanema,POINT (-49.2458536 -25.4316104),highway,bus_stop
+81,Estação-tubo Del. Amazor Prestes,POINT (-49.2307669 -25.441803),highway,bus_stop
+82,Estação-tubo Prof. Maria Aguiar Teixeira,POINT (-49.2262179 -25.4389158),highway,bus_stop
+83,Estação-tubo Germânia,POINT (-49.2177395 -25.4421663),highway,bus_stop
+84,Estação-tubo Pastor Manoel V. de Souza,POINT (-49.2143109 -25.4431654),highway,bus_stop
+85,Estação-tubo Paulo Kissula,POINT (-49.2091053 -25.4436834),highway,bus_stop
+86,Estação-tubo Vila Nova,POINT (-49.2036123 -25.4431303),highway,bus_stop
+87,Teófilo Otoni,POINT (-49.2129671 -25.4573064),highway,bus_stop
+88,Estação-tubo Cajuru,POINT (-49.2117399 -25.4604091),highway,bus_stop
+89,Estação-tubo Catulo da Paixão Cearense,POINT (-49.209789 -25.4650533),highway,bus_stop
+90,Tubo Praça Expedicionário,POINT (-49.258449 -25.429368),highway,bus_stop
+91,Tubo Praça Expedicionário,POINT (-49.2582593 -25.4288564),highway,bus_stop
+92,,POINT (-49.2012881 -25.4177683),highway,bus_stop
+93,,POINT (-49.2010628 -25.4178071),highway,bus_stop
+94,,POINT (-49.2001052 -25.4198735),highway,bus_stop
+95,,POINT (-49.2003708 -25.4196313),highway,bus_stop
+96,Rua XV de Novembro,POINT (-49.254538 -25.4265635),highway,bus_stop
+97,Ponto n. 140.289,POINT (-49.2312009 -25.4544197),highway,bus_stop
+98,,POINT (-49.2233693 -25.4840316),highway,bus_stop
+99,,POINT (-49.2207998 -25.4923361),highway,bus_stop
+100,,POINT (-49.2209283 -25.4924817),highway,bus_stop
+101,Estação-tubo Gastão Câmara,POINT (-49.3043674 -25.4349944),highway,bus_stop
+102,Linea Turismo: Universidade Livre do Meio Ambiente,POINT (-49.282267 -25.3985631),highway,bus_stop
+103,PUC Portão 01,POINT (-49.2527327 -25.4539749),highway,bus_stop
+104,"R. João Negrão, 1400",POINT (-49.2610238 -25.4417727),highway,bus_stop
+105,,POINT (-49.259528 -25.4447319),highway,bus_stop
+106,,POINT (-49.2588795 -25.4466504),highway,bus_stop
+107,"Rua Comendador Roseira, 260",POINT (-49.2567356 -25.4504578),highway,bus_stop
+108,,POINT (-49.2540679 -25.4508919),highway,bus_stop
+109,,POINT (-49.2512549 -25.458256),highway,bus_stop
+110,,POINT (-49.2488089 -25.4606619),highway,bus_stop
+111,,POINT (-49.2461968 -25.4630701),highway,bus_stop
+112,,POINT (-49.2448707 -25.4644612),highway,bus_stop
+113,,POINT (-49.2429405 -25.4658631),highway,bus_stop
+114,,POINT (-49.239985 -25.4693746),highway,bus_stop
+115,,POINT (-49.2905785 -25.4500473),highway,bus_stop
+116,,POINT (-49.2738747 -25.4149277),highway,bus_stop
+117,,POINT (-49.2767596 -25.4149924),highway,bus_stop
+118,,POINT (-49.2761114 -25.4103088),highway,bus_stop
+119,,POINT (-49.2781643 -25.408519),highway,bus_stop
+120,,POINT (-49.2709686 -25.4116401),highway,bus_stop
+121,,POINT (-49.2699656 -25.4147502),highway,bus_stop
+122,,POINT (-49.2702043 -25.4153243),highway,bus_stop
+123,Prefeitura de Curitiba,POINT (-49.2688127 -25.4165564),highway,bus_stop
+124,Prefeitura de Curitiba,POINT (-49.2690451 -25.4163055),highway,bus_stop
+125,120113,POINT (-49.2659192 -25.4141991),highway,bus_stop
+126,,POINT (-49.2652959 -25.4127321),highway,bus_stop
+127,,POINT (-49.2616534 -25.4134613),highway,bus_stop
+128,,POINT (-49.2595211 -25.4158428),highway,bus_stop
+129,,POINT (-49.2135944 -25.4688574),highway,bus_stop
+130,,POINT (-49.2133918 -25.4686444),highway,bus_stop
+131,,POINT (-49.20929 -25.4742149),highway,bus_stop
+132,,POINT (-49.2090459 -25.4739994),highway,bus_stop
+133,,POINT (-49.217173 -25.47159),highway,bus_stop
+134,,POINT (-49.2171676 -25.4713769),highway,bus_stop
+135,,POINT (-49.2153629 -25.4791622),highway,bus_stop
+136,"Av. Comendador Franco, 4121",POINT (-49.2325356 -25.4679562),highway,bus_stop
+137,"Av. Comendador Franco, 4526",POINT (-49.2301978 -25.4711794),highway,bus_stop
+138,"Av. Comendador Franco, 4772",POINT (-49.2288944 -25.472927),highway,bus_stop
+139,"Av. Comendador Franco, 5050",POINT (-49.2271235 -25.475346),highway,bus_stop
+140,"Av. Comendador Franco, 5350",POINT (-49.2254058 -25.4777194),highway,bus_stop
+141,"Av. Comendador Franco, 5930",POINT (-49.2231461 -25.4808354),highway,bus_stop
+142,"Av. Comendador Franco, 6144",POINT (-49.2203429 -25.4846477),highway,bus_stop
+143,"Av. Comendador Franco, 6511",POINT (-49.2185026 -25.4871699),highway,bus_stop
+144,"Av. Comendador Franco, 6915",POINT (-49.2167769 -25.4895201),highway,bus_stop
+145,"Av. Comendador Franco, 7399",POINT (-49.2147079 -25.4923497),highway,bus_stop
+146,"Av. Comendador Franco, 5620",POINT (-49.2243098 -25.4792165),highway,bus_stop
+147,"Av. Comendador Franco, 7870",POINT (-49.2121685 -25.4960302),highway,bus_stop
+148,,POINT (-49.3116402 -25.4330943),highway,bus_stop
+149,,POINT (-49.3169885 -25.4305703),highway,bus_stop
+150,,POINT (-49.3225937 -25.4298359),highway,bus_stop
+151,,POINT (-49.32438 -25.4297123),highway,bus_stop
+152,,POINT (-49.3252759 -25.4273529),highway,bus_stop
+153,,POINT (-49.3249031 -25.4243467),highway,bus_stop
+154,,POINT (-49.3245946 -25.4209819),highway,bus_stop
+155,,POINT (-49.3215101 -25.4217862),highway,bus_stop
+156,,POINT (-49.3211024 -25.4238429),highway,bus_stop
+157,,POINT (-49.3223925 -25.4307249),highway,bus_stop
+158,,POINT (-49.3168377 -25.4310591),highway,bus_stop
+159,,POINT (-49.3104138 -25.4346126),highway,bus_stop
+160,Estação Fernando de Noronha - Santa Cândida/Capão Raso,POINT (-49.2352856 -25.387896),highway,bus_stop
+161,Estação Tubo Holanda,POINT (-49.2462344 -25.399575),highway,bus_stop
+162,Estação-tubo Gago Coutinho,POINT (-49.2433591 -25.3964929),highway,bus_stop
+163,Estação-tubo Gago Coutinho,POINT (-49.2424311 -25.395617),highway,bus_stop
+164,,POINT (-49.2357983 -25.4491602),highway,bus_stop
+165,Linha Verde - Comendador Franco,POINT (-49.242027 -25.4531436),highway,bus_stop
+166,Linha Verde - PUC,POINT (-49.2500778 -25.4598308),highway,bus_stop
+167,,POINT (-49.2360424 -25.4491143),highway,bus_stop
+168,Linha Verde - Comendador Franco,POINT (-49.2426292 -25.4528761),highway,bus_stop
+169,,POINT (-49.2915042 -25.4631515),highway,bus_stop
+170,,POINT (-49.2809504 -25.4469069),highway,bus_stop
+171,Estação Tubo Lindoia,POINT (-49.2700721 -25.4737897),highway,bus_stop
+172,180795,POINT (-49.3106107 -25.4571137),highway,bus_stop
+173,Ponto inicial/final: 265 - Ahú/Los Angeles,POINT (-49.3100169 -25.4521324),highway,bus_stop
+174,,POINT (-49.3078186 -25.4562807),highway,bus_stop
+175,,POINT (-49.3055736 -25.4556046),highway,bus_stop
+176,Estudantes,POINT (-49.2316321 -25.4501247),highway,bus_stop
+177,,POINT (-49.2341027 -25.4551105),highway,bus_stop
+178,,POINT (-49.2297759 -25.4524116),highway,bus_stop
+179,Estudantes,POINT (-49.2326596 -25.4532566),highway,bus_stop
+180,Fazendinha - 701,POINT (-49.2728551 -25.4350893),highway,bus_stop
+181,Cotolengo - 778,POINT (-49.2733691 -25.4352916),highway,bus_stop
+182,Estação Hospital Cajuru,POINT (-49.243708 -25.4370893),highway,bus_stop
+183,Estação Água Verde,POINT (-49.2853863 -25.4483161),highway,bus_stop
+184,Estação Água Verde,POINT (-49.2845844 -25.4497592),highway,bus_stop
+185,Estação Desembargador Westphalen,POINT (-49.268036 -25.4435554),highway,bus_stop
+186,Estação Tubo Lindoia,POINT (-49.2699924 -25.4740358),highway,bus_stop
+187,,POINT (-49.2262465 -25.4552132),highway,bus_stop
+188,,POINT (-49.2284013 -25.4502942),highway,bus_stop
+189,,POINT (-49.2338985 -25.4574505),highway,bus_stop
+190,,POINT (-49.2360282 -25.4573251),highway,bus_stop
+191,,POINT (-49.2307597 -25.4551277),highway,bus_stop
+192,,POINT (-49.2269937 -25.4535853),highway,bus_stop
+193,,POINT (-49.227042 -25.4538493),highway,bus_stop
+194,Praça 19 de Dezembro,POINT (-49.2697088 -25.4232341),highway,bus_stop
+195,,POINT (-49.2629447 -25.4318781),highway,bus_stop
+196,"Rua Tibagi, 960",POINT (-49.2609063 -25.4365457),highway,bus_stop
+197,,POINT (-49.2649188 -25.4352293),highway,bus_stop
+198,,POINT (-49.23199 -25.4577375),highway,bus_stop
+199,,POINT (-49.2312578 -25.4553496),highway,bus_stop
+200,,POINT (-49.2262152 -25.4530876),highway,bus_stop
+201,,POINT (-49.239772 -25.4441446),highway,bus_stop
+202,,POINT (-49.2377845 -25.4438927),highway,bus_stop
+203,"Av. Comendador Franco, 1689",POINT (-49.2450718 -25.4501908),highway,bus_stop
+204,,POINT (-49.2453113 -25.4454903),highway,bus_stop
+205,"Av. Comendador Franco, 648",POINT (-49.2508768 -25.4427473),highway,bus_stop
+206,"Av. Comendador Franco, 1127",POINT (-49.2490224 -25.4453283),highway,bus_stop
+207,,POINT (-49.2494747 -25.4441708),highway,bus_stop
+208,,POINT (-49.2136467 -25.4295967),highway,bus_stop
+209,,POINT (-49.2300912 -25.4520857),highway,bus_stop
+210,,POINT (-49.226131 -25.4505125),highway,bus_stop
+211,,POINT (-49.2241881 -25.4478722),highway,bus_stop
+212,,POINT (-49.2339427 -25.4550347),highway,bus_stop
+213,"Av. Comendador Franco, 2801",POINT (-49.2386671 -25.4595178),highway,bus_stop
+214,,POINT (-49.2633585 -25.4371245),highway,bus_stop
+215,,POINT (-49.3016024 -25.4377345),highway,bus_stop
+216,Estação Praça 29 de Março,POINT (-49.2849843 -25.4283807),highway,bus_stop
+217,Estação Praça 29 de Março,POINT (-49.2849761 -25.428295),highway,bus_stop
+218,,POINT (-49.2237901 -25.4601409),highway,bus_stop
+219,,POINT (-49.2264548 -25.4636266),highway,bus_stop
+220,,POINT (-49.228835 -25.4598864),highway,bus_stop
+221,,POINT (-49.2270074 -25.4613382),highway,bus_stop
+222,,POINT (-49.2251231 -25.4573825),highway,bus_stop
+223,,POINT (-49.2578684 -25.4122975),highway,bus_stop
+224,Guilhermina - 561,POINT (-49.2773758 -25.4874937),highway,bus_stop
+225,"Av. Comendador Franco, 4325",POINT (-49.2306038 -25.4700205),highway,bus_stop
+226,"Av. Comendador Franco, 4751",POINT (-49.2286652 -25.4726698),highway,bus_stop
+227,"Av. Comendador Franco, 5047",POINT (-49.2271197 -25.4747876),highway,bus_stop
+228,"Av. Comendador Franco, 5361",POINT (-49.2258954 -25.4764597),highway,bus_stop
+229,"Av. Comendador Franco, 5627",POINT (-49.2239786 -25.4790552),highway,bus_stop
+230,"Av. Comendador Franco, 5935",POINT (-49.2230733 -25.4803022),highway,bus_stop
+231,"R. Henrique Mehl, 280",POINT (-49.220193 -25.4832289),highway,bus_stop
+232,"Av. Comendador Franco, 6287",POINT (-49.2211656 -25.4829737),highway,bus_stop
+233,"Av. Comendador Franco, 6502",POINT (-49.2178412 -25.4875093),highway,bus_stop
+234,"Av. Comendador Franco, 6900",POINT (-49.2164057 -25.4894967),highway,bus_stop
+235,,POINT (-49.2150804 -25.492152),highway,bus_stop
+236,"Av. Comendador Franco, 7398",POINT (-49.2134396 -25.4934851),highway,bus_stop
+237,,POINT (-49.2153082 -25.4924675),highway,bus_stop
+238,"R. Aviador Armin Buhrer, 145",POINT (-49.2126631 -25.4936807),highway,bus_stop
+239,,POINT (-49.2970395 -25.4570452),highway,bus_stop
+240,,POINT (-49.2960478 -25.4579076),highway,bus_stop
+241,,POINT (-49.2956751 -25.4561907),highway,bus_stop
+242,,POINT (-49.2965499 -25.4602192),highway,bus_stop
+243,,POINT (-49.2976806 -25.4606724),highway,bus_stop
+244,,POINT (-49.3024429 -25.4567358),highway,bus_stop
+245,,POINT (-49.2910769 -25.4612515),highway,bus_stop
+246,,POINT (-49.290359 -25.4577614),highway,bus_stop
+247,,POINT (-49.2897538 -25.454809),highway,bus_stop
+248,,POINT (-49.2966694 -25.4553065),highway,bus_stop
+249,Estação Tubo Antero de Quental,POINT (-49.2740635 -25.4750535),highway,bus_stop
+250,Estação Tubo Wenceslau Bráz,POINT (-49.2851266 -25.4777187),highway,bus_stop
+251,Estação Tubo Antero de Quental,POINT (-49.2741469 -25.4748062),highway,bus_stop
+252,Estação Tubo Dom Ático,POINT (-49.2801236 -25.4764963),highway,bus_stop
+253,,POINT (-49.2704021 -25.4578869),highway,bus_stop
+254,,POINT (-49.2695331 -25.4574074),highway,bus_stop
+255,,POINT (-49.2649834 -25.4500266),highway,bus_stop
+256,"Rua José Gonçalves Jr, 182",POINT (-49.3273126 -25.4662723),highway,bus_stop
+257,"Rua José Gonçalves Júnior, 182",POINT (-49.3271571 -25.4662698),highway,bus_stop
+258,,POINT (-49.2603387 -25.4490205),highway,bus_stop
+259,,POINT (-49.2649615 -25.4529259),highway,bus_stop
+260,,POINT (-49.2183662 -25.452875),highway,bus_stop
+261,,POINT (-49.2552519 -25.4508164),highway,bus_stop
+262,,POINT (-49.2239897 -25.4522262),highway,bus_stop
+263,,POINT (-49.2521547 -25.4538574),highway,bus_stop
+264,,POINT (-49.2663693 -25.453932),highway,bus_stop
+265,,POINT (-49.2215473 -25.451153),highway,bus_stop
+266,,POINT (-49.2412461 -25.4501358),highway,bus_stop
+267,"Av. Comendador Franco, 2499",POINT (-49.2410416 -25.4556989),highway,bus_stop
+268,,POINT (-49.2186547 -25.452355),highway,bus_stop
+269,,POINT (-49.2551929 -25.4514194),highway,bus_stop
+270,,POINT (-49.2733193 -25.4605545),highway,bus_stop
+271,,POINT (-49.2502362 -25.4571955),highway,bus_stop
+272,,POINT (-49.2445003 -25.4499033),highway,bus_stop
+273,"Av. Comendador Franco, 1731",POINT (-49.2456496 -25.4499421),highway,bus_stop
+274,Praça Bento M. da Rocha Neto,POINT (-49.2777154 -25.4644946),highway,bus_stop
+275,"Rua Comendador Roseira, 257",POINT (-49.2568505 -25.4503332),highway,bus_stop
+276,Pontifícia Universidade Católica,POINT (-49.2528996 -25.4504725),highway,bus_stop
+277,"Rua Comendador Roseira, 31",POINT (-49.2593115 -25.4505173),highway,bus_stop
+278,,POINT (-49.2171753 -25.4552581),highway,bus_stop
+279,,POINT (-49.2615792 -25.449075),highway,bus_stop
+280,,POINT (-49.2656723 -25.4528241),highway,bus_stop
+281,,POINT (-49.2233765 -25.4519014),highway,bus_stop
+282,Estação Tubo PUC,POINT (-49.2526425 -25.4534096),highway,bus_stop
+283,,POINT (-49.2757735 -25.462751),highway,bus_stop
+284,,POINT (-49.2762536 -25.4634969),highway,bus_stop
+285,"Rua Rockefeller, 1424",POINT (-49.2598747 -25.45028),highway,bus_stop
+286,Pontifícia Universidade Católica,POINT (-49.2528379 -25.451078),highway,bus_stop
+287,,POINT (-49.2673192 -25.4551491),highway,bus_stop
+288,"Rua Comendador Roseira, 419",POINT (-49.2551393 -25.4502279),highway,bus_stop
+289,,POINT (-49.2199809 -25.4510005),highway,bus_stop
+290,,POINT (-49.2820204 -25.4683934),highway,bus_stop
+291,,POINT (-49.3094272 -25.4772777),highway,bus_stop
+292,,POINT (-49.2821303 -25.4688292),highway,bus_stop
+293,,POINT (-49.2906034 -25.4761179),highway,bus_stop
+294,Estação Vila Guaíra,POINT (-49.2856682 -25.4718489),highway,bus_stop
+295,"R. João Bettega, 736",POINT (-49.3016501 -25.4751324),highway,bus_stop
+296,,POINT (-49.286733 -25.4729434),highway,bus_stop
+297,,POINT (-49.2878193 -25.4736069),highway,bus_stop
+298,,POINT (-49.3109158 -25.4779388),highway,bus_stop
+299,,POINT (-49.2858586 -25.471844),highway,bus_stop
+300,,POINT (-49.2800704 -25.4669646),highway,bus_stop
+301,,POINT (-49.3058786 -25.4763189),highway,bus_stop
+302,,POINT (-49.2837531 -25.469931),highway,bus_stop
+303,,POINT (-49.2840159 -25.4705243),highway,bus_stop
+304,,POINT (-49.2797029 -25.4663084),highway,bus_stop
+305,,POINT (-49.3109212 -25.4778104),highway,bus_stop
+306,"R. João Bettega, 1090",POINT (-49.3041888 -25.4757668),highway,bus_stop
+307,,POINT (-49.2887447 -25.4747837),highway,bus_stop
+308,,POINT (-49.2436452 -25.3917011),highway,bus_stop
+309,,POINT (-49.2464776 -25.3916551),highway,bus_stop
+310,,POINT (-49.2469604 -25.3919919),highway,bus_stop
+311,,POINT (-49.2566644 -25.4263895),highway,bus_stop
+312,,POINT (-49.2806546 -25.452815),highway,bus_stop
+313,,POINT (-49.2801394 -25.4529868),highway,bus_stop
+314,,POINT (-49.2896885 -25.43823),highway,bus_stop
+315,,POINT (-49.2338506 -25.4620157),highway,bus_stop
+316,,POINT (-49.2323252 -25.4594418),highway,bus_stop
+317,,POINT (-49.2299539 -25.4603665),highway,bus_stop
+318,,POINT (-49.2311496 -25.4600105),highway,bus_stop
+319,,POINT (-49.2198815 -25.4508379),highway,bus_stop
+320,,POINT (-49.272468 -25.4300982),highway,bus_stop
+321,Estação Tubo Nestor de Castro,POINT (-49.2728408 -25.4285503),highway,bus_stop
+322,Estação Tubo Tiradentes,POINT (-49.2723205 -25.4294477),highway,bus_stop
+323,Estação Tubo Tiradentes,POINT (-49.2717804 -25.4292954),highway,bus_stop
+324,Estação Tubo Nestor de Castro,POINT (-49.2720909 -25.428318),highway,bus_stop
+325,,POINT (-49.2711275 -25.4292913),highway,bus_stop
+326,Estação Tubo Tiradentes,POINT (-49.2720494 -25.4293687),highway,bus_stop
+327,Estação Tubo Nestor de Castro,POINT (-49.2724369 -25.4284112),highway,bus_stop
+328,,POINT (-49.253162 -25.4413614),highway,bus_stop
+329,,POINT (-49.2607886 -25.4340406),highway,bus_stop
+330,Largo Bittencourt,POINT (-49.2641539 -25.4267097),highway,bus_stop
+331,"Av. Visconde de Guarapuava, 546",POINT (-49.2618041 -25.433975),highway,bus_stop
+332,"Rua Tibagi, 776",POINT (-49.2622842 -25.4334324),highway,bus_stop
+333,,POINT (-49.260176 -25.4366249),highway,bus_stop
+334,,POINT (-49.2619891 -25.4314449),highway,bus_stop
+335,,POINT (-49.2644985 -25.4282276),highway,bus_stop
+336,110403,POINT (-49.262936 -25.4293566),highway,bus_stop
+337,,POINT (-49.2570624 -25.4408489),highway,bus_stop
+338,,POINT (-49.2585805 -25.4414592),highway,bus_stop
+339,,POINT (-49.2575586 -25.4427308),highway,bus_stop
+340,,POINT (-49.2152032 -25.4257143),highway,bus_stop
+341,,POINT (-49.216775 -25.4219546),highway,bus_stop
+342,,POINT (-49.2169896 -25.4218141),highway,bus_stop
+343,,POINT (-49.2160186 -25.4241446),highway,bus_stop
+344,,POINT (-49.2154071 -25.4256804),highway,bus_stop
+345,,POINT (-49.2183146 -25.4179914),highway,bus_stop
+346,,POINT (-49.2618506 -25.4293618),highway,bus_stop
+347,,POINT (-49.3073117 -25.4568983),highway,bus_stop
+348,ponto sentido vila velha,POINT (-49.3023281 -25.4591008),highway,bus_stop
+349,ponto sentido buriti,POINT (-49.3022861 -25.4591872),highway,bus_stop
+350,,POINT (-49.3025061 -25.4592405),highway,bus_stop
+351,,POINT (-49.3083378 -25.4514936),highway,bus_stop
+352,,POINT (-49.3083121 -25.4512488),highway,bus_stop
+353,,POINT (-49.3053099 -25.4515728),highway,bus_stop
+354,,POINT (-49.3055869 -25.4514613),highway,bus_stop
+355,180117,POINT (-49.3041806 -25.4544165),highway,bus_stop
+356,,POINT (-49.3053491 -25.444523),highway,bus_stop
+357,Ponto Final 777-Vila Velha / 779 V.Velha/Buriti,POINT (-49.3377667 -25.4622974),highway,bus_stop
+358,,POINT (-49.3038339 -25.451792),highway,bus_stop
+359,"Av. Comendador Franco, 3057",POINT (-49.237751 -25.4602229),highway,bus_stop
+360,,POINT (-49.2175221 -25.4295468),highway,bus_stop
+361,,POINT (-49.2176706 -25.4298373),highway,bus_stop
+362,,POINT (-49.2129353 -25.4300191),highway,bus_stop
+363,,POINT (-49.2109704 -25.4314781),highway,bus_stop
+364,,POINT (-49.2150901 -25.4330995),highway,bus_stop
+365,,POINT (-49.2122531 -25.4338484),highway,bus_stop
+366,,POINT (-49.2146995 -25.4366229),highway,bus_stop
+367,Praça Santos Dumont,POINT (-49.274702 -25.4299707),highway,bus_stop
+368,,POINT (-49.279501 -25.4597961),highway,bus_stop
+369,,POINT (-49.2820162 -25.456107),highway,bus_stop
+370,,POINT (-49.2843279 -25.4587665),highway,bus_stop
+371,Estação Tubo Paulo Kissula,POINT (-49.2090893 -25.4437729),highway,bus_stop
+372,Praça Bento M. da Rocha Neto,POINT (-49.277958 -25.4650619),highway,bus_stop
+373,,POINT (-49.2682057 -25.4210549),highway,bus_stop
+374,Praça 19 de Dezembro,POINT (-49.2699287 -25.4231938),highway,bus_stop
+375,,POINT (-49.2701339 -25.423537),highway,bus_stop
+376,,POINT (-49.3484322 -25.419771),highway,bus_stop
+377,,POINT (-49.3482602 -25.419396),highway,bus_stop
+378,,POINT (-49.3497569 -25.4166352),highway,bus_stop
+379,,POINT (-49.3499605 -25.4165834),highway,bus_stop
+380,"Rua Ernani Santiago de Oliveira, 99",POINT (-49.2677016 -25.416773),highway,bus_stop
+381,Assembleia Legislativa,POINT (-49.2662917 -25.413784),highway,bus_stop
+382,"Av. Manoel Ribas, 200",POINT (-49.280651 -25.4232412),highway,bus_stop
+383,Praça Zacarias,POINT (-49.2727304 -25.4327421),highway,bus_stop
+384,,POINT (-49.3312298 -25.4683498),highway,bus_stop
+385,,POINT (-49.3311037 -25.471407),highway,bus_stop
+386,,POINT (-49.3310876 -25.4761664),highway,bus_stop
+387,,POINT (-49.3308006 -25.472803),highway,bus_stop
+388,,POINT (-49.3311654 -25.4742244),highway,bus_stop
+389,,POINT (-49.2741853 -25.4243433),highway,bus_stop
+390,Largo Ciro Silva,POINT (-49.2855041 -25.4555558),highway,bus_stop
+391,,POINT (-49.266854 -25.4243723),highway,bus_stop
+392,,POINT (-49.2913195 -25.4443829),highway,bus_stop
+393,,POINT (-49.2571805 -25.4293532),highway,bus_stop
+394,Estação tubo Petit Carneiro,POINT (-49.2878712 -25.4522607),highway,bus_stop
+395,,POINT (-49.2332358 -25.4190185),highway,bus_stop
+396,,POINT (-49.2332162 -25.4197761),highway,bus_stop
+397,,POINT (-49.2360583 -25.4191876),highway,bus_stop
+398,,POINT (-49.2389108 -25.4203657),highway,bus_stop
+399,,POINT (-49.2391562 -25.4203172),highway,bus_stop
+400,,POINT (-49.2305202 -25.4192005),highway,bus_stop
+401,,POINT (-49.2303877 -25.4194178),highway,bus_stop
+402,,POINT (-49.2850102 -25.4413697),highway,bus_stop
+403,,POINT (-49.3256544 -25.4969995),highway,bus_stop
+404,,POINT (-49.2908957 -25.4280708),highway,bus_stop
+405,,POINT (-49.2998829 -25.4518992),highway,bus_stop
+406,,POINT (-49.2976232 -25.4510364),highway,bus_stop
+407,,POINT (-49.2945131 -25.4499636),highway,bus_stop
+408,,POINT (-49.2685949 -25.4402949),highway,bus_stop
+409,"Av. Comendador Franco, 2730",POINT (-49.2402657 -25.4573685),highway,bus_stop
+410,,POINT (-49.3076197 -25.4420853),highway,bus_stop
+411,,POINT (-49.2614602 -25.4375759),highway,bus_stop
+412,,POINT (-49.2376959 -25.458319),highway,bus_stop
+413,,POINT (-49.2665377 -25.4394931),highway,bus_stop
+414,,POINT (-49.2637188 -25.4384237),highway,bus_stop
+415,,POINT (-49.2731231 -25.4420479),highway,bus_stop
+416,"Av. Comendador Franco, 1344",POINT (-49.2472593 -25.4477438),highway,bus_stop
+417,Estação Tubo Barigui,POINT (-49.3179369 -25.4366326),highway,bus_stop
+418,,POINT (-49.2709982 -25.446195),highway,bus_stop
+419,,POINT (-49.3065241 -25.4343363),highway,bus_stop
+420,,POINT (-49.3031498 -25.4330452),highway,bus_stop
+421,,POINT (-49.2767837 -25.4405686),highway,bus_stop
+422,,POINT (-49.2973268 -25.4306375),highway,bus_stop
+423,,POINT (-49.2935288 -25.4290969),highway,bus_stop
+424,,POINT (-49.2865765 -25.4263862),highway,bus_stop
+425,,POINT (-49.2885613 -25.4271541),highway,bus_stop
+426,,POINT (-49.3000251 -25.431696),highway,bus_stop
+427,,POINT (-49.2851482 -25.4300656),highway,bus_stop
+428,,POINT (-49.2823037 -25.4335418),highway,bus_stop
+429,,POINT (-49.2854314 -25.4432646),highway,bus_stop
+430,,POINT (-49.2798637 -25.4239858),highway,bus_stop
+431,,POINT (-49.2856199 -25.4294528),highway,bus_stop
+432,,POINT (-49.2811101 -25.4415469),highway,bus_stop
+433,,POINT (-49.3508619 -25.4132047),highway,bus_stop
+434,,POINT (-49.3504448 -25.4124451),highway,bus_stop
+435,,POINT (-49.2747707 -25.430156),highway,bus_stop
+436,,POINT (-49.2895397 -25.4326388),highway,bus_stop
+437,,POINT (-49.2888169 -25.4385866),highway,bus_stop
+438,,POINT (-49.2842169 -25.4447375),highway,bus_stop
+439,,POINT (-49.2781215 -25.4527553),highway,bus_stop
+440,,POINT (-49.2837841 -25.4641099),highway,bus_stop
+441,Praça da Bandeira,POINT (-49.2800134 -25.4164133),highway,bus_stop
+442,Sta. Bárbara - 461,POINT (-49.2724954 -25.434762),highway,bus_stop
+443,Petrópolis - 462,POINT (-49.272364 -25.4347158),highway,bus_stop
+444,,POINT (-49.242389 -25.3779721),highway,bus_stop
+445,,POINT (-49.2401234 -25.3794992),highway,bus_stop
+446,,POINT (-49.2302551 -25.3832745),highway,bus_stop
+447,,POINT (-49.2318981 -25.3852707),highway,bus_stop
+448,,POINT (-49.2468524 -25.386027),highway,bus_stop
+449,,POINT (-49.2450164 -25.3874322),highway,bus_stop
+450,,POINT (-49.2473757 -25.3993264),highway,bus_stop
+451,,POINT (-49.2418243 -25.4031333),highway,bus_stop
+452,,POINT (-49.2403252 -25.4050198),highway,bus_stop
+453,,POINT (-49.2415123 -25.4062868),highway,bus_stop
+454,,POINT (-49.2387343 -25.4070033),highway,bus_stop
+455,,POINT (-49.2416699 -25.4152292),highway,bus_stop
+456,,POINT (-49.2413979 -25.4153351),highway,bus_stop
+457,,POINT (-49.2413178 -25.4224672),highway,bus_stop
+458,,POINT (-49.2413518 -25.4231334),highway,bus_stop
+459,,POINT (-49.2421681 -25.4258875),highway,bus_stop
+460,,POINT (-49.2424683 -25.4261969),highway,bus_stop
+461,,POINT (-49.240585 -25.4294024),highway,bus_stop
+462,,POINT (-49.2382204 -25.4328586),highway,bus_stop
+463,,POINT (-49.2300368 -25.4495096),highway,bus_stop
+464,Caiuá - 703,POINT (-49.2721662 -25.4348191),highway,bus_stop
+465,Carmélia Dutra - 776,POINT (-49.2737549 -25.4354352),highway,bus_stop
+466,Dom Ático - 662,POINT (-49.2740442 -25.4356148),highway,bus_stop
+467,Erasto Gaertner - 465,POINT (-49.2728438 -25.434897),highway,bus_stop
+468,Fazendinha - 701,POINT (-49.2723431 -25.4348841),highway,bus_stop
+469,Guilhermina - 561,POINT (-49.2739147 -25.4355202),highway,bus_stop
+470,Novo Mundo - 666,POINT (-49.2742399 -25.4357516),highway,bus_stop
+471,Santa Quitéria - 760,POINT (-49.2730398 -25.4351665),highway,bus_stop
+472,Vila Cubas - 663,POINT (-49.2741346 -25.4356761),highway,bus_stop
+473,Vila Isabel - 761,POINT (-49.2732134 -25.4352336),highway,bus_stop
+474,Vila Rex - 665,POINT (-49.2739665 -25.4355653),highway,bus_stop
+475,Vila Velha - 777,POINT (-49.2736202 -25.4353803),highway,bus_stop
+476,,POINT (-49.248549 -25.4677471),highway,bus_stop
+477,,POINT (-49.2463445 -25.4705213),highway,bus_stop
+478,,POINT (-49.2464176 -25.4705874),highway,bus_stop
+479,,POINT (-49.2486123 -25.4678117),highway,bus_stop
+480,,POINT (-49.2748911 -25.3754782),highway,bus_stop
+481,,POINT (-49.2743278 -25.3739878),highway,bus_stop
+482,,POINT (-49.273203 -25.3677889),highway,bus_stop
+483,,POINT (-49.2739165 -25.3711407),highway,bus_stop
+484,,POINT (-49.2715347 -25.3619237),highway,bus_stop
+485,,POINT (-49.2746729 -25.358133),highway,bus_stop
+486,,POINT (-49.2719987 -25.3575173),highway,bus_stop
+487,,POINT (-49.2722937 -25.3601616),highway,bus_stop
+488,,POINT (-49.2725512 -25.3662911),highway,bus_stop
+489,,POINT (-49.2731896 -25.3564048),highway,bus_stop
+490,,POINT (-49.2744744 -25.3566351),highway,bus_stop
+491,,POINT (-49.2734337 -25.3682009),highway,bus_stop
+492,,POINT (-49.2756814 -25.3557625),highway,bus_stop
+493,Estação tubo Dom Pedro I,POINT (-49.2885505 -25.4569023),highway,bus_stop
+494,,POINT (-49.2913569 -25.5279324),highway,bus_stop
+495,,POINT (-49.3417624 -25.3935167),highway,bus_stop
+496,,POINT (-49.3347856 -25.3970647),highway,bus_stop
+497,,POINT (-49.3353475 -25.3932591),highway,bus_stop
+498,Ouro Verde,POINT (-49.3355598 -25.392336),highway,bus_stop
+499,Ouro Verde,POINT (-49.3353707 -25.3924898),highway,bus_stop
+500,Ouro Verde,POINT (-49.3382376 -25.3923192),highway,bus_stop
+501,Ouro Verde,POINT (-49.3419068 -25.3936624),highway,bus_stop
+502,Ponto Flor da Suiça,POINT (-49.2406045 -25.5133127),highway,bus_stop
+503,Ponto Flor da Suiça,POINT (-49.2405936 -25.5134629),highway,bus_stop
+504,Intercampi,POINT (-49.2315507 -25.4501928),highway,bus_stop
+505,,POINT (-49.2245338 -25.4683361),highway,bus_stop
+506,,POINT (-49.2201967 -25.4716004),highway,bus_stop
+507,,POINT (-49.2233214 -25.4721621),highway,bus_stop
+508,,POINT (-49.2183218 -25.4743027),highway,bus_stop
+509,,POINT (-49.2203308 -25.4738015),highway,bus_stop
+510,,POINT (-49.2184049 -25.4749613),highway,bus_stop
+511,,POINT (-49.2180509 -25.4746587),highway,bus_stop
+512,,POINT (-49.2457746 -25.45368),highway,bus_stop
+513,,POINT (-49.3025933 -25.4546122),highway,bus_stop
+514,,POINT (-49.2813121 -25.4466532),highway,bus_stop
+515,,POINT (-49.3056966 -25.4617972),highway,bus_stop
+516,,POINT (-49.2787721 -25.4456965),highway,bus_stop
+517,,POINT (-49.2725359 -25.4432793),highway,bus_stop
+518,,POINT (-49.2875268 -25.4489589),highway,bus_stop
+519,,POINT (-49.2754005 -25.4443789),highway,bus_stop
+520,,POINT (-49.2848097 -25.4478981),highway,bus_stop
+521,,POINT (-49.3053142 -25.4622893),highway,bus_stop
+522,,POINT (-49.3042879 -25.4603754),highway,bus_stop
+523,,POINT (-49.2723425 -25.3912221),highway,bus_stop
+524,,POINT (-49.2746975 -25.3877764),highway,bus_stop
+525,,POINT (-49.2775136 -25.3862258),highway,bus_stop
+526,,POINT (-49.2720663 -25.3894072),highway,bus_stop
+527,,POINT (-49.2721601 -25.3891503),highway,bus_stop
+528,,POINT (-49.2725625 -25.3913142),highway,bus_stop
+529,,POINT (-49.3422744 -25.4972907),highway,bus_stop
+530,,POINT (-49.345308 -25.4887996),highway,bus_stop
+531,,POINT (-49.3517749 -25.4740168),highway,bus_stop
+532,,POINT (-49.3555116 -25.4672396),highway,bus_stop
+533,,POINT (-49.357323 -25.4632039),highway,bus_stop
+534,,POINT (-49.3619839 -25.4519849),highway,bus_stop
+535,,POINT (-49.3184618 -25.4223057),highway,bus_stop
+536,,POINT (-49.3668077 -25.4361609),highway,bus_stop
+537,,POINT (-49.2261476 -25.4511644),highway,bus_stop
+538,,POINT (-49.3007816 -25.4157092),highway,bus_stop
+539,,POINT (-49.3345835 -25.4014743),highway,bus_stop
+540,,POINT (-49.3254913 -25.4612456),highway,bus_stop
+541,Estação-tubo Pastor Manoel V. de Souza,POINT (-49.2142925 -25.4430736),highway,bus_stop
+542,"R. Conselheiro Dantas, 356",POINT (-49.2617647 -25.4506039),highway,bus_stop
+543,"Av. Comendador Franco, 2857",POINT (-49.239105 -25.4583473),highway,bus_stop
+544,,POINT (-49.237602 -25.4568288),highway,bus_stop
+545,,POINT (-49.282913 -25.447689),highway,bus_stop
+546,,POINT (-49.270861 -25.436895),highway,bus_stop
+547,,POINT (-49.2492989 -25.4411688),highway,bus_stop
+548,,POINT (-49.2479571 -25.4423037),highway,bus_stop
+549,,POINT (-49.2443528 -25.4437724),highway,bus_stop
+550,,POINT (-49.2373723 -25.4440674),highway,bus_stop
+551,,POINT (-49.257182 -25.4231731),highway,bus_stop
+552,,POINT (-49.2592105 -25.4243262),highway,bus_stop
+553,,POINT (-49.2616667 -25.425409),highway,bus_stop
+554,,POINT (-49.2638145 -25.4262587),highway,bus_stop
+555,,POINT (-49.2372901 -25.4262566),highway,bus_stop
+556,,POINT (-49.2378587 -25.4266199),highway,bus_stop
+557,,POINT (-49.2376146 -25.4274145),highway,bus_stop
+558,,POINT (-49.240339 -25.4077401),highway,bus_stop
+559,,POINT (-49.3141819 -25.4581027),highway,bus_stop
+560,,POINT (-49.3035034 -25.4524671),highway,bus_stop
+561,Ponto inicial/final: 365-Jd. Social/Batel,POINT (-49.3091211 -25.4490325),highway,bus_stop
+562,,POINT (-49.3055704 -25.449389),highway,bus_stop
+563,,POINT (-49.3060933 -25.4492356),highway,bus_stop
+564,,POINT (-49.303561 -25.4494859),highway,bus_stop
+565,,POINT (-49.3027562 -25.4493886),highway,bus_stop
+566,,POINT (-49.3162323 -25.4588254),highway,bus_stop
+567,,POINT (-49.3164319 -25.4587677),highway,bus_stop
+568,,POINT (-49.3229488 -25.4765281),highway,bus_stop
+569,,POINT (-49.3047309 -25.4575154),highway,bus_stop
+570,Uberaba,POINT (-49.2714828 -25.435795),highway,bus_stop
+571,,POINT (-49.2785771 -25.447618),highway,bus_stop
+572,,POINT (-49.2757809 -25.4465249),highway,bus_stop
+573,,POINT (-49.2732485 -25.4258944),highway,bus_stop
+574,,POINT (-49.2427058 -25.4434425),highway,bus_stop
+575,,POINT (-49.2426387 -25.4434606),highway,bus_stop
+576,,POINT (-49.2629312 -25.4277195),highway,bus_stop
+577,110074,POINT (-49.2630681 -25.4269303),highway,bus_stop
+578,,POINT (-49.2609904 -25.4269553),highway,bus_stop
+579,"Rua Marechal Deodoro, 527",POINT (-49.2672502 -25.430319),highway,bus_stop
+580,190187,POINT (-49.305884 -25.4232083),highway,bus_stop
+581,190941,POINT (-49.306073 -25.4232212),highway,bus_stop
+582,Aeroporto Executivo - Ponto: 24H,POINT (-49.2760521 -25.4349194),highway,bus_stop
+583,,POINT (-49.2685752 -25.423326),highway,bus_stop
+584,,POINT (-49.2685866 -25.4233942),highway,bus_stop
+585,,POINT (-49.2631245 -25.4255039),highway,bus_stop
+586,180635,POINT (-49.2990575 -25.4663806),highway,bus_stop
+587,180454,POINT (-49.2999475 -25.4659856),highway,bus_stop
+588,180632,POINT (-49.2987673 -25.4650049),highway,bus_stop
+589,180631,POINT (-49.297335 -25.463719),highway,bus_stop
+590,Praça Tiradentes,POINT (-49.2714938 -25.4296432),highway,bus_stop
+591,,POINT (-49.3033792 -25.4566998),highway,bus_stop
+592,,POINT (-49.3101257 -25.5420343),highway,bus_stop
+593,,POINT (-49.3030832 -25.5425624),highway,bus_stop
+594,,POINT (-49.2847532 -25.4655471),highway,bus_stop
+595,,POINT (-49.3293201 -25.4218901),highway,bus_stop
+596,,POINT (-49.2935833 -25.3934265),highway,bus_stop
+597,,POINT (-49.2935807 -25.3935952),highway,bus_stop
+598,,POINT (-49.2916219 -25.3936116),highway,bus_stop
+599,,POINT (-49.2916712 -25.3937347),highway,bus_stop
+600,,POINT (-49.2958075 -25.3931255),highway,bus_stop
+601,,POINT (-49.2959133 -25.3929105),highway,bus_stop
+602,,POINT (-49.2957563 -25.3941198),highway,bus_stop
+603,,POINT (-49.2956289 -25.3940719),highway,bus_stop
+604,,POINT (-49.2950167 -25.3958917),highway,bus_stop
+605,,POINT (-49.2948705 -25.3959452),highway,bus_stop
+606,,POINT (-49.296251 -25.3971619),highway,bus_stop
+607,,POINT (-49.2958645 -25.3970379),highway,bus_stop
+608,,POINT (-49.2968592 -25.3990547),highway,bus_stop
+609,,POINT (-49.2968177 -25.398912),highway,bus_stop
+610,,POINT (-49.2932585 -25.3984249),highway,bus_stop
+611,,POINT (-49.2093074 -25.4978246),highway,bus_stop
+612,,POINT (-49.211418 -25.4923418),highway,bus_stop
+613,,POINT (-49.2077627 -25.4924584),highway,bus_stop
+614,,POINT (-49.2078414 -25.4935886),highway,bus_stop
+615,,POINT (-49.2086156 -25.4958265),highway,bus_stop
+616,,POINT (-49.209048 -25.4961763),highway,bus_stop
+617,,POINT (-49.2096188 -25.4978198),highway,bus_stop
+618,,POINT (-49.2069634 -25.4875262),highway,bus_stop
+619,,POINT (-49.2087294 -25.4948302),highway,bus_stop
+620,,POINT (-49.2113768 -25.4952479),highway,bus_stop
+621,,POINT (-49.2108226 -25.4933714),highway,bus_stop
+622,,POINT (-49.2895441 -25.3944818),highway,bus_stop
+623,,POINT (-49.2893299 -25.3948963),highway,bus_stop
+624,,POINT (-49.3196638 -25.4652089),highway,bus_stop
+625,,POINT (-49.2709206 -25.4276595),highway,bus_stop
+626,,POINT (-49.2636042 -25.430324),highway,bus_stop
+627,,POINT (-49.2941951 -25.4131765),highway,bus_stop
+628,,POINT (-49.2940387 -25.413014),highway,bus_stop
+629,,POINT (-49.2939075 -25.4163391),highway,bus_stop
+630,,POINT (-49.2938417 -25.4160782),highway,bus_stop
+631,Ponto Final,POINT (-49.2989524 -25.3991558),highway,bus_stop
+632,,POINT (-49.2999884 -25.3999717),highway,bus_stop
+633,,POINT (-49.3010765 -25.3992464),highway,bus_stop
+634,,POINT (-49.3033022 -25.3996066),highway,bus_stop
+635,,POINT (-49.3040671 -25.4007377),highway,bus_stop
+636,,POINT (-49.3001659 -25.399534),highway,bus_stop
+637,,POINT (-49.299123 -25.3980801),highway,bus_stop
+638,,POINT (-49.3024422 -25.4022922),highway,bus_stop
+639,,POINT (-49.3024383 -25.4021383),highway,bus_stop
+640,,POINT (-49.3037884 -25.4008142),highway,bus_stop
+641,,POINT (-49.3031465 -25.3995546),highway,bus_stop
+642,,POINT (-49.3009857 -25.3992834),highway,bus_stop
+643,,POINT (-49.3028507 -25.4043646),highway,bus_stop
+644,,POINT (-49.3030391 -25.4048964),highway,bus_stop
+645,,POINT (-49.3040337 -25.4080651),highway,bus_stop
+646,,POINT (-49.3038889 -25.4080797),highway,bus_stop
+647,,POINT (-49.3038811 -25.4097793),highway,bus_stop
+648,,POINT (-49.303687 -25.4098934),highway,bus_stop
+649,,POINT (-49.3030598 -25.4120502),highway,bus_stop
+650,,POINT (-49.3031662 -25.4117867),highway,bus_stop
+651,,POINT (-49.3016749 -25.4132721),highway,bus_stop
+652,,POINT (-49.3010757 -25.4133481),highway,bus_stop
+653,,POINT (-49.2982943 -25.4134673),highway,bus_stop
+654,,POINT (-49.2979632 -25.4139153),highway,bus_stop
+655,,POINT (-49.2963112 -25.4127309),highway,bus_stop
+656,,POINT (-49.2963921 -25.4126636),highway,bus_stop
+657,,POINT (-49.2948146 -25.4116127),highway,bus_stop
+658,,POINT (-49.2946539 -25.4115117),highway,bus_stop
+659,,POINT (-49.2932967 -25.4191816),highway,bus_stop
+660,,POINT (-49.293397 -25.4185511),highway,bus_stop
+661,,POINT (-49.2923199 -25.4212874),highway,bus_stop
+662,,POINT (-49.2922464 -25.4210384),highway,bus_stop
+663,,POINT (-49.2900076 -25.4225767),highway,bus_stop
+664,,POINT (-49.2910415 -25.4239107),highway,bus_stop
+665,,POINT (-49.2877195 -25.4235267),highway,bus_stop
+666,,POINT (-49.2880815 -25.4222114),highway,bus_stop
+667,,POINT (-49.2842576 -25.4224906),highway,bus_stop
+668,,POINT (-49.2841499 -25.4223529),highway,bus_stop
+669,,POINT (-49.2795762 -25.4254408),highway,bus_stop
+670,,POINT (-49.2769922 -25.4263653),highway,bus_stop
+671,,POINT (-49.2738654 -25.4291846),highway,bus_stop
+672,,POINT (-49.2781717 -25.4292439),highway,bus_stop
+673,,POINT (-49.2792578 -25.4267632),highway,bus_stop
+674,"Rua Chile, 821",POINT (-49.2577582 -25.4474896),highway,bus_stop
+675,,POINT (-49.3555481 -25.6160294),highway,bus_stop
+676,,POINT (-49.2897445 -25.4706714),highway,bus_stop
+677,Estação Tubo Marumby,POINT (-49.2644263 -25.4726664),highway,bus_stop
+678,Estação Tubo Marumby,POINT (-49.2644932 -25.4724254),highway,bus_stop
+679,Estação São Pedro,POINT (-49.2798765 -25.5127763),highway,bus_stop
+680,Estação Vila Accordes,POINT (-49.268846 -25.5248184),highway,bus_stop
+681,Estação Bairro Novo,POINT (-49.2659108 -25.5448749),highway,bus_stop
+682,Estação Bairro Novo,POINT (-49.2658613 -25.5446002),highway,bus_stop
+683,Estação Centro Médico Comunitário Bairro Novo,POINT (-49.2604215 -25.5478349),highway,bus_stop
+684,Estação Centro Médico Comunitário Bairro Novo,POINT (-49.2602835 -25.5476274),highway,bus_stop
+685,Estação Osternack,POINT (-49.2509199 -25.5530568),highway,bus_stop
+686,Ponto Final - 860 V. Sandra,POINT (-49.3401559 -25.4640509),highway,bus_stop
+687,Ponto Final - 823 Augusta/Trianon,POINT (-49.3526974 -25.4646405),highway,bus_stop
+688,Ponto Final - 861 Tramontina,POINT (-49.3490322 -25.4630699),highway,bus_stop
+689,Estação CIC-NORTE,POINT (-49.3538327 -25.4496556),highway,bus_stop
+690,Inter 2 (Anti-Horário),POINT (-49.252995 -25.4065089),highway,bus_stop
+691,Santa Cândida/Capão Raso,POINT (-49.2527285 -25.4063965),highway,bus_stop
+692,Ponto Final - Sta Rita/Pinheirinho,POINT (-49.3314397 -25.574943),highway,bus_stop
+693,Ponto Final - Jd. Ludovica,POINT (-49.3314719 -25.5750737),highway,bus_stop
+694,Ponto - 615 Uberlândia,POINT (-49.3111053 -25.4836078),highway,bus_stop
+695,Ponto - 615 Uberlândia,POINT (-49.309268 -25.484247),highway,bus_stop
+696,Ponto - 615 Uberlândia,POINT (-49.307302 -25.4832882),highway,bus_stop
+697,Ponto - 615 Uberlândia,POINT (-49.3047083 -25.4819928),highway,bus_stop
+698,Ponto - 615 Uberlândia (Praça),POINT (-49.30477 -25.482109),highway,bus_stop
+699,Ponto - 615 Uberlândia,POINT (-49.3052367 -25.4840291),highway,bus_stop
+700,Ponto - 615 Uberlândia,POINT (-49.3038821 -25.4855859),highway,bus_stop
+701,Ponto - 615 Uberlândia,POINT (-49.305242 -25.4875398),highway,bus_stop
+702,Ponto - 615 Uberlândia,POINT (-49.3052501 -25.4888352),highway,bus_stop
+703,Ponto - 615 Uberlândia / 672 Formosa,POINT (-49.3072854 -25.4890998),highway,bus_stop
+704,Ponto - 672 Formosa,POINT (-49.3069801 -25.4891499),highway,bus_stop
+705,Ponto - 615 Uberlândia / 672 Formosa,POINT (-49.3101585 -25.4891039),highway,bus_stop
+706,Ponto - 672 Formosa,POINT (-49.3097642 -25.4891862),highway,bus_stop
+707,Ponto - 615 Uberlândia,POINT (-49.3111429 -25.4884066),highway,bus_stop
+708,Ponto - 615 Uberlândia,POINT (-49.3111831 -25.4857627),highway,bus_stop
+709,Ponto - 672 Formosa,POINT (-49.3111027 -25.4905082),highway,bus_stop
+710,Ponto - 672 Formosa,POINT (-49.3111 -25.4923312),highway,bus_stop
+711,Ponto Final - 672 Formosa,POINT (-49.312543 -25.4927186),highway,bus_stop
+712,,POINT (-49.3130177 -25.4925249),highway,bus_stop
+713,Ponto - 671 Portão,POINT (-49.3117929 -25.4833989),highway,bus_stop
+714,Ponto Final - 671 Portão,POINT (-49.3137345 -25.4836634),highway,bus_stop
+715,,POINT (-49.3033948 -25.4795387),highway,bus_stop
+716,,POINT (-49.3008356 -25.4795008),highway,bus_stop
+717,,POINT (-49.2968572 -25.4791047),highway,bus_stop
+718,,POINT (-49.297604 -25.477924),highway,bus_stop
+719,,POINT (-49.3006909 -25.4778819),highway,bus_stop
+720,Ponto - 612 Portão/CIC e 671 Portão,POINT (-49.3045763 -25.4779746),highway,bus_stop
+721,Ponto - 615 Uberlândia,POINT (-49.3048285 -25.4788431),highway,bus_stop
+722,,POINT (-49.2968554 -25.4770141),highway,bus_stop
+723,,POINT (-49.2970249 -25.4764401),highway,bus_stop
+724,,POINT (-49.2944704 -25.4758498),highway,bus_stop
+725,,POINT (-49.2931255 -25.4778397),highway,bus_stop
+726,,POINT (-49.3073082 -25.4795935),highway,bus_stop
+727,,POINT (-49.3078967 -25.4780505),highway,bus_stop
+728,Ponto - 612 Portão/CIC,POINT (-49.3107454 -25.4781095),highway,bus_stop
+729,Ponto - 671 Portão,POINT (-49.3113011 -25.4784805),highway,bus_stop
+730,Ponto - 671 Portão,POINT (-49.3127417 -25.4804361),highway,bus_stop
+731,Ponto - 671 Portão,POINT (-49.312611 -25.4824428),highway,bus_stop
+732,Ponto - 671 Portão,POINT (-49.3113127 -25.4819453),highway,bus_stop
+733,,POINT (-49.3110138 -25.4796604),highway,bus_stop
+734,,POINT (-49.3135272 -25.4785725),highway,bus_stop
+735,,POINT (-49.3125884 -25.4784756),highway,bus_stop
+736,,POINT (-49.3149809 -25.4800253),highway,bus_stop
+737,,POINT (-49.3149541 -25.4804611),highway,bus_stop
+738,,POINT (-49.2709361 -25.4203911),highway,bus_stop
+739,"R. João Negrão, 1300",POINT (-49.261892 -25.4400772),highway,bus_stop
+740,"Rua Rockefeller, 290",POINT (-49.2641971 -25.4407041),highway,bus_stop
+741,,POINT (-49.2664696 -25.4409667),highway,bus_stop
+742,"Viaduto Colorado, 1159",POINT (-49.2600275 -25.4373435),highway,bus_stop
+743,"Av. Comendador Franco, 4051",POINT (-49.2322515 -25.4677809),highway,bus_stop
+744,"Av. Comendador Franco, 3733",POINT (-49.2362122 -25.4623396),highway,bus_stop
+745,"Av. Comendador Franco, 3379",POINT (-49.2367204 -25.4621995),highway,bus_stop
+746,,POINT (-49.2710564 -25.4325464),highway,bus_stop
+747,,POINT (-49.2711101 -25.4324422),highway,bus_stop
+748,,POINT (-49.271161 -25.4323356),highway,bus_stop
+749,Ponto Final  - Caximba/Olaria,POINT (-49.3543337 -25.6378246),highway,bus_stop
+750,623 - Parque Industrial,POINT (-49.3114648 -25.51628),highway,bus_stop
+751,623 - Parque Industrial,POINT (-49.3108403 -25.5179478),highway,bus_stop
+752,623 - Parque Industrial,POINT (-49.3096845 -25.5166034),highway,bus_stop
+753,623 - Parque Industrial,POINT (-49.3088703 -25.5185221),highway,bus_stop
+754,,POINT (-49.3071081 -25.5193379),highway,bus_stop
+755,,POINT (-49.3054559 -25.5204319),highway,bus_stop
+756,623 - Parque Industrial,POINT (-49.3042516 -25.5181179),highway,bus_stop
+757,623 - Parque Industrial,POINT (-49.3042891 -25.5165179),highway,bus_stop
+758,623 - Parque Industrial,POINT (-49.3043381 -25.5150172),highway,bus_stop
+759,623 - Parque Industrial,POINT (-49.3043381 -25.5132543),highway,bus_stop
+760,623 - Parque Industrial,POINT (-49.3043935 -25.5109297),highway,bus_stop
+761,623 - Parque Industrial,POINT (-49.3044582 -25.507782),highway,bus_stop
+762,623 - Parque Industrial,POINT (-49.3017562 -25.5077625),highway,bus_stop
+763,623 - Parque Industrial,POINT (-49.3008873 -25.5061247),highway,bus_stop
+764,623 - Parque Industrial,POINT (-49.3032197 -25.5051792),highway,bus_stop
+765,623 - Parque Industrial,POINT (-49.3045014 -25.50437),highway,bus_stop
+766,,POINT (-49.2649878 -25.4338473),highway,bus_stop
+767,,POINT (-49.2643493 -25.4330985),highway,bus_stop
+768,Museu Oscar Niemeyer,POINT (-49.2660323 -25.4108697),highway,bus_stop
+769,"Rua Zonardy Ribas, 750",POINT (-49.2311819 -25.5173199),highway,bus_stop
+770,Estação-tubo Catulo da Paixão Cearense,POINT (-49.2097832 -25.4654383),highway,bus_stop
+771,Laranjeiras/Fernando de Noronha,POINT (-49.2506871 -25.3811116),highway,bus_stop
+772,Estação-tubo Bento Viana,POINT (-49.2853414 -25.4448545),highway,bus_stop
+773,Estação-tubo Bento Viana,POINT (-49.2856511 -25.444835),highway,bus_stop
+774,Estação Tubo Cel. Dulcídio,POINT (-49.2817175 -25.4433484),highway,bus_stop
+775,Estação Tubo Coronel Dulcídio,POINT (-49.280435 -25.442962),highway,bus_stop
+776,,POINT (-49.2604622 -25.4314597),highway,bus_stop
+777,"Av. Sete de Setembro, 2300",POINT (-49.2619816 -25.4359804),highway,bus_stop
+778,Estação-tubo Mariano Torres,POINT (-49.2608025 -25.4356853),highway,bus_stop
+779,Estação-tubo Mariano Torres,POINT (-49.2607984 -25.4357603),highway,bus_stop
+780,Estação Tubo Alferes Poli,POINT (-49.2715607 -25.4394513),highway,bus_stop
+781,Estação Tubo Alferes Poli,POINT (-49.2704396 -25.4391279),highway,bus_stop
+782,Estação Tubo Praça Oswaldo Cruz,POINT (-49.2770993 -25.4415763),highway,bus_stop
+783,Estação Tubo Praça Eufrásio Correia,POINT (-49.2758569 -25.4412065),highway,bus_stop
+784,Estação Tubo Araçá,POINT (-49.2361167 -25.5264583),highway,bus_stop
+785,Estação Tubo Ahú,POINT (-49.2581611 -25.3910633),highway,bus_stop
+786,,POINT (-49.2456438 -25.4455931),highway,bus_stop
+787,"Av. Comendador Franco, 1327",POINT (-49.2470124 -25.4474732),highway,bus_stop
+788,,POINT (-49.2060364 -25.5048581),highway,bus_stop
+789,"R. Conselheiro Laurindo, 1200",POINT (-49.260682 -25.4385412),highway,bus_stop
+790,,POINT (-49.2597342 -25.4423482),highway,bus_stop
+791,,POINT (-49.2617183 -25.4365272),highway,bus_stop
+792,Estação-tubo Fernando de Noronha,POINT (-49.2319119 -25.3842603),highway,bus_stop
+793,Estação-tubo Joaquim Nabuco,POINT (-49.2278967 -25.3798768),highway,bus_stop
+794,,POINT (-49.2651495 -25.4177324),highway,bus_stop
+795,,POINT (-49.2658845 -25.4172673),highway,bus_stop
+796,,POINT (-49.2423239 -25.4233091),highway,bus_stop
+797,,POINT (-49.250844 -25.4448217),highway,bus_stop
+798,,POINT (-49.2538936 -25.4459467),highway,bus_stop
+799,Pontifícia Universidade Católica,POINT (-49.252865 -25.4508143),highway,bus_stop
+800,,POINT (-49.2063662 -25.5052865),highway,bus_stop
+801,,POINT (-49.2407267 -25.4137824),highway,bus_stop
+802,,POINT (-49.2421335 -25.4525393),highway,bus_stop
+803,Iguape 2 - 515,POINT (-49.2296396 -25.495717),highway,bus_stop
+804,"Av. Comendador Franco, 3661",POINT (-49.2349807 -25.4645627),highway,bus_stop
+805,Estação Tubo Coqueiros,POINT (-49.261782 -25.5325708),highway,bus_stop
+806,Estação Tubo Coqueiros,POINT (-49.2618075 -25.5324789),highway,bus_stop
+807,Estação Tubo Nova Europa,POINT (-49.2407079 -25.5277629),highway,bus_stop
+808,Estação Tubo Nova Europa,POINT (-49.240787 -25.5275813),highway,bus_stop
+809,Estação Tubo Érico Veríssimo,POINT (-49.2556129 -25.5311126),highway,bus_stop
+810,Estação Tubo Érico Veríssimo,POINT (-49.255334 -25.5312493),highway,bus_stop
+811,Estação Tubo Euclides da Cunha,POINT (-49.2501503 -25.5300068),highway,bus_stop
+812,Estação Tubo Euclides da Cunha,POINT (-49.2501935 -25.5298311),highway,bus_stop
+813,Estação Tubo Eucaliptos,POINT (-49.2461877 -25.529059),highway,bus_stop
+814,Estação Tubo Eucaliptos,POINT (-49.2459114 -25.5288097),highway,bus_stop
+815,Estação Tubo Erton Coelho,POINT (-49.2308897 -25.5254175),highway,bus_stop
+816,Estação Tubo Erton Coelho,POINT (-49.2310412 -25.5252336),highway,bus_stop
+817,,POINT (-49.2284072 -25.5206819),highway,bus_stop
+818,Estação Viaduto Capanema,POINT (-49.250591 -25.4355811),highway,bus_stop
+819,,POINT (-49.2439626 -25.4040453),highway,bus_stop
+820,Praça Rui Barbosa (607),POINT (-49.2710289 -25.4365241),highway,bus_stop
+821,Praça Rui Barbosa (506),POINT (-49.2711684 -25.436231),highway,bus_stop
+822,,POINT (-49.2730352 -25.4366222),highway,bus_stop
+823,,POINT (-49.2726128 -25.4364551),highway,bus_stop
+824,,POINT (-49.2728274 -25.4365362),highway,bus_stop
+825,,POINT (-49.2984014 -25.4832529),highway,bus_stop
+826,,POINT (-49.2982593 -25.4833207),highway,bus_stop
+827,,POINT (-49.2996996 -25.4856572),highway,bus_stop
+828,,POINT (-49.2995628 -25.4864513),highway,bus_stop
+829,,POINT (-49.2995548 -25.4883277),highway,bus_stop
+830,,POINT (-49.2996943 -25.4885118),highway,bus_stop
+831,,POINT (-49.2996808 -25.4912985),highway,bus_stop
+832,,POINT (-49.2995736 -25.4909692),highway,bus_stop
+833,,POINT (-49.2970737 -25.4917391),highway,bus_stop
+834,,POINT (-49.2971891 -25.4916229),highway,bus_stop
+835,Executivo Aeroporto,POINT (-49.2580552 -25.4367277),highway,bus_stop
+836,Augusta,POINT (-49.3493066 -25.4583019),highway,bus_stop
+837,,POINT (-49.2450303 -25.4033242),highway,bus_stop
+838,,POINT (-49.241968 -25.4013125),highway,bus_stop
+839,,POINT (-49.25311 -25.4335962),highway,bus_stop
+840,,POINT (-49.2529291 -25.4337247),highway,bus_stop
+841,,POINT (-49.2764916 -25.4515018),highway,bus_stop
+842,,POINT (-49.2743331 -25.4506784),highway,bus_stop
+843,Estação Viaduto Capanema,POINT (-49.250591 -25.4356643),highway,bus_stop
+844,,POINT (-49.2849711 -25.4781872),highway,bus_stop
+845,,POINT (-49.2542893 -25.4697703),highway,bus_stop
+846,,POINT (-49.2044641 -25.4281938),highway,bus_stop
+847,,POINT (-49.2043133 -25.4281078),highway,bus_stop
+848,"R. Luiz Parigot de Souza, 1037",POINT (-49.302703 -25.4759374),highway,bus_stop
+849,"R. Luiz Parigot de Souza, 710",POINT (-49.300327 -25.4758722),highway,bus_stop
+850,"R. Luiz Parigot de Souza, 110",POINT (-49.2973305 -25.4758096),highway,bus_stop
+851,"Rua Conselheiro Laurindo, 2642",POINT (-49.2574811 -25.4492594),highway,bus_stop
+852,"Rua João Negrão, 2222",POINT (-49.2582455 -25.4485643),highway,bus_stop
+853,Linha Turismo - Centro Cívico,POINT (-49.2687353 -25.4163719),highway,bus_stop
+854,A73 - Ctba/Jardim Marrocos,POINT (-49.2697415 -25.4237827),highway,bus_stop
+855,,POINT (-49.2986946 -25.4407599),highway,bus_stop
+856,,POINT (-49.2983016 -25.4410245),highway,bus_stop
+857,,POINT (-49.2970571 -25.4412522),highway,bus_stop
+858,,POINT (-49.3004259 -25.4395349),highway,bus_stop
+859,,POINT (-49.3034287 -25.4374264),highway,bus_stop
+860,,POINT (-49.307617 -25.4388494),highway,bus_stop
+861,,POINT (-49.304975 -25.4376432),highway,bus_stop
+862,,POINT (-49.304004 -25.4374203),highway,bus_stop
+863,Parque Iguaçu,POINT (-49.2211499 -25.5274857),highway,bus_stop
+864,,POINT (-49.2691782 -25.4408271),highway,bus_stop
+865,"Rua Rockefeller, 615",POINT (-49.2629421 -25.4434526),highway,bus_stop
+866,"Rua Rockefeller, 1020",POINT (-49.2614038 -25.4467526),highway,bus_stop
+867,,POINT (-49.2532848 -25.4133536),highway,bus_stop
+868,Estação Tubo Rebouças - Templo Maior,POINT (-49.260798 -25.440642),highway,bus_stop
+869,,POINT (-49.28928 -25.5123744),highway,bus_stop
+870,"Av. Vicente Machado, 2922",POINT (-49.3038404 -25.4446152),highway,bus_stop
+871,,POINT (-49.2023617 -25.3850911),highway,bus_stop
+872,,POINT (-49.2026514 -25.3846585),highway,bus_stop
+873,,POINT (-49.2010997 -25.3830143),highway,bus_stop
+874,,POINT (-49.2877445 -25.445297),highway,bus_stop
+875,Ponto de ónibus praça Domingas Bianco Stoco,POINT (-49.277264 -25.4874589),highway,bus_stop
+876,Estação Tubo Vale do Pinhão,POINT (-49.2626149 -25.4396172),highway,bus_stop
+877,,POINT (-49.2746674 -25.4343956),highway,bus_stop
+878,"Av. Comendador Franco, 7853",POINT (-49.2114484 -25.496593),highway,bus_stop
+879,"R. Henrique Mehl, 271",POINT (-49.2205699 -25.4831255),highway,bus_stop
+880,"R. João Bettega, 236",POINT (-49.2966346 -25.4749353),highway,bus_stop
+881,"R. João Bettega, 396",POINT (-49.2985766 -25.4751435),highway,bus_stop
+882,,POINT (-49.2255561 -25.4567419),highway,bus_stop
+883,Ponto do Ônibus Tingui,POINT (-49.2106365 -25.382466),highway,bus_stop
+884,Tubo China,POINT (-49.2023482 -25.4236443),highway,bus_stop
+885,,POINT (-49.250119 -25.4399298),highway,bus_stop
+886,,POINT (-49.2717424 -25.4402954),highway,bus_stop
+887,,POINT (-49.2646372 -25.400033),highway,bus_stop
+888,,POINT (-49.2645313 -25.3999179),highway,bus_stop
+889,Praça Santos Andrade (150),POINT (-49.2658489 -25.4282532),highway,bus_stop
+890,,POINT (-49.2171729 -25.463901),highway,bus_stop
+891,,POINT (-49.2174659 -25.4639984),highway,bus_stop
+892,,POINT (-49.2703436 -25.4391643),highway,bus_stop
+893,,POINT (-49.3372943 -25.4770105),highway,bus_stop
+894,,POINT (-49.3371212 -25.4771109),highway,bus_stop
+895,,POINT (-49.3400489 -25.4753942),highway,bus_stop
+896,,POINT (-49.3310849 -25.4714811),highway,bus_stop
+897,Linha Turismo - Shopping Estação,POINT (-49.26488 -25.4375318),highway,bus_stop
+898,,POINT (-49.2310346 -25.558427),highway,bus_stop
+899,Praça da Bandeira,POINT (-49.2791386 -25.4162462),highway,bus_stop
+900,,POINT (-49.2241225 -25.4161081),highway,bus_stop
+901,,POINT (-49.2209185 -25.4121194),highway,bus_stop
+902,,POINT (-49.2217095 -25.4126711),highway,bus_stop
+903,,POINT (-49.2700875 -25.4371333),highway,bus_stop
+904,,POINT (-49.2704496 -25.4363691),highway,bus_stop
+905,,POINT (-49.2846705 -25.5356657),highway,bus_stop
+906,,POINT (-49.2846635 -25.5356477),highway,bus_stop
+907,,POINT (-49.2847608 -25.5356173),highway,bus_stop
+908,,POINT (-49.2847678 -25.5356353),highway,bus_stop
+909,,POINT (-49.2847274 -25.5357837),highway,bus_stop
+910,,POINT (-49.2847204 -25.5357657),highway,bus_stop
+911,,POINT (-49.2848177 -25.5357353),highway,bus_stop
+912,,POINT (-49.2848247 -25.5357533),highway,bus_stop
+913,,POINT (-49.3250423 -25.5115917),highway,bus_stop
+914,,POINT (-49.3249856 -25.5114285),highway,bus_stop
+915,,POINT (-49.3240321 -25.5116985),highway,bus_stop
+916,,POINT (-49.3240888 -25.5118616),highway,bus_stop
+917,,POINT (-49.32491 -25.5115547),highway,bus_stop
+918,,POINT (-49.3245724 -25.5116501),highway,bus_stop
+919,,POINT (-49.3245505 -25.511587),highway,bus_stop
+920,,POINT (-49.3248881 -25.5114916),highway,bus_stop
+921,,POINT (-49.3245108 -25.5116659),highway,bus_stop
+922,,POINT (-49.3241751 -25.5117609),highway,bus_stop
+923,,POINT (-49.3241535 -25.5116988),highway,bus_stop
+924,,POINT (-49.3244892 -25.5116038),highway,bus_stop
+925,,POINT (-49.2953152 -25.5118737),highway,bus_stop
+926,,POINT (-49.2952743 -25.5134327),highway,bus_stop
+927,,POINT (-49.2955534 -25.5134387),highway,bus_stop
+928,,POINT (-49.2955943 -25.5118797),highway,bus_stop
+929,,POINT (-49.2957347 -25.5118753),highway,bus_stop
+930,,POINT (-49.2956416 -25.5118734),highway,bus_stop
+931,,POINT (-49.2956026 -25.5134408),highway,bus_stop
+932,,POINT (-49.2956957 -25.5134427),highway,bus_stop
+933,,POINT (-49.2951523 -25.5118628),highway,bus_stop
+934,,POINT (-49.2949909 -25.5118594),highway,bus_stop
+935,,POINT (-49.2949506 -25.513429),highway,bus_stop
+936,,POINT (-49.295112 -25.5134323),highway,bus_stop
+937,,POINT (-49.2949419 -25.5118559),highway,bus_stop
+938,,POINT (-49.2948024 -25.5118532),highway,bus_stop
+939,,POINT (-49.2947674 -25.5133577),highway,bus_stop
+940,,POINT (-49.2949068 -25.5133608),highway,bus_stop
+941,,POINT (-49.2945195 -25.5119062),highway,bus_stop
+942,,POINT (-49.2946444 -25.511909),highway,bus_stop
+943,,POINT (-49.2946047 -25.5133539),highway,bus_stop
+944,,POINT (-49.2944797 -25.5133511),highway,bus_stop
+945,,POINT (-49.2947781 -25.5134249),highway,bus_stop
+946,,POINT (-49.2947796 -25.513358),highway,bus_stop
+947,,POINT (-49.2948957 -25.5134272),highway,bus_stop
+948,,POINT (-49.2948973 -25.5133606),highway,bus_stop
+949,,POINT (-49.2945414 -25.5133525),highway,bus_stop
+950,,POINT (-49.2945728 -25.5119074),highway,bus_stop
+951,,POINT (-49.2955651 -25.5118791),highway,bus_stop
+952,,POINT (-49.2954966 -25.5134375),highway,bus_stop
+953,,POINT (-49.2948019 -25.5118751),highway,bus_stop
+954,,POINT (-49.2949904 -25.5118789),highway,bus_stop
+955,,POINT (-49.2951518 -25.5118821),highway,bus_stop
+956,,POINT (-49.2953149 -25.5118854),highway,bus_stop
+957,,POINT (-49.2952749 -25.5134083),highway,bus_stop
+958,,POINT (-49.2951127 -25.513405),highway,bus_stop
+959,,POINT (-49.2949513 -25.5134018),highway,bus_stop
+960,,POINT (-49.2948963 -25.5134006),highway,bus_stop
+961,,POINT (-49.2947787 -25.5133983),highway,bus_stop
+962,,POINT (-49.2955541 -25.5134139),highway,bus_stop
+963,,POINT (-49.2956032 -25.5134149),highway,bus_stop
+964,,POINT (-49.295594 -25.511891),highway,bus_stop
+965,,POINT (-49.2956412 -25.511892),highway,bus_stop
+966,,POINT (-49.2957343 -25.5118938),highway,bus_stop
+967,,POINT (-49.2956963 -25.5134168),highway,bus_stop
+968,,POINT (-49.2949414 -25.5118779),highway,bus_stop
+969,,POINT (-49.2843806 -25.5065754),highway,bus_stop
+970,,POINT (-49.2845586 -25.5067853),highway,bus_stop
+971,,POINT (-49.2845201 -25.5068119),highway,bus_stop
+972,,POINT (-49.2843421 -25.5066021),highway,bus_stop
+973,,POINT (-49.2843793 -25.5069041),highway,bus_stop
+974,,POINT (-49.2843412 -25.5069293),highway,bus_stop
+975,,POINT (-49.2841632 -25.5067102),highway,bus_stop
+976,,POINT (-49.2842013 -25.506685),highway,bus_stop
+977,,POINT (-49.2845367 -25.5068005),highway,bus_stop
+978,,POINT (-49.2843591 -25.5069175),highway,bus_stop
+979,,POINT (-49.2936693 -25.4916777),highway,bus_stop
+980,,POINT (-49.2937547 -25.4916864),highway,bus_stop
+981,,POINT (-49.2936607 -25.4924359),highway,bus_stop
+982,,POINT (-49.2935753 -25.4924272),highway,bus_stop
+983,,POINT (-49.2935108 -25.4915836),highway,bus_stop
+984,,POINT (-49.2933864 -25.4925602),highway,bus_stop
+985,,POINT (-49.2932982 -25.492551),highway,bus_stop
+986,,POINT (-49.2934227 -25.4915745),highway,bus_stop
+987,,POINT (-49.2931457 -25.4916271),highway,bus_stop
+988,,POINT (-49.2930362 -25.492487),highway,bus_stop
+989,,POINT (-49.2929815 -25.4924813),highway,bus_stop
+990,,POINT (-49.293091 -25.4916214),highway,bus_stop
+991,,POINT (-49.2933343 -25.4916217),highway,bus_stop
+992,,POINT (-49.2932192 -25.4925429),highway,bus_stop
+993,,POINT (-49.2931696 -25.4925379),highway,bus_stop
+994,,POINT (-49.2932847 -25.4916167),highway,bus_stop
+995,,POINT (-49.2932883 -25.4919896),highway,bus_stop
+996,,POINT (-49.2932387 -25.4919847),highway,bus_stop
+997,,POINT (-49.2931019 -25.491971),highway,bus_stop
+998,,POINT (-49.2937142 -25.4916823),highway,bus_stop
+999,,POINT (-49.2936162 -25.4924314),highway,bus_stop
+1000,,POINT (-49.2933687 -25.4919977),highway,bus_stop
+1001,,POINT (-49.2933361 -25.4922535),highway,bus_stop
+1002,,POINT (-49.2932564 -25.492245),highway,bus_stop
+1003,,POINT (-49.2932069 -25.4922397),highway,bus_stop
+1004,,POINT (-49.2930695 -25.492225),highway,bus_stop
+1005,,POINT (-49.2930169 -25.4922165),highway,bus_stop
+1006,,POINT (-49.2937169 -25.4845118),highway,bus_stop
+1007,,POINT (-49.2936969 -25.4845179),highway,bus_stop
+1008,,POINT (-49.2936642 -25.4844298),highway,bus_stop
+1009,,POINT (-49.2936841 -25.4844237),highway,bus_stop
+1010,,POINT (-49.2941977 -25.4858833),highway,bus_stop
+1011,,POINT (-49.2941768 -25.4858868),highway,bus_stop
+1012,,POINT (-49.2941576 -25.4857955),highway,bus_stop
+1013,,POINT (-49.2941785 -25.4857919),highway,bus_stop
+1014,,POINT (-49.2926667 -25.4766985),highway,bus_stop
+1015,,POINT (-49.2929832 -25.4761113),highway,bus_stop
+1016,,POINT (-49.2927448 -25.4764891),highway,bus_stop
+1017,,POINT (-49.2928349 -25.4765155),highway,bus_stop
+1018,,POINT (-49.2923107 -25.4761475),highway,bus_stop
+1019,,POINT (-49.2928619 -25.4759473),highway,bus_stop
+1020,,POINT (-49.29295 -25.4762005),highway,bus_stop
+1021,,POINT (-49.2926968 -25.4758963),highway,bus_stop
+1022,,POINT (-49.2924202 -25.4766254),highway,bus_stop
+1023,,POINT (-49.2923372 -25.4765997),highway,bus_stop
+1024,,POINT (-49.2926139 -25.4758707),highway,bus_stop
+1025,,POINT (-49.2921891 -25.4764726),highway,bus_stop
+1026,,POINT (-49.292943 -25.4759719),highway,bus_stop
+1027,,POINT (-49.2928935 -25.4761047),highway,bus_stop
+1028,,POINT (-49.292943 -25.4761198),highway,bus_stop
+1029,,POINT (-49.2929148 -25.4761898),highway,bus_stop
+1030,,POINT (-49.2929214 -25.4761722),highway,bus_stop
+1031,,POINT (-49.2928649 -25.476155),highway,bus_stop
+1032,,POINT (-49.2927714 -25.4764057),highway,bus_stop
+1033,,POINT (-49.2928068 -25.476507),highway,bus_stop
+1034,,POINT (-49.2928182 -25.4764764),highway,bus_stop
+1035,,POINT (-49.2927565 -25.4764576),highway,bus_stop
+1036,,POINT (-49.2928403 -25.4764056),highway,bus_stop
+1037,,POINT (-49.2928333 -25.4764245),highway,bus_stop
+1038,,POINT (-49.2928722 -25.4764153),highway,bus_stop
+1039,,POINT (-49.2925905 -25.4766754),highway,bus_stop
+1040,,POINT (-49.2924122 -25.4759262),highway,bus_stop
+1041,,POINT (-49.2924032 -25.4759504),highway,bus_stop
+1042,,POINT (-49.2924314 -25.475959),highway,bus_stop
+1043,,POINT (-49.2922345 -25.4764864),highway,bus_stop
+1044,,POINT (-49.2923951 -25.475921),highway,bus_stop
+1045,,POINT (-49.2929499 -25.4761012),highway,bus_stop
+1046,,POINT (-49.3025115 -25.4590906),highway,bus_stop
+1047,,POINT (-49.3024586 -25.459241),highway,bus_stop
+1048,,POINT (-49.3024205 -25.4592301),highway,bus_stop
+1049,,POINT (-49.3024307 -25.4592009),highway,bus_stop
+1050,,POINT (-49.3024032 -25.459193),highway,bus_stop
+1051,,POINT (-49.3023928 -25.4592227),highway,bus_stop
+1052,,POINT (-49.302348 -25.4592098),highway,bus_stop
+1053,,POINT (-49.3024009 -25.4590592),highway,bus_stop
+1054,,POINT (-49.3024419 -25.4590709),highway,bus_stop
+1055,,POINT (-49.302431 -25.4591018),highway,bus_stop
+1056,,POINT (-49.3024577 -25.4591094),highway,bus_stop
+1057,,POINT (-49.3024686 -25.4590783),highway,bus_stop
+1058,,POINT (-49.2915385 -25.4223898),highway,bus_stop
+1059,,POINT (-49.2916253 -25.4224219),highway,bus_stop
+1060,,POINT (-49.2916097 -25.4223286),highway,bus_stop
+1061,,POINT (-49.2915189 -25.4224067),highway,bus_stop
+1062,,POINT (-49.2914999 -25.4223887),highway,bus_stop
+1063,,POINT (-49.2916173 -25.4222878),highway,bus_stop
+1064,,POINT (-49.2916363 -25.4223057),highway,bus_stop
+1065,,POINT (-49.2916226 -25.4224946),highway,bus_stop
+1066,,POINT (-49.2915956 -25.4224842),highway,bus_stop
+1067,,POINT (-49.2916598 -25.4223497),highway,bus_stop
+1068,,POINT (-49.2916867 -25.4223602),highway,bus_stop
+1069,,POINT (-49.2688161 -25.534485),highway,bus_stop
+1070,,POINT (-49.2687948 -25.5345587),highway,bus_stop
+1071,,POINT (-49.2671299 -25.5341636),highway,bus_stop
+1072,,POINT (-49.2671609 -25.5340943),highway,bus_stop
+1073,,POINT (-49.2671422 -25.5340533),highway,bus_stop
+1074,,POINT (-49.2670602 -25.5340918),highway,bus_stop
+1075,,POINT (-49.2671368 -25.53414),highway,bus_stop
+1076,,POINT (-49.267068 -25.5341053),highway,bus_stop
+1077,,POINT (-49.2670877 -25.534096),highway,bus_stop
+1078,,POINT (-49.2671502 -25.534067),highway,bus_stop
+1079,,POINT (-49.2684014 -25.5345769),highway,bus_stop
+1080,,POINT (-49.2683871 -25.5346191),highway,bus_stop
+1081,,POINT (-49.2682274 -25.5345751),highway,bus_stop
+1082,,POINT (-49.2682417 -25.5345328),highway,bus_stop
+1083,,POINT (-49.268086 -25.5344877),highway,bus_stop
+1084,,POINT (-49.268071 -25.5345319),highway,bus_stop
+1085,,POINT (-49.2678291 -25.5344652),highway,bus_stop
+1086,,POINT (-49.267844 -25.534421),highway,bus_stop
+1087,,POINT (-49.2688059 -25.5345201),highway,bus_stop
+1088,,POINT (-49.2684108 -25.5344688),highway,bus_stop
+1089,,POINT (-49.2683566 -25.5345645),highway,bus_stop
+1090,,POINT (-49.268435 -25.5345982),highway,bus_stop
+1091,,POINT (-49.268427 -25.5346434),highway,bus_stop
+1092,,POINT (-49.2683937 -25.5345995),highway,bus_stop
+1093,,POINT (-49.268234 -25.5345555),highway,bus_stop
+1094,,POINT (-49.2671394 -25.5340721),highway,bus_stop
+1095,,POINT (-49.2671335 -25.5341511),highway,bus_stop
+1096,,POINT (-49.2685371 -25.5346374),highway,bus_stop
+1097,,POINT (-49.2685433 -25.5346176),highway,bus_stop
+1098,,POINT (-49.2684373 -25.5345908),highway,bus_stop
+1099,,POINT (-49.2684312 -25.5346106),highway,bus_stop
+1100,,POINT (-49.2685139 -25.5346899),highway,bus_stop
+1101,,POINT (-49.2685223 -25.5346716),highway,bus_stop
+1102,,POINT (-49.26843 -25.534637),highway,bus_stop
+1103,,POINT (-49.2684216 -25.5346552),highway,bus_stop
+1104,,POINT (-49.231027 -25.5165587),highway,bus_stop
+1105,,POINT (-49.2308372 -25.5165515),highway,bus_stop
+1106,,POINT (-49.230792 -25.5165332),highway,bus_stop
+1107,,POINT (-49.2310232 -25.5164584),highway,bus_stop
+1108,,POINT (-49.2310146 -25.5164759),highway,bus_stop
+1109,,POINT (-49.2309205 -25.5164383),highway,bus_stop
+1110,,POINT (-49.2297838 -25.5174276),highway,bus_stop
+1111,,POINT (-49.2304736 -25.5177),highway,bus_stop
+1112,,POINT (-49.2285177 -25.5199243),highway,bus_stop
+1113,,POINT (-49.2301424 -25.516688),highway,bus_stop
+1114,,POINT (-49.2300979 -25.5166704),highway,bus_stop
+1115,,POINT (-49.2305676 -25.5169843),highway,bus_stop
+1116,,POINT (-49.2306128 -25.5170026),highway,bus_stop
+1117,,POINT (-49.2305825 -25.5170545),highway,bus_stop
+1118,,POINT (-49.2303285 -25.5175781),highway,bus_stop
+1119,,POINT (-49.230284 -25.5175606),highway,bus_stop
+1120,,POINT (-49.230538 -25.5170369),highway,bus_stop
+1121,,POINT (-49.2303795 -25.5176628),highway,bus_stop
+1122,,POINT (-49.229921 -25.5174818),highway,bus_stop
+1123,,POINT (-49.2280853 -25.5209826),highway,bus_stop
+1124,,POINT (-49.228066 -25.5209748),highway,bus_stop
+1125,,POINT (-49.2281084 -25.5208901),highway,bus_stop
+1126,,POINT (-49.2281277 -25.5208979),highway,bus_stop
+1127,,POINT (-49.2284752 -25.520009),highway,bus_stop
+1128,,POINT (-49.228456 -25.5200011),highway,bus_stop
+1129,,POINT (-49.2284984 -25.5199164),highway,bus_stop
+1130,,POINT (-49.2762788 -25.4968178),highway,bus_stop
+1131,,POINT (-49.2762381 -25.4968454),highway,bus_stop
+1132,,POINT (-49.2762622 -25.496829),highway,bus_stop
+1133,,POINT (-49.2762801 -25.4964797),highway,bus_stop
+1134,,POINT (-49.2762375 -25.4965073),highway,bus_stop
+1135,,POINT (-49.2764141 -25.4967291),highway,bus_stop
+1136,,POINT (-49.2764566 -25.4967016),highway,bus_stop
+1137,,POINT (-49.2760977 -25.4966002),highway,bus_stop
+1138,,POINT (-49.276057 -25.4966278),highway,bus_stop
+1139,,POINT (-49.2764386 -25.4967132),highway,bus_stop
+1140,,POINT (-49.2325679 -25.5115432),highway,bus_stop
+1141,,POINT (-49.2325486 -25.5115354),highway,bus_stop
+1142,,POINT (-49.232591 -25.5114506),highway,bus_stop
+1143,,POINT (-49.2326103 -25.5114585),highway,bus_stop
+1144,,POINT (-49.2320878 -25.512776),highway,bus_stop
+1145,,POINT (-49.2320685 -25.5127681),highway,bus_stop
+1146,,POINT (-49.2321109 -25.5126834),highway,bus_stop
+1147,,POINT (-49.2321302 -25.5126912),highway,bus_stop
+1148,,POINT (-49.230929 -25.5164208),highway,bus_stop
+1149,,POINT (-49.2307369 -25.5163784),highway,bus_stop
+1150,,POINT (-49.2307284 -25.5163959),highway,bus_stop
+1151,,POINT (-49.2347293 -25.5073242),highway,bus_stop
+1152,,POINT (-49.23471 -25.5073163),highway,bus_stop
+1153,,POINT (-49.2347524 -25.5072316),highway,bus_stop
+1154,,POINT (-49.2347717 -25.5072395),highway,bus_stop
+1155,,POINT (-49.2351227 -25.5062854),highway,bus_stop
+1156,,POINT (-49.2351034 -25.5062775),highway,bus_stop
+1157,,POINT (-49.2351458 -25.5061928),highway,bus_stop
+1158,,POINT (-49.2351651 -25.5062006),highway,bus_stop
+1159,,POINT (-49.2379599 -25.500726),highway,bus_stop
+1160,,POINT (-49.2373708 -25.5019271),highway,bus_stop
+1161,,POINT (-49.2372933 -25.5018962),highway,bus_stop
+1162,,POINT (-49.2378824 -25.500695),highway,bus_stop
+1163,,POINT (-49.2374853 -25.5013303),highway,bus_stop
+1164,,POINT (-49.2374381 -25.5013109),highway,bus_stop
+1165,,POINT (-49.2374808 -25.5012263),highway,bus_stop
+1166,,POINT (-49.237528 -25.5012457),highway,bus_stop
+1167,,POINT (-49.2376341 -25.5009245),highway,bus_stop
+1168,,POINT (-49.2376147 -25.5009169),highway,bus_stop
+1169,,POINT (-49.2376556 -25.5008317),highway,bus_stop
+1170,,POINT (-49.237675 -25.5008393),highway,bus_stop
+1171,,POINT (-49.2376479 -25.5017064),highway,bus_stop
+1172,,POINT (-49.2376286 -25.5016986),highway,bus_stop
+1173,,POINT (-49.2376706 -25.5016137),highway,bus_stop
+1174,,POINT (-49.2376899 -25.5016215),highway,bus_stop
+1175,,POINT (-49.2376092 -25.501252),highway,bus_stop
+1176,,POINT (-49.2376865 -25.5012833),highway,bus_stop
+1177,,POINT (-49.2428455 -25.4907468),highway,bus_stop
+1178,,POINT (-49.2428262 -25.4907389),highway,bus_stop
+1179,,POINT (-49.2428686 -25.4906542),highway,bus_stop
+1180,,POINT (-49.2428879 -25.4906621),highway,bus_stop
+1181,,POINT (-49.2405448 -25.4952321),highway,bus_stop
+1182,,POINT (-49.2405255 -25.4952242),highway,bus_stop
+1183,,POINT (-49.2405679 -25.4951395),highway,bus_stop
+1184,,POINT (-49.2405872 -25.4951474),highway,bus_stop
+1185,,POINT (-49.2401572 -25.4962523),highway,bus_stop
+1186,,POINT (-49.2401379 -25.4962444),highway,bus_stop
+1187,,POINT (-49.2401803 -25.4961597),highway,bus_stop
+1188,,POINT (-49.2401996 -25.4961675),highway,bus_stop
+1189,,POINT (-49.2667489 -25.4851271),highway,bus_stop
+1190,,POINT (-49.2667059 -25.4851555),highway,bus_stop
+1191,,POINT (-49.266908 -25.485323),highway,bus_stop
+1192,,POINT (-49.2670888 -25.4852107),highway,bus_stop
+1193,,POINT (-49.2669208 -25.4849975),highway,bus_stop
+1194,,POINT (-49.2670425 -25.4852404),highway,bus_stop
+1195,,POINT (-49.2668745 -25.4850272),highway,bus_stop
+1196,,POINT (-49.2668651 -25.4853514),highway,bus_stop
+1197,,POINT (-49.2670707 -25.4852223),highway,bus_stop
+1198,,POINT (-49.2668869 -25.485337),highway,bus_stop
+1199,,POINT (-49.2587849 -25.474922),highway,bus_stop
+1200,,POINT (-49.2587472 -25.4749474),highway,bus_stop
+1201,,POINT (-49.2585713 -25.474735),highway,bus_stop
+1202,,POINT (-49.258609 -25.4747096),highway,bus_stop
+1203,,POINT (-49.25862 -25.4750357),highway,bus_stop
+1204,,POINT (-49.2585738 -25.4750658),highway,bus_stop
+1205,,POINT (-49.2584003 -25.4748486),highway,bus_stop
+1206,,POINT (-49.2584465 -25.4748185),highway,bus_stop
+1207,,POINT (-49.2587655 -25.474935),highway,bus_stop
+1208,,POINT (-49.2585992 -25.4750492),highway,bus_stop
+1209,,POINT (-49.2450958 -25.4858999),highway,bus_stop
+1210,,POINT (-49.2450765 -25.4858921),highway,bus_stop
+1211,,POINT (-49.245119 -25.4858073),highway,bus_stop
+1212,,POINT (-49.2451382 -25.4858152),highway,bus_stop
+1213,,POINT (-49.244666 -25.4870161),highway,bus_stop
+1214,,POINT (-49.2446467 -25.4870082),highway,bus_stop
+1215,,POINT (-49.2446891 -25.4869235),highway,bus_stop
+1216,,POINT (-49.2447084 -25.4869314),highway,bus_stop
+1217,,POINT (-49.2432357 -25.4897236),highway,bus_stop
+1218,,POINT (-49.2432164 -25.4897157),highway,bus_stop
+1219,,POINT (-49.2432589 -25.489631),highway,bus_stop
+1220,,POINT (-49.2432781 -25.4896388),highway,bus_stop
+1221,,POINT (-49.2516783 -25.4723713),highway,bus_stop
+1222,,POINT (-49.251659 -25.4723634),highway,bus_stop
+1223,,POINT (-49.2517014 -25.4722787),highway,bus_stop
+1224,,POINT (-49.2517207 -25.4722865),highway,bus_stop
+1225,,POINT (-49.2513108 -25.4733983),highway,bus_stop
+1226,,POINT (-49.2512916 -25.4733904),highway,bus_stop
+1227,,POINT (-49.251334 -25.4733057),highway,bus_stop
+1228,,POINT (-49.2513533 -25.4733135),highway,bus_stop
+1229,,POINT (-49.2499687 -25.4759245),highway,bus_stop
+1230,,POINT (-49.2499495 -25.4759166),highway,bus_stop
+1231,,POINT (-49.2499919 -25.4758318),highway,bus_stop
+1232,,POINT (-49.2500112 -25.4758397),highway,bus_stop
+1233,,POINT (-49.2495624 -25.4769968),highway,bus_stop
+1234,,POINT (-49.2495431 -25.476989),highway,bus_stop
+1235,,POINT (-49.2495855 -25.4769042),highway,bus_stop
+1236,,POINT (-49.2496048 -25.4769121),highway,bus_stop
+1237,,POINT (-49.2541105 -25.4692147),highway,bus_stop
+1238,,POINT (-49.2540699 -25.4692421),highway,bus_stop
+1239,,POINT (-49.2538935 -25.469029),highway,bus_stop
+1240,,POINT (-49.2539342 -25.4690016),highway,bus_stop
+1241,,POINT (-49.2539361 -25.4693292),highway,bus_stop
+1242,,POINT (-49.2538948 -25.469356),highway,bus_stop
+1243,,POINT (-49.253718 -25.4691334),highway,bus_stop
+1244,,POINT (-49.2537592 -25.4691067),highway,bus_stop
+1245,,POINT (-49.2539125 -25.4690162),highway,bus_stop
+1246,,POINT (-49.2537359 -25.4691218),highway,bus_stop
+1247,,POINT (-49.2543153 -25.466691),highway,bus_stop
+1248,,POINT (-49.254296 -25.4666831),highway,bus_stop
+1249,,POINT (-49.2543384 -25.4665984),highway,bus_stop
+1250,,POINT (-49.2543577 -25.4666062),highway,bus_stop
+1251,,POINT (-49.2545184 -25.4667406),highway,bus_stop
+1252,,POINT (-49.2544991 -25.4667327),highway,bus_stop
+1253,,POINT (-49.2545415 -25.466648),highway,bus_stop
+1254,,POINT (-49.2545608 -25.4666558),highway,bus_stop
+1255,,POINT (-49.2374557 -25.471653),highway,bus_stop
+1256,,POINT (-49.2375215 -25.4717963),highway,bus_stop
+1257,,POINT (-49.2375419 -25.4717887),highway,bus_stop
+1258,,POINT (-49.2374761 -25.4716454),highway,bus_stop
+1259,,POINT (-49.2374681 -25.4716484),highway,bus_stop
+1260,,POINT (-49.2375332 -25.471792),highway,bus_stop
+1261,,POINT (-49.2302927 -25.5162687),highway,bus_stop
+1262,,POINT (-49.2304662 -25.5163372),highway,bus_stop
+1263,,POINT (-49.2306341 -25.5163585),highway,bus_stop
+1264,,POINT (-49.2306426 -25.516341),highway,bus_stop
+1265,,POINT (-49.230299 -25.5162491),highway,bus_stop
+1266,,POINT (-49.2302796 -25.5162414),highway,bus_stop
+1267,,POINT (-49.230321 -25.5161563),highway,bus_stop
+1268,,POINT (-49.2303404 -25.516164),highway,bus_stop
+1269,,POINT (-49.2586326 -25.4581642),highway,bus_stop
+1270,,POINT (-49.2586133 -25.4581563),highway,bus_stop
+1271,,POINT (-49.2586557 -25.4580716),highway,bus_stop
+1272,,POINT (-49.258675 -25.4580794),highway,bus_stop
+1273,,POINT (-49.2582491 -25.4591844),highway,bus_stop
+1274,,POINT (-49.2582298 -25.4591765),highway,bus_stop
+1275,,POINT (-49.2582722 -25.4590918),highway,bus_stop
+1276,,POINT (-49.2582915 -25.4590996),highway,bus_stop
+1277,,POINT (-49.2618912 -25.4514975),highway,bus_stop
+1278,,POINT (-49.2618719 -25.4514896),highway,bus_stop
+1279,,POINT (-49.2619143 -25.4514049),highway,bus_stop
+1280,,POINT (-49.2619336 -25.4514127),highway,bus_stop
+1281,,POINT (-49.2614962 -25.4525365),highway,bus_stop
+1282,,POINT (-49.2614769 -25.4525286),highway,bus_stop
+1283,,POINT (-49.2615193 -25.4524439),highway,bus_stop
+1284,,POINT (-49.2615386 -25.4524517),highway,bus_stop
+1285,,POINT (-49.2604532 -25.4544483),highway,bus_stop
+1286,,POINT (-49.2604339 -25.4544404),highway,bus_stop
+1287,,POINT (-49.2604763 -25.4543557),highway,bus_stop
+1288,,POINT (-49.2604956 -25.4543635),highway,bus_stop
+1289,,POINT (-49.2600549 -25.4554754),highway,bus_stop
+1290,,POINT (-49.2600356 -25.4554675),highway,bus_stop
+1291,,POINT (-49.260078 -25.4553828),highway,bus_stop
+1292,,POINT (-49.2600973 -25.4553906),highway,bus_stop
+1293,,POINT (-49.2652765 -25.4447103),highway,bus_stop
+1294,,POINT (-49.2652572 -25.4447024),highway,bus_stop
+1295,,POINT (-49.2652996 -25.4446177),highway,bus_stop
+1296,,POINT (-49.2653189 -25.4446255),highway,bus_stop
+1297,,POINT (-49.2637955 -25.4475101),highway,bus_stop
+1298,,POINT (-49.2637762 -25.4475022),highway,bus_stop
+1299,,POINT (-49.2638186 -25.4474175),highway,bus_stop
+1300,,POINT (-49.2638379 -25.4474253),highway,bus_stop
+1301,,POINT (-49.263426 -25.4484629),highway,bus_stop
+1302,,POINT (-49.2634453 -25.4484707),highway,bus_stop
+1303,,POINT (-49.2580501 -25.4481405),highway,bus_stop
+1304,,POINT (-49.2580419 -25.4481698),highway,bus_stop
+1305,,POINT (-49.2580039 -25.4481612),highway,bus_stop
+1306,,POINT (-49.2580122 -25.4481314),highway,bus_stop
+1307,,POINT (-49.2579961 -25.4481278),highway,bus_stop
+1308,,POINT (-49.2579706 -25.4482199),highway,bus_stop
+1309,,POINT (-49.2579876 -25.4482237),highway,bus_stop
+1310,,POINT (-49.2579975 -25.4481881),highway,bus_stop
+1311,,POINT (-49.2580353 -25.4481966),highway,bus_stop
+1312,,POINT (-49.2580244 -25.4482358),highway,bus_stop
+1313,,POINT (-49.25804 -25.4482393),highway,bus_stop
+1314,,POINT (-49.2580664 -25.4481442),highway,bus_stop
+1315,,POINT (-49.2634029 -25.4485555),highway,bus_stop
+1316,,POINT (-49.2633836 -25.4485476),highway,bus_stop
+1317,,POINT (-49.2580022 -25.4481292),highway,bus_stop
+1318,,POINT (-49.2681969 -25.4389195),highway,bus_stop
+1319,,POINT (-49.2681773 -25.438912),highway,bus_stop
+1320,,POINT (-49.2682465 -25.4387645),highway,bus_stop
+1321,,POINT (-49.268266 -25.4387719),highway,bus_stop
+1322,,POINT (-49.2680942 -25.4391315),highway,bus_stop
+1323,,POINT (-49.2680747 -25.439124),highway,bus_stop
+1324,,POINT (-49.2681439 -25.4389765),highway,bus_stop
+1325,,POINT (-49.2681634 -25.4389839),highway,bus_stop
+1326,,POINT (-49.2682068 -25.4386488),highway,bus_stop
+1327,,POINT (-49.2681872 -25.4386409),highway,bus_stop
+1328,,POINT (-49.2682294 -25.4385559),highway,bus_stop
+1329,,POINT (-49.268249 -25.4385639),highway,bus_stop
+1330,,POINT (-49.2681023 -25.4388611),highway,bus_stop
+1331,,POINT (-49.2680833 -25.4388534),highway,bus_stop
+1332,,POINT (-49.2681255 -25.4387685),highway,bus_stop
+1333,,POINT (-49.2681445 -25.4387762),highway,bus_stop
+1334,,POINT (-49.2683283 -25.4418031),highway,bus_stop
+1335,,POINT (-49.2682287 -25.4417775),highway,bus_stop
+1336,,POINT (-49.2682367 -25.4417598),highway,bus_stop
+1337,,POINT (-49.268332 -25.441795),highway,bus_stop
+1338,,POINT (-49.268324 -25.4418127),highway,bus_stop
+1339,,POINT (-49.2656939 -25.4436535),highway,bus_stop
+1340,,POINT (-49.2656746 -25.4436456),highway,bus_stop
+1341,,POINT (-49.265717 -25.4435609),highway,bus_stop
+1342,,POINT (-49.2657363 -25.4435687),highway,bus_stop
+1343,,POINT (-49.256231 -25.4629968),highway,bus_stop
+1344,,POINT (-49.2562117 -25.4629889),highway,bus_stop
+1345,,POINT (-49.2562541 -25.4629042),highway,bus_stop
+1346,,POINT (-49.2562734 -25.462912),highway,bus_stop
+1347,,POINT (-49.2563947 -25.4630625),highway,bus_stop
+1348,,POINT (-49.2563754 -25.4630546),highway,bus_stop
+1349,,POINT (-49.2564178 -25.4629698),highway,bus_stop
+1350,,POINT (-49.2564371 -25.4629776),highway,bus_stop
+1351,,POINT (-49.2496253 -25.4586285),highway,bus_stop
+1352,,POINT (-49.2495775 -25.4586441),highway,bus_stop
+1353,,POINT (-49.2496808 -25.4589017),highway,bus_stop
+1354,,POINT (-49.2497286 -25.4588861),highway,bus_stop
+1355,,POINT (-49.2498335 -25.4585863),highway,bus_stop
+1356,,POINT (-49.2497858 -25.4586019),highway,bus_stop
+1357,,POINT (-49.2498891 -25.4588595),highway,bus_stop
+1358,,POINT (-49.2499368 -25.4588439),highway,bus_stop
+1359,,POINT (-49.2748707 -25.4360098),highway,bus_stop
+1360,,POINT (-49.2745322 -25.4357148),highway,bus_stop
+1361,,POINT (-49.2743344 -25.4355833),highway,bus_stop
+1362,,POINT (-49.2749661 -25.4358045),highway,bus_stop
+1363,,POINT (-49.2749273 -25.4357898),highway,bus_stop
+1364,,POINT (-49.2743061 -25.435618),highway,bus_stop
+1365,,POINT (-49.2748319 -25.4359951),highway,bus_stop
+1366,,POINT (-49.2745039 -25.4357495),highway,bus_stop
+1367,,POINT (-49.2738258 -25.4355026),highway,bus_stop
+1368,,POINT (-49.2743287 -25.4358453),highway,bus_stop
+1369,,POINT (-49.2743529 -25.4358181),highway,bus_stop
+1370,,POINT (-49.2738479 -25.4354638),highway,bus_stop
+1371,,POINT (-49.273575 -25.4353488),highway,bus_stop
+1372,,POINT (-49.2735569 -25.4353893),highway,bus_stop
+1373,,POINT (-49.2746859 -25.4363382),highway,bus_stop
+1374,,POINT (-49.2747174 -25.4363504),highway,bus_stop
+1375,,POINT (-49.2744852 -25.4368397),highway,bus_stop
+1376,,POINT (-49.2744537 -25.4368275),highway,bus_stop
+1377,,POINT (-49.2737518 -25.4366849),highway,bus_stop
+1378,,POINT (-49.2737655 -25.4366565),highway,bus_stop
+1379,,POINT (-49.274324 -25.4368753),highway,bus_stop
+1380,,POINT (-49.2743103 -25.4369037),highway,bus_stop
+1381,,POINT (-49.2725472 -25.4349952),highway,bus_stop
+1382,,POINT (-49.2725609 -25.4349668),highway,bus_stop
+1383,,POINT (-49.2735031 -25.4353365),highway,bus_stop
+1384,,POINT (-49.2734895 -25.4353649),highway,bus_stop
+1385,,POINT (-49.2726274 -25.434825),highway,bus_stop
+1386,,POINT (-49.2726411 -25.4347965),highway,bus_stop
+1387,,POINT (-49.2735832 -25.4351664),highway,bus_stop
+1388,,POINT (-49.2735695 -25.4351949),highway,bus_stop
+1389,,POINT (-49.2722199 -25.4346656),highway,bus_stop
+1390,,POINT (-49.2722289 -25.4346469),highway,bus_stop
+1391,,POINT (-49.2725429 -25.4347699),highway,bus_stop
+1392,,POINT (-49.2725339 -25.4347886),highway,bus_stop
+1393,,POINT (-49.2721405 -25.4348235),highway,bus_stop
+1394,,POINT (-49.2721495 -25.4348048),highway,bus_stop
+1395,,POINT (-49.2724635 -25.4349278),highway,bus_stop
+1396,,POINT (-49.2724545 -25.4349465),highway,bus_stop
+1397,,POINT (-49.2749485 -25.4357978),highway,bus_stop
+1398,,POINT (-49.2748502 -25.436002),highway,bus_stop
+1399,,POINT (-49.2716878 -25.4314407),highway,bus_stop
+1400,,POINT (-49.2715243 -25.4317702),highway,bus_stop
+1401,,POINT (-49.2714965 -25.4317589),highway,bus_stop
+1402,,POINT (-49.27166 -25.4314295),highway,bus_stop
+1403,,POINT (-49.2701932 -25.4328624),highway,bus_stop
+1404,,POINT (-49.2707362 -25.4330695),highway,bus_stop
+1405,,POINT (-49.2707452 -25.43305),highway,bus_stop
+1406,,POINT (-49.2702022 -25.4328429),highway,bus_stop
+1407,,POINT (-49.2704195 -25.4337334),highway,bus_stop
+1408,,POINT (-49.2701846 -25.43364),highway,bus_stop
+1409,,POINT (-49.2701528 -25.4337052),highway,bus_stop
+1410,,POINT (-49.2703877 -25.4337986),highway,bus_stop
+1411,,POINT (-49.2741137 -25.4364863),highway,bus_stop
+1412,,POINT (-49.2739164 -25.4365427),highway,bus_stop
+1413,,POINT (-49.2739308 -25.4365838),highway,bus_stop
+1414,,POINT (-49.2741281 -25.4365274),highway,bus_stop
+1415,,POINT (-49.2742058 -25.4361042),highway,bus_stop
+1416,,POINT (-49.274006 -25.4361527),highway,bus_stop
+1417,,POINT (-49.2740184 -25.4361944),highway,bus_stop
+1418,,POINT (-49.2742182 -25.4361458),highway,bus_stop
+1419,,POINT (-49.2742145 -25.4355289),highway,bus_stop
+1420,,POINT (-49.2739552 -25.4353421),highway,bus_stop
+1421,,POINT (-49.2736418 -25.4352132),highway,bus_stop
+1422,,POINT (-49.2736289 -25.4352407),highway,bus_stop
+1423,,POINT (-49.2739415 -25.4353608),highway,bus_stop
+1424,,POINT (-49.2741993 -25.4355461),highway,bus_stop
+1425,,POINT (-49.2711914 -25.4323319),highway,bus_stop
+1426,,POINT (-49.2710283 -25.4326616),highway,bus_stop
+1427,,POINT (-49.2710006 -25.4326503),highway,bus_stop
+1428,,POINT (-49.2711637 -25.4323206),highway,bus_stop
+1429,,POINT (-49.2702075 -25.4290249),highway,bus_stop
+1430,,POINT (-49.2704131 -25.4288553),highway,bus_stop
+1431,,POINT (-49.2703313 -25.4289228),highway,bus_stop
+1432,,POINT (-49.272206 -25.4281605),highway,bus_stop
+1433,,POINT (-49.2722147 -25.4281429),highway,bus_stop
+1434,,POINT (-49.2730451 -25.4284294),highway,bus_stop
+1435,,POINT (-49.2718546 -25.4280645),highway,bus_stop
+1436,,POINT (-49.2718609 -25.4280456),highway,bus_stop
+1437,,POINT (-49.2730522 -25.4284114),highway,bus_stop
+1438,,POINT (-49.2656073 -25.4321122),highway,bus_stop
+1439,,POINT (-49.2653951 -25.4320271),highway,bus_stop
+1440,,POINT (-49.2650507 -25.4332438),highway,bus_stop
+1441,,POINT (-49.2648387 -25.4331587),highway,bus_stop
+1442,,POINT (-49.2650079 -25.4328148),highway,bus_stop
+1443,,POINT (-49.2649138 -25.432777),highway,bus_stop
+1444,,POINT (-49.2651311 -25.4321628),highway,bus_stop
+1445,,POINT (-49.2652265 -25.4323698),highway,bus_stop
+1446,,POINT (-49.2652017 -25.4321911),highway,bus_stop
+1447,,POINT (-49.2651324 -25.4323321),highway,bus_stop
+1448,,POINT (-49.2646872 -25.433065),highway,bus_stop
+1449,,POINT (-49.2647581 -25.4330934),highway,bus_stop
+1450,,POINT (-49.2651997 -25.4324242),highway,bus_stop
+1451,,POINT (-49.2651051 -25.4323862),highway,bus_stop
+1452,,POINT (-49.2649408 -25.4327207),highway,bus_stop
+1453,,POINT (-49.2650354 -25.4327586),highway,bus_stop
+1454,,POINT (-49.2651463 -25.4331166),highway,bus_stop
+1455,,POINT (-49.2651269 -25.4331089),highway,bus_stop
+1456,,POINT (-49.2651688 -25.4330239),highway,bus_stop
+1457,,POINT (-49.2651882 -25.4330317),highway,bus_stop
+1458,,POINT (-49.2652854 -25.4328366),highway,bus_stop
+1459,,POINT (-49.2652661 -25.4328289),highway,bus_stop
+1460,,POINT (-49.2653081 -25.4327438),highway,bus_stop
+1461,,POINT (-49.2653274 -25.4327516),highway,bus_stop
+1462,,POINT (-49.2654276 -25.4325501),highway,bus_stop
+1463,,POINT (-49.2654082 -25.4325424),highway,bus_stop
+1464,,POINT (-49.2654501 -25.4324574),highway,bus_stop
+1465,,POINT (-49.2654695 -25.4324652),highway,bus_stop
+1466,,POINT (-49.2655416 -25.4323185),highway,bus_stop
+1467,,POINT (-49.2655222 -25.4323108),highway,bus_stop
+1468,,POINT (-49.2655641 -25.4322258),highway,bus_stop
+1469,,POINT (-49.2655835 -25.4322336),highway,bus_stop
+1470,,POINT (-49.269198 -25.4338678),highway,bus_stop
+1471,,POINT (-49.2690741 -25.4341163),highway,bus_stop
+1472,,POINT (-49.2691212 -25.4341355),highway,bus_stop
+1473,,POINT (-49.2692451 -25.433887),highway,bus_stop
+1474,,POINT (-49.2634415 -25.433734),highway,bus_stop
+1475,,POINT (-49.2634218 -25.433727),highway,bus_stop
+1476,,POINT (-49.2634595 -25.4336404),highway,bus_stop
+1477,,POINT (-49.2634792 -25.4336474),highway,bus_stop
+1478,,POINT (-49.2641316 -25.4321573),highway,bus_stop
+1479,,POINT (-49.2641119 -25.4321501),highway,bus_stop
+1480,,POINT (-49.2641502 -25.4320638),highway,bus_stop
+1481,,POINT (-49.2641698 -25.4320709),highway,bus_stop
+1482,,POINT (-49.2647596 -25.4269928),highway,bus_stop
+1483,,POINT (-49.2647195 -25.4274106),highway,bus_stop
+1484,,POINT (-49.2647406 -25.4274188),highway,bus_stop
+1485,,POINT (-49.2647816 -25.4273324),highway,bus_stop
+1486,,POINT (-49.2647606 -25.4273242),highway,bus_stop
+1487,,POINT (-49.2647845 -25.4272925),highway,bus_stop
+1488,,POINT (-49.2648056 -25.4273007),highway,bus_stop
+1489,,POINT (-49.2648467 -25.4272143),highway,bus_stop
+1490,,POINT (-49.2648256 -25.4272061),highway,bus_stop
+1491,,POINT (-49.2645167 -25.4270503),highway,bus_stop
+1492,,POINT (-49.2645225 -25.4270704),highway,bus_stop
+1493,,POINT (-49.2646232 -25.4270467),highway,bus_stop
+1494,,POINT (-49.2646175 -25.4270266),highway,bus_stop
+1495,,POINT (-49.2646589 -25.4270165),highway,bus_stop
+1496,,POINT (-49.2646647 -25.4270366),highway,bus_stop
+1497,,POINT (-49.2647654 -25.4270129),highway,bus_stop
+1498,,POINT (-49.2635411 -25.428996),highway,bus_stop
+1499,,POINT (-49.2635312 -25.4290148),highway,bus_stop
+1500,,POINT (-49.2636251 -25.4290553),highway,bus_stop
+1501,,POINT (-49.2636351 -25.4290366),highway,bus_stop
+1502,,POINT (-49.2674833 -25.4300693),highway,bus_stop
+1503,,POINT (-49.2674384 -25.4300537),highway,bus_stop
+1504,,POINT (-49.2675245 -25.4298515),highway,bus_stop
+1505,,POINT (-49.2675693 -25.4298671),highway,bus_stop
+1506,,POINT (-49.2676096 -25.4301176),highway,bus_stop
+1507,,POINT (-49.2675646 -25.430102),highway,bus_stop
+1508,,POINT (-49.2676502 -25.4299006),highway,bus_stop
+1509,,POINT (-49.2676952 -25.4299162),highway,bus_stop
+1510,,POINT (-49.269416 -25.4248044),highway,bus_stop
+1511,,POINT (-49.2694031 -25.424818),highway,bus_stop
+1512,,POINT (-49.2694997 -25.4250444),highway,bus_stop
+1513,,POINT (-49.2695529 -25.4252682),highway,bus_stop
+1514,,POINT (-49.2695742 -25.4252641),highway,bus_stop
+1515,,POINT (-49.269521 -25.4250403),highway,bus_stop
+1516,,POINT (-49.2793294 -25.4165617),highway,bus_stop
+1517,,POINT (-49.2791783 -25.4165689),highway,bus_stop
+1518,,POINT (-49.2791793 -25.4165859),highway,bus_stop
+1519,,POINT (-49.2793304 -25.4165786),highway,bus_stop
+1520,,POINT (-49.2795437 -25.4145548),highway,bus_stop
+1521,,POINT (-49.2795369 -25.4145291),highway,bus_stop
+1522,,POINT (-49.2796947 -25.4144954),highway,bus_stop
+1523,,POINT (-49.2797014 -25.414521),highway,bus_stop
+1524,,POINT (-49.2683563 -25.4238174),highway,bus_stop
+1525,,POINT (-49.2683702 -25.4238037),highway,bus_stop
+1526,,POINT (-49.2685759 -25.4239745),highway,bus_stop
+1527,,POINT (-49.268562 -25.4239882),highway,bus_stop
+1528,,POINT (-49.2682678 -25.4239118),highway,bus_stop
+1529,,POINT (-49.2682817 -25.4238981),highway,bus_stop
+1530,,POINT (-49.2684874 -25.424069),highway,bus_stop
+1531,,POINT (-49.2684735 -25.4240827),highway,bus_stop
+1532,,POINT (-49.2691684 -25.4246362),highway,bus_stop
+1533,,POINT (-49.2691813 -25.4246226),highway,bus_stop
+1534,,POINT (-49.2687574 -25.4182206),highway,bus_stop
+1535,,POINT (-49.268777 -25.4182174),highway,bus_stop
+1536,,POINT (-49.2691578 -25.4198109),highway,bus_stop
+1537,,POINT (-49.269137 -25.4198149),highway,bus_stop
+1538,,POINT (-49.2691155 -25.4197239),highway,bus_stop
+1539,,POINT (-49.2691362 -25.4197199),highway,bus_stop
+1540,,POINT (-49.2689231 -25.4198545),highway,bus_stop
+1541,,POINT (-49.2689023 -25.4198585),highway,bus_stop
+1542,,POINT (-49.2688808 -25.4197675),highway,bus_stop
+1543,,POINT (-49.2689015 -25.4197635),highway,bus_stop
+1544,,POINT (-49.2687376 -25.418122),highway,bus_stop
+1545,,POINT (-49.2687571 -25.4181188),highway,bus_stop
+1546,,POINT (-49.2664353 -25.4157315),highway,bus_stop
+1547,,POINT (-49.2663916 -25.41574),highway,bus_stop
+1548,,POINT (-49.2663575 -25.4155968),highway,bus_stop
+1549,,POINT (-49.2664013 -25.4155883),highway,bus_stop
+1550,,POINT (-49.2679418 -25.4155005),highway,bus_stop
+1551,,POINT (-49.267898 -25.4155088),highway,bus_stop
+1552,,POINT (-49.2678647 -25.4153655),highway,bus_stop
+1553,,POINT (-49.2679084 -25.4153572),highway,bus_stop
+1554,,POINT (-49.2687042 -25.4179008),highway,bus_stop
+1555,,POINT (-49.2686835 -25.4179047),highway,bus_stop
+1556,,POINT (-49.2686625 -25.4178136),highway,bus_stop
+1557,,POINT (-49.2686832 -25.4178097),highway,bus_stop
+1558,,POINT (-49.2684681 -25.4179468),highway,bus_stop
+1559,,POINT (-49.2684474 -25.4179507),highway,bus_stop
+1560,,POINT (-49.2684265 -25.4178596),highway,bus_stop
+1561,,POINT (-49.2684472 -25.4178558),highway,bus_stop
+1562,,POINT (-49.2423805 -25.4257946),highway,bus_stop
+1563,,POINT (-49.2423262 -25.4259425),highway,bus_stop
+1564,,POINT (-49.2423492 -25.4259494),highway,bus_stop
+1565,,POINT (-49.2424035 -25.4258015),highway,bus_stop
+1566,,POINT (-49.229977 -25.4524264),highway,bus_stop
+1567,,POINT (-49.2299567 -25.4524299),highway,bus_stop
+1568,,POINT (-49.2299392 -25.4522506),highway,bus_stop
+1569,,POINT (-49.2299189 -25.4522542),highway,bus_stop
+1570,,POINT (-49.2299292 -25.4522524),highway,bus_stop
+1571,,POINT (-49.216974 -25.446967),highway,bus_stop
+1572,,POINT (-49.2169623 -25.4469618),highway,bus_stop
+1573,,POINT (-49.2169069 -25.4470621),highway,bus_stop
+1574,,POINT (-49.2169144 -25.4470655),highway,bus_stop
+1575,,POINT (-49.2169253 -25.4470704),highway,bus_stop
+1576,,POINT (-49.2169807 -25.4469701),highway,bus_stop
+1577,,POINT (-49.2168202 -25.447022),highway,bus_stop
+1578,,POINT (-49.216873 -25.4469207),highway,bus_stop
+1579,,POINT (-49.2168303 -25.4470264),highway,bus_stop
+1580,,POINT (-49.2168844 -25.4469257),highway,bus_stop
+1581,,POINT (-49.2168659 -25.4469176),highway,bus_stop
+1582,,POINT (-49.2168119 -25.4470184),highway,bus_stop
+1583,,POINT (-49.225022 -25.4289076),highway,bus_stop
+1584,,POINT (-49.2250186 -25.4288815),highway,bus_stop
+1585,,POINT (-49.2251796 -25.4288645),highway,bus_stop
+1586,,POINT (-49.225183 -25.4288907),highway,bus_stop
+1587,,POINT (-49.2111174 -25.4303957),highway,bus_stop
+1588,,POINT (-49.2112787 -25.4303815),highway,bus_stop
+1589,,POINT (-49.2111117 -25.4303432),highway,bus_stop
+1590,,POINT (-49.211273 -25.430329),highway,bus_stop
+1591,,POINT (-49.225122 -25.4205297),highway,bus_stop
+1592,,POINT (-49.2251584 -25.4205158),highway,bus_stop
+1593,,POINT (-49.2250434 -25.4202697),highway,bus_stop
+1594,,POINT (-49.225007 -25.4202836),highway,bus_stop
+1595,,POINT (-49.2249325 -25.4205993),highway,bus_stop
+1596,,POINT (-49.224969 -25.4205854),highway,bus_stop
+1597,,POINT (-49.224854 -25.4203393),highway,bus_stop
+1598,,POINT (-49.2248176 -25.4203532),highway,bus_stop
+1599,,POINT (-49.2661289 -25.4107207),highway,bus_stop
+1600,,POINT (-49.2661079 -25.4107188),highway,bus_stop
+1601,,POINT (-49.2661181 -25.4106262),highway,bus_stop
+1602,,POINT (-49.2661392 -25.4106281),highway,bus_stop
+1603,,POINT (-49.2481865 -25.410637),highway,bus_stop
+1604,,POINT (-49.2481635 -25.4106208),highway,bus_stop
+1605,,POINT (-49.2482631 -25.4105052),highway,bus_stop
+1606,,POINT (-49.2482861 -25.4105214),highway,bus_stop
+1607,,POINT (-49.2204702 -25.4101173),highway,bus_stop
+1608,,POINT (-49.2203573 -25.4098681),highway,bus_stop
+1609,,POINT (-49.2203197 -25.4098823),highway,bus_stop
+1610,,POINT (-49.2204326 -25.4101315),highway,bus_stop
+1611,,POINT (-49.2202813 -25.4101991),highway,bus_stop
+1612,,POINT (-49.2201688 -25.4099498),highway,bus_stop
+1613,,POINT (-49.2201256 -25.4099657),highway,bus_stop
+1614,,POINT (-49.2202382 -25.410215),highway,bus_stop
+1615,Estação Tubo Santa Bernadethe,"POLYGON ((-49.2670888 -25.4852107, -49.2670707 -25.4852223, -49.2670425 -25.4852404, -49.2668745 -25.4850272, -49.2669208 -25.4849975, -49.2670888 -25.4852107))",highway,bus_stop
+1616,Estação Tubo Santa Bernadethe,"POLYGON ((-49.266908 -25.485323, -49.2668869 -25.485337, -49.2668651 -25.4853514, -49.2667059 -25.4851555, -49.2667489 -25.4851271, -49.266908 -25.485323))",highway,bus_stop
+1617,Estação Tubo Jardim das Américas,"POLYGON ((-49.229977 -25.4524264, -49.2299567 -25.4524299, -49.2299189 -25.4522542, -49.2299292 -25.4522524, -49.2299392 -25.4522506, -49.229977 -25.4524264))",highway,bus_stop
+1618,Estação Tubo Praça Rui Barbosa,"POLYGON ((-49.2749661 -25.4358045, -49.2748707 -25.4360098, -49.2748502 -25.436002, -49.2748319 -25.4359951, -49.2749273 -25.4357898, -49.2749485 -25.4357978, -49.2749661 -25.4358045))",highway,bus_stop
+1619,Estação Tubo Praça Rui Barbosa,"POLYGON ((-49.2745039 -25.4357495, -49.2743061 -25.435618, -49.2743344 -25.4355833, -49.2745322 -25.4357148, -49.2745039 -25.4357495))",highway,bus_stop
+1620,,"POLYGON ((-49.2704131 -25.4288553, -49.2703313 -25.4289228, -49.2702075 -25.4290249, -49.2704131 -25.4288553))",highway,bus_stop
+1621,Estação Tubo Praça das Nações,"POLYGON ((-49.2424035 -25.4258015, -49.2423805 -25.4257946, -49.2423262 -25.4259425, -49.2423492 -25.4259494, -49.2424035 -25.4258015))",highway,bus_stop
+1622,Estação Tubo Salgado Filho,"POLYGON ((-49.2374761 -25.4716454, -49.2374681 -25.4716484, -49.2374557 -25.471653, -49.2375215 -25.4717963, -49.2375332 -25.471792, -49.2375419 -25.4717887, -49.2374761 -25.4716454))",highway,bus_stop
+1623,Estação Tubo Santa Quitéria,"POLYGON ((-49.3025115 -25.4590906, -49.3024586 -25.459241, -49.3024205 -25.4592301, -49.3024307 -25.4592009, -49.3024032 -25.459193, -49.3023928 -25.4592227, -49.302348 -25.4592098, -49.3024009 -25.4590592, -49.3024419 -25.4590709, -49.302431 -25.4591018, -49.3024577 -25.4591094, -49.3024686 -25.4590783, -49.3025115 -25.4590906))",highway,bus_stop
+1624,Estação Tubo São Pedro,"POLYGON ((-49.2843806 -25.5065754, -49.2845586 -25.5067853, -49.2845367 -25.5068005, -49.2845201 -25.5068119, -49.2843421 -25.5066021, -49.2843806 -25.5065754))",highway,bus_stop
+1625,Estação Tubo São Pedro,"POLYGON ((-49.2843793 -25.5069041, -49.2843591 -25.5069175, -49.2843412 -25.5069293, -49.2841632 -25.5067102, -49.2842013 -25.506685, -49.2843793 -25.5069041))",highway,bus_stop
+1626,Estação Tubo Xaxim,"POLYGON ((-49.2762801 -25.4964797, -49.2762375 -25.4965073, -49.2764141 -25.4967291, -49.2764386 -25.4967132, -49.2764566 -25.4967016, -49.2762801 -25.4964797))",highway,bus_stop
+1627,Estação Tubo Xaxim,"POLYGON ((-49.2760977 -25.4966002, -49.2762788 -25.4968178, -49.2762622 -25.496829, -49.2762381 -25.4968454, -49.276057 -25.4966278, -49.2760977 -25.4966002))",highway,bus_stop
+1628,Estação Tubo Fanny,"POLYGON ((-49.2587849 -25.474922, -49.2587655 -25.474935, -49.2587472 -25.4749474, -49.2585713 -25.474735, -49.258609 -25.4747096, -49.2587849 -25.474922))",highway,bus_stop
+1629,Estação Tubo Fanny,"POLYGON ((-49.25862 -25.4750357, -49.2585992 -25.4750492, -49.2585738 -25.4750658, -49.2584003 -25.4748486, -49.2584465 -25.4748185, -49.25862 -25.4750357))",highway,bus_stop
+1630,Estação Tubo Marechal Floriano Peixoto,"POLYGON ((-49.2541105 -25.4692147, -49.2540699 -25.4692421, -49.2538935 -25.469029, -49.2539125 -25.4690162, -49.2539342 -25.4690016, -49.2541105 -25.4692147))",highway,bus_stop
+1631,Estação Tubo Marechal Floriano Peixoto,"POLYGON ((-49.2539361 -25.4693292, -49.2538948 -25.469356, -49.253718 -25.4691334, -49.2537359 -25.4691218, -49.2537592 -25.4691067, -49.2539361 -25.4693292))",highway,bus_stop
+1632,Estação Tubo Paiol,"POLYGON ((-49.2580664 -25.4481442, -49.25804 -25.4482393, -49.2580244 -25.4482358, -49.2580353 -25.4481966, -49.2579975 -25.4481881, -49.2579876 -25.4482237, -49.2579706 -25.4482199, -49.2579961 -25.4481278, -49.2580022 -25.4481292, -49.2580122 -25.4481314, -49.2580039 -25.4481612, -49.2580419 -25.4481698, -49.2580501 -25.4481405, -49.2580664 -25.4481442))",highway,bus_stop
+1633,Estação Tubo Fagundes Varela,"POLYGON ((-49.2204702 -25.4101173, -49.2203573 -25.4098681, -49.2203197 -25.4098823, -49.2204326 -25.4101315, -49.2204702 -25.4101173))",highway,bus_stop
+1634,Estação Tubo Fagundes Varela,"POLYGON ((-49.2202813 -25.4101991, -49.2201688 -25.4099498, -49.2201256 -25.4099657, -49.2202382 -25.410215, -49.2202813 -25.4101991))",highway,bus_stop
+1635,Estação Tubo Círculo Militar (700),"POLYGON ((-49.2647606 -25.4273242, -49.2647816 -25.4273324, -49.2647406 -25.4274188, -49.2647195 -25.4274106, -49.2647606 -25.4273242))",highway,bus_stop
+1636,Estação Tubo Círculo Militar (256/505),"POLYGON ((-49.2648256 -25.4272061, -49.2648467 -25.4272143, -49.2648056 -25.4273007, -49.2647845 -25.4272925, -49.2648256 -25.4272061))",highway,bus_stop
+1637,Estação Tubo Círculo Militar (700),"POLYGON ((-49.2646175 -25.4270266, -49.2646232 -25.4270467, -49.2645225 -25.4270704, -49.2645167 -25.4270503, -49.2646175 -25.4270266))",highway,bus_stop
+1638,Estação Tubo Círculo Militar (256/505),"POLYGON ((-49.2647596 -25.4269928, -49.2647654 -25.4270129, -49.2646647 -25.4270366, -49.2646589 -25.4270165, -49.2647596 -25.4269928))",highway,bus_stop
+1639,Estação Tubo Marechal Deodoro,"POLYGON ((-49.2636351 -25.4290366, -49.2636251 -25.4290553, -49.2635312 -25.4290148, -49.2635411 -25.428996, -49.2636351 -25.4290366))",highway,bus_stop
+1640,Estação Tubo Vila Olímpica,"POLYGON ((-49.225007 -25.4202836, -49.2250434 -25.4202697, -49.2251584 -25.4205158, -49.225122 -25.4205297, -49.225007 -25.4202836))",highway,bus_stop
+1641,Estação Tubo Vila Olímpica,"POLYGON ((-49.2248176 -25.4203532, -49.224854 -25.4203393, -49.224969 -25.4205854, -49.2249325 -25.4205993, -49.2248176 -25.4203532))",highway,bus_stop
+1642,Estação Tubo Roberto Hauer,"POLYGON ((-49.2517207 -25.4722865, -49.2517014 -25.4722787, -49.251659 -25.4723634, -49.2516783 -25.4723713, -49.2517207 -25.4722865))",highway,bus_stop
+1643,Estação Tubo Roberto Hauer,"POLYGON ((-49.2513533 -25.4733135, -49.251334 -25.4733057, -49.2512916 -25.4733904, -49.2513108 -25.4733983, -49.2513533 -25.4733135))",highway,bus_stop
+1644,Estação Tubo Pádua Fleury,"POLYGON ((-49.2500112 -25.4758397, -49.2499919 -25.4758318, -49.2499495 -25.4759166, -49.2499687 -25.4759245, -49.2500112 -25.4758397))",highway,bus_stop
+1645,Estação Tubo Pádua Fleury,"POLYGON ((-49.2496048 -25.4769121, -49.2495855 -25.4769042, -49.2495431 -25.476989, -49.2495624 -25.4769968, -49.2496048 -25.4769121))",highway,bus_stop
+1646,Estação Tubo Passarela,"POLYGON ((-49.2451382 -25.4858152, -49.245119 -25.4858073, -49.2450765 -25.4858921, -49.2450958 -25.4858999, -49.2451382 -25.4858152))",highway,bus_stop
+1647,Estação Tubo Passarela (São Judas Tadeu),"POLYGON ((-49.2447084 -25.4869314, -49.2446891 -25.4869235, -49.2446467 -25.4870082, -49.244666 -25.4870161, -49.2447084 -25.4869314))",highway,bus_stop
+1648,Estação Tubo Hipólito da Costa,"POLYGON ((-49.2432781 -25.4896388, -49.2432589 -25.489631, -49.2432164 -25.4897157, -49.2432357 -25.4897236, -49.2432781 -25.4896388))",highway,bus_stop
+1649,Estação Tubo Hipólito da Costa,"POLYGON ((-49.2428879 -25.4906621, -49.2428686 -25.4906542, -49.2428262 -25.4907389, -49.2428455 -25.4907468, -49.2428879 -25.4906621))",highway,bus_stop
+1650,Estação Tubo Cel. Luiz José dos Santos,"POLYGON ((-49.2405872 -25.4951474, -49.2405679 -25.4951395, -49.2405255 -25.4952242, -49.2405448 -25.4952321, -49.2405872 -25.4951474))",highway,bus_stop
+1651,Estação Tubo Corenel Luiz José dos Santos,"POLYGON ((-49.2401996 -25.4961675, -49.2401803 -25.4961597, -49.2401379 -25.4962444, -49.2401572 -25.4962523, -49.2401996 -25.4961675))",highway,bus_stop
+1652,Estação Tubo Quartel,"POLYGON ((-49.2347717 -25.5072395, -49.2347524 -25.5072316, -49.23471 -25.5073163, -49.2347293 -25.5073242, -49.2347717 -25.5072395))",highway,bus_stop
+1653,Estação Tubo Quartel,"POLYGON ((-49.2351651 -25.5062006, -49.2351458 -25.5061928, -49.2351034 -25.5062775, -49.2351227 -25.5062854, -49.2351651 -25.5062006))",highway,bus_stop
+1654,Estação Tubo Antônio de Paula,"POLYGON ((-49.2326103 -25.5114585, -49.232591 -25.5114506, -49.2325486 -25.5115354, -49.2325679 -25.5115432, -49.2326103 -25.5114585))",highway,bus_stop
+1655,Estação Tubo Antônio de Paula,"POLYGON ((-49.2321302 -25.5126912, -49.2321109 -25.5126834, -49.2320685 -25.5127681, -49.2320878 -25.512776, -49.2321302 -25.5126912))",highway,bus_stop
+1656,Estação Tubo Parque Iguaçu,"POLYGON ((-49.2281277 -25.5208979, -49.2281084 -25.5208901, -49.228066 -25.5209748, -49.2280853 -25.5209826, -49.2281277 -25.5208979))",highway,bus_stop
+1657,Estação Tubo Parque Iguaçu,"POLYGON ((-49.2285177 -25.5199243, -49.2284984 -25.5199164, -49.228456 -25.5200011, -49.2284752 -25.520009, -49.2285177 -25.5199243))",highway,bus_stop
+1658,Estação Tubo Universidade Tecnológica,"POLYGON ((-49.268266 -25.4387719, -49.2682465 -25.4387645, -49.2681773 -25.438912, -49.2681969 -25.4389195, -49.268266 -25.4387719))",highway,bus_stop
+1659,Estação Tubo Universidade Tecnológica,"POLYGON ((-49.2681634 -25.4389839, -49.2681439 -25.4389765, -49.2680747 -25.439124, -49.2680942 -25.4391315, -49.2681634 -25.4389839))",highway,bus_stop
+1660,Estação Tubo Universidade Tecnológica,"POLYGON ((-49.268249 -25.4385639, -49.2682294 -25.4385559, -49.2681872 -25.4386409, -49.2682068 -25.4386488, -49.268249 -25.4385639))",highway,bus_stop
+1661,Estação Tubo Universidade Tecnológica,"POLYGON ((-49.2681445 -25.4387762, -49.2681255 -25.4387685, -49.2680833 -25.4388534, -49.2681023 -25.4388611, -49.2681445 -25.4387762))",highway,bus_stop
+1662,Estação Tubo Westphalen,"POLYGON ((-49.268324 -25.4418127, -49.2683283 -25.4418031, -49.268332 -25.441795, -49.2682367 -25.4417598, -49.2682287 -25.4417775, -49.268324 -25.4418127))",highway,bus_stop
+1663,Estação Tubo Getúlio Vargas,"POLYGON ((-49.2657363 -25.4435687, -49.265717 -25.4435609, -49.2656746 -25.4436456, -49.2656939 -25.4436535, -49.2657363 -25.4435687))",highway,bus_stop
+1664,Estação Tubo Getúlio Vargas,"POLYGON ((-49.2653189 -25.4446255, -49.2652996 -25.4446177, -49.2652572 -25.4447024, -49.2652765 -25.4447103, -49.2653189 -25.4446255))",highway,bus_stop
+1665,Estação Tubo Almirante Gonçalves,"POLYGON ((-49.2638379 -25.4474253, -49.2638186 -25.4474175, -49.2637762 -25.4475022, -49.2637955 -25.4475101, -49.2638379 -25.4474253))",highway,bus_stop
+1666,Estação Tubo Almirante Gonçalves,"POLYGON ((-49.2634453 -25.4484707, -49.263426 -25.4484629, -49.2633836 -25.4485476, -49.2634029 -25.4485555, -49.2634453 -25.4484707))",highway,bus_stop
+1667,Estação Tubo Conselheiro Dantas,"POLYGON ((-49.2619336 -25.4514127, -49.2619143 -25.4514049, -49.2618719 -25.4514896, -49.2618912 -25.4514975, -49.2619336 -25.4514127))",highway,bus_stop
+1668,Estação Tubo Conselheiro Dantas,"POLYGON ((-49.2615386 -25.4524517, -49.2615193 -25.4524439, -49.2614769 -25.4525286, -49.2614962 -25.4525365, -49.2615386 -25.4524517))",highway,bus_stop
+1669,Estação Tubo João Vianna Seiler,"POLYGON ((-49.2604956 -25.4543635, -49.2604763 -25.4543557, -49.2604339 -25.4544404, -49.2604532 -25.4544483, -49.2604956 -25.4543635))",highway,bus_stop
+1670,Estação Tubo João Vianna Seiler,"POLYGON ((-49.2600973 -25.4553906, -49.260078 -25.4553828, -49.2600356 -25.4554675, -49.2600549 -25.4554754, -49.2600973 -25.4553906))",highway,bus_stop
+1671,Estação Tubo Tribunal Regional Eleitoral,"POLYGON ((-49.258675 -25.4580794, -49.2586557 -25.4580716, -49.2586133 -25.4581563, -49.2586326 -25.4581642, -49.258675 -25.4580794))",highway,bus_stop
+1672,Estação Tubo Tribunal Regional Eleitoral,"POLYGON ((-49.2582915 -25.4590996, -49.2582722 -25.4590918, -49.2582298 -25.4591765, -49.2582491 -25.4591844, -49.2582915 -25.4590996))",highway,bus_stop
+1673,Estação Tubo Parolin,"POLYGON ((-49.2562734 -25.462912, -49.2562541 -25.4629042, -49.2562117 -25.4629889, -49.256231 -25.4629968, -49.2562734 -25.462912))",highway,bus_stop
+1674,Estação Tubo Parolin,"POLYGON ((-49.2564371 -25.4629776, -49.2564178 -25.4629698, -49.2563754 -25.4630546, -49.2563947 -25.4630625, -49.2564371 -25.4629776))",highway,bus_stop
+1675,Estação Tubo Ferrovila,"POLYGON ((-49.2543577 -25.4666062, -49.2543384 -25.4665984, -49.254296 -25.4666831, -49.2543153 -25.466691, -49.2543577 -25.4666062))",highway,bus_stop
+1676,Estação Tubo Ferrovila,"POLYGON ((-49.2545608 -25.4666558, -49.2545415 -25.466648, -49.2544991 -25.4667327, -49.2545184 -25.4667406, -49.2545608 -25.4666558))",highway,bus_stop
+1677,Estação Tubo Guadalupe,"POLYGON ((-49.2651882 -25.4330317, -49.2651688 -25.4330239, -49.2651269 -25.4331089, -49.2651463 -25.4331166, -49.2651882 -25.4330317))",highway,bus_stop
+1678,Estação Tubo Guadalupe,"POLYGON ((-49.2653274 -25.4327516, -49.2653081 -25.4327438, -49.2652661 -25.4328289, -49.2652854 -25.4328366, -49.2653274 -25.4327516))",highway,bus_stop
+1679,Estação Tubo Guadalupe,"POLYGON ((-49.2654695 -25.4324652, -49.2654501 -25.4324574, -49.2654082 -25.4325424, -49.2654276 -25.4325501, -49.2654695 -25.4324652))",highway,bus_stop
+1680,Estação Tubo Guadalupe,"POLYGON ((-49.2655835 -25.4322336, -49.2655641 -25.4322258, -49.2655222 -25.4323108, -49.2655416 -25.4323185, -49.2655835 -25.4322336))",highway,bus_stop
+1681,Estação Tubo Central,"POLYGON ((-49.2675693 -25.4298671, -49.2675245 -25.4298515, -49.2674384 -25.4300537, -49.2674833 -25.4300693, -49.2675693 -25.4298671))",highway,bus_stop
+1682,Estação Tubo Central,"POLYGON ((-49.2676952 -25.4299162, -49.2676502 -25.4299006, -49.2675646 -25.430102, -49.2676096 -25.4301176, -49.2676952 -25.4299162))",highway,bus_stop
+1683,Praça Rui Barbosa,"POLYGON ((-49.2735569 -25.4353893, -49.273575 -25.4353488, -49.2738479 -25.4354638, -49.2743529 -25.4358181, -49.2743287 -25.4358453, -49.2738258 -25.4355026, -49.2735569 -25.4353893))",highway,bus_stop
+1684,Praça Rui Barbosa,"POLYGON ((-49.2744537 -25.4368275, -49.2744852 -25.4368397, -49.2747174 -25.4363504, -49.2746859 -25.4363382, -49.2744537 -25.4368275))",highway,bus_stop
+1685,Praça Rui Barbosa,"POLYGON ((-49.2743103 -25.4369037, -49.274324 -25.4368753, -49.2737655 -25.4366565, -49.2737518 -25.4366849, -49.2743103 -25.4369037))",highway,bus_stop
+1686,Praça Rui Barbosa,"POLYGON ((-49.2734895 -25.4353649, -49.2735031 -25.4353365, -49.2725609 -25.4349668, -49.2725472 -25.4349952, -49.2734895 -25.4353649))",highway,bus_stop
+1687,Praça Rui Barbosa,"POLYGON ((-49.2735695 -25.4351949, -49.2735832 -25.4351664, -49.2726411 -25.4347965, -49.2726274 -25.434825, -49.2735695 -25.4351949))",highway,bus_stop
+1688,Praça Rui Barbosa,"POLYGON ((-49.2725339 -25.4347886, -49.2725429 -25.4347699, -49.2722289 -25.4346469, -49.2722199 -25.4346656, -49.2725339 -25.4347886))",highway,bus_stop
+1689,Praça Rui Barbosa,"POLYGON ((-49.2724545 -25.4349465, -49.2724635 -25.4349278, -49.2721495 -25.4348048, -49.2721405 -25.4348235, -49.2724545 -25.4349465))",highway,bus_stop
+1690,Estação Tubo Antônio Meirelles Sobrinho,"POLYGON ((-49.2169807 -25.4469701, -49.2169253 -25.4470704, -49.2169144 -25.4470655, -49.2169069 -25.4470621, -49.2169623 -25.4469618, -49.216974 -25.446967, -49.2169807 -25.4469701))",highway,bus_stop
+1691,Estação Tubo Antônio Meirelles Sobrinho,"POLYGON ((-49.2168119 -25.4470184, -49.2168659 -25.4469176, -49.216873 -25.4469207, -49.2168844 -25.4469257, -49.2168303 -25.4470264, -49.2168202 -25.447022, -49.2168119 -25.4470184))",highway,bus_stop
+1692,Estação Tubo Passeio Público,"POLYGON ((-49.268562 -25.4239882, -49.2685759 -25.4239745, -49.2683702 -25.4238037, -49.2683563 -25.4238174, -49.268562 -25.4239882))",highway,bus_stop
+1693,Estação Tubo Passeio Público,"POLYGON ((-49.2684735 -25.4240827, -49.2684874 -25.424069, -49.2682817 -25.4238981, -49.2682678 -25.4239118, -49.2684735 -25.4240827))",highway,bus_stop
+1694,Praça 19 de Dezembro,"POLYGON ((-49.2694031 -25.424818, -49.269416 -25.4248044, -49.2691813 -25.4246226, -49.2691684 -25.4246362, -49.2694031 -25.424818))",highway,bus_stop
+1695,Praça 19 de Dezembro,"POLYGON ((-49.269521 -25.4250403, -49.2695742 -25.4252641, -49.2695529 -25.4252682, -49.2694997 -25.4250444, -49.269521 -25.4250403))",highway,bus_stop
+1696,Estação Tubo Praça Carlos Gomes,"POLYGON ((-49.2692451 -25.433887, -49.2691212 -25.4341355, -49.2690741 -25.4341163, -49.269198 -25.4338678, -49.2692451 -25.433887))",highway,bus_stop
+1697,Avenida Marechal Floriano Peixoto,"POLYGON ((-49.27166 -25.4314295, -49.2714965 -25.4317589, -49.2715243 -25.4317702, -49.2716878 -25.4314407, -49.27166 -25.4314295))",highway,bus_stop
+1698,Praça Carlos Gomes,"POLYGON ((-49.2702022 -25.4328429, -49.2707452 -25.43305, -49.2707362 -25.4330695, -49.2701932 -25.4328624, -49.2702022 -25.4328429))",highway,bus_stop
+1699,Estação Tubo Praça Carlos Gomes,"POLYGON ((-49.2703877 -25.4337986, -49.2701528 -25.4337052, -49.2701846 -25.43364, -49.2704195 -25.4337334, -49.2703877 -25.4337986))",highway,bus_stop
+1700,Praça Rui Barbosa > Pinhais,"POLYGON ((-49.2741281 -25.4365274, -49.2739308 -25.4365838, -49.2739164 -25.4365427, -49.2741137 -25.4364863, -49.2741281 -25.4365274))",highway,bus_stop
+1701,Estação Tubo Praça Rui Barbosa - 603 - Pinheirinho / Rui Barbosa,"POLYGON ((-49.2742182 -25.4361458, -49.2740184 -25.4361944, -49.274006 -25.4361527, -49.2742058 -25.4361042, -49.2742182 -25.4361458))",highway,bus_stop
+1702,Praça Rui Barbosa,"POLYGON ((-49.2741993 -25.4355461, -49.2739415 -25.4353608, -49.2736289 -25.4352407, -49.2736418 -25.4352132, -49.2739552 -25.4353421, -49.2742145 -25.4355289, -49.2741993 -25.4355461))",highway,bus_stop
+1703,Travessa Nestor de Castro,"POLYGON ((-49.2730522 -25.4284114, -49.2722147 -25.4281429, -49.2718609 -25.4280456, -49.2718546 -25.4280645, -49.272206 -25.4281605, -49.2730451 -25.4284294, -49.2730522 -25.4284114))",highway,bus_stop
+1704,Estação Tubo Praça da Bandeira,"POLYGON ((-49.2793304 -25.4165786, -49.2791793 -25.4165859, -49.2791783 -25.4165689, -49.2793294 -25.4165617, -49.2793304 -25.4165786))",highway,bus_stop
+1705,Avenida Cândido de Abreu,"POLYGON ((-49.2687571 -25.4181188, -49.268777 -25.4182174, -49.2687574 -25.4182206, -49.2687376 -25.418122, -49.2687571 -25.4181188))",highway,bus_stop
+1706,Estação Tubo Xapinhal,"POLYGON ((-49.2847678 -25.5356353, -49.2847608 -25.5356173, -49.2846635 -25.5356477, -49.2846705 -25.5356657, -49.2847678 -25.5356353))",highway,bus_stop
+1707,Estação Tubo Xapinhal,"POLYGON ((-49.2848247 -25.5357533, -49.2848177 -25.5357353, -49.2847204 -25.5357657, -49.2847274 -25.5357837, -49.2848247 -25.5357533))",highway,bus_stop
+1708,Avenida Marechal Floriano Peixoto,"POLYGON ((-49.2711637 -25.4323206, -49.2710006 -25.4326503, -49.2710283 -25.4326616, -49.2711914 -25.4323319, -49.2711637 -25.4323206))",highway,bus_stop
+1709,Estação Tubo PUC,"POLYGON ((-49.2497286 -25.4588861, -49.2496808 -25.4589017, -49.2495775 -25.4586441, -49.2496253 -25.4586285, -49.2497286 -25.4588861))",highway,bus_stop
+1710,Estação Tubo PUC,"POLYGON ((-49.2499368 -25.4588439, -49.2498891 -25.4588595, -49.2497858 -25.4586019, -49.2498335 -25.4585863, -49.2499368 -25.4588439))",highway,bus_stop
+1711,Terminal Boqueirão (507),"POLYGON ((-49.230929 -25.5164208, -49.2309205 -25.5164383, -49.2310146 -25.5164759, -49.2310232 -25.5164584, -49.230929 -25.5164208))",highway,bus_stop
+1712,Terminal Boqueirão (505),"POLYGON ((-49.2306426 -25.516341, -49.2306341 -25.5163585, -49.2307284 -25.5163959, -49.2307369 -25.5163784, -49.2306426 -25.516341))",highway,bus_stop
+1713,Terminal Boqueirão (508/E07),"POLYGON ((-49.2303404 -25.516164, -49.230321 -25.5161563, -49.2302796 -25.5162414, -49.230299 -25.5162491, -49.2303404 -25.516164))",highway,bus_stop
+1714,Estação Tubo Museu Oscar Niemeyer (505),"POLYGON ((-49.2661392 -25.4106281, -49.2661181 -25.4106262, -49.2661079 -25.4107188, -49.2661289 -25.4107207, -49.2661392 -25.4106281))",highway,bus_stop
+1715,Estação Tubo Centro Cívico - Assembleia (022/256/505/702),"POLYGON ((-49.2664013 -25.4155883, -49.2663575 -25.4155968, -49.2663916 -25.41574, -49.2664353 -25.4157315, -49.2664013 -25.4155883))",highway,bus_stop
+1716,Estação Tubo Centro Cívico - Palácio Iguaçu (023/256/505/702),"POLYGON ((-49.2679084 -25.4153572, -49.2678647 -25.4153655, -49.267898 -25.4155088, -49.2679418 -25.4155005, -49.2679084 -25.4153572))",highway,bus_stop
+1717,Estação Tubo Prefeitura (505/702),"POLYGON ((-49.2686832 -25.4178097, -49.2686625 -25.4178136, -49.2686835 -25.4179047, -49.2687042 -25.4179008, -49.2686832 -25.4178097))",highway,bus_stop
+1718,Estação Tubo Prefeitura (505/702),"POLYGON ((-49.2684472 -25.4178558, -49.2684265 -25.4178596, -49.2684474 -25.4179507, -49.2684681 -25.4179468, -49.2684472 -25.4178558))",highway,bus_stop
+1719,Estação Tubo Comendador Fontana (256/505/607/700),"POLYGON ((-49.2691362 -25.4197199, -49.2691155 -25.4197239, -49.269137 -25.4198149, -49.2691578 -25.4198109, -49.2691362 -25.4197199))",highway,bus_stop
+1720,Estação Tubo Comendador Fontana (256/505/607/700),"POLYGON ((-49.2689015 -25.4197635, -49.2688808 -25.4197675, -49.2689023 -25.4198585, -49.2689231 -25.4198545, -49.2689015 -25.4197635))",highway,bus_stop
+1721,Estação Tubo Guadalupe (700/702),"POLYGON ((-49.2634792 -25.4336474, -49.2634595 -25.4336404, -49.2634218 -25.433727, -49.2634415 -25.433734, -49.2634792 -25.4336474))",highway,bus_stop
+1722,Estação Tubo Guadalupe (256/505),"POLYGON ((-49.2641698 -25.4320709, -49.2641502 -25.4320638, -49.2641119 -25.4321501, -49.2641316 -25.4321573, -49.2641698 -25.4320709))",highway,bus_stop
+1723,Estação Tubo Agrárias,"POLYGON ((-49.2482861 -25.4105214, -49.2482631 -25.4105052, -49.2481635 -25.4106208, -49.2481865 -25.410637, -49.2482861 -25.4105214))",highway,bus_stop
+1724,Estação Tubo Colégio Militar,"POLYGON ((-49.225183 -25.4288907, -49.2251796 -25.4288645, -49.2250186 -25.4288815, -49.225022 -25.4289076, -49.225183 -25.4288907))",highway,bus_stop
+1725,Estação Tubo Detran,"POLYGON ((-49.2111174 -25.4303957, -49.2112787 -25.4303815, -49.211273 -25.430329, -49.2111117 -25.4303432, -49.2111174 -25.4303957))",highway,bus_stop
+1726,Estação Tubo Praça das Mercês,"POLYGON ((-49.2916097 -25.4223286, -49.2916363 -25.4223057, -49.2916173 -25.4222878, -49.2914999 -25.4223887, -49.2915189 -25.4224067, -49.2915385 -25.4223898, -49.2916253 -25.4224219, -49.2915956 -25.4224842, -49.2916226 -25.4224946, -49.2916867 -25.4223602, -49.2916598 -25.4223497, -49.2916097 -25.4223286))",highway,bus_stop
+1727,Estação Tubo Teffé (023),"POLYGON ((-49.2797014 -25.414521, -49.2796947 -25.4144954, -49.2795369 -25.4145291, -49.2795437 -25.4145548, -49.2797014 -25.414521))",highway,bus_stop
+1728,Estação Tubo Hospital do Trabalhador,"POLYGON ((-49.2936841 -25.4844237, -49.2936642 -25.4844298, -49.2936969 -25.4845179, -49.2937169 -25.4845118, -49.2936841 -25.4844237))",highway,bus_stop
+1729,Estação Tubo Hospital do Trabalhador,"POLYGON ((-49.2941785 -25.4857919, -49.2941576 -25.4857955, -49.2941768 -25.4858868, -49.2941977 -25.4858833, -49.2941785 -25.4857919))",highway,bus_stop
+1730,,"POLYGON ((-49.3249856 -25.5114285, -49.3250423 -25.5115917, -49.3240888 -25.5118616, -49.3240321 -25.5116985, -49.3249856 -25.5114285))",highway,bus_stop
+1731,,"POLYGON ((-49.3248881 -25.5114916, -49.3245505 -25.511587, -49.3245724 -25.5116501, -49.32491 -25.5115547, -49.3248881 -25.5114916))",highway,bus_stop
+1732,,"POLYGON ((-49.3244892 -25.5116038, -49.3241535 -25.5116988, -49.3241751 -25.5117609, -49.3245108 -25.5116659, -49.3244892 -25.5116038))",highway,bus_stop
+1733,,"POLYGON ((-49.2953152 -25.5118737, -49.2953149 -25.5118854, -49.2952749 -25.5134083, -49.2952743 -25.5134327, -49.2954966 -25.5134375, -49.2955534 -25.5134387, -49.2955541 -25.5134139, -49.295594 -25.511891, -49.2955943 -25.5118797, -49.2955651 -25.5118791, -49.2953152 -25.5118737))",highway,bus_stop
+1734,,"POLYGON ((-49.2957347 -25.5118753, -49.2956416 -25.5118734, -49.2956412 -25.511892, -49.2956032 -25.5134149, -49.2956026 -25.5134408, -49.2956957 -25.5134427, -49.2956963 -25.5134168, -49.2957343 -25.5118938, -49.2957347 -25.5118753))",highway,bus_stop
+1735,,"POLYGON ((-49.2951523 -25.5118628, -49.2949909 -25.5118594, -49.2949904 -25.5118789, -49.2949513 -25.5134018, -49.2949506 -25.513429, -49.295112 -25.5134323, -49.2951127 -25.513405, -49.2951518 -25.5118821, -49.2951523 -25.5118628))",highway,bus_stop
+1736,,"POLYGON ((-49.2949419 -25.5118559, -49.2948024 -25.5118532, -49.2948019 -25.5118751, -49.2947674 -25.5133577, -49.2947796 -25.513358, -49.2947787 -25.5133983, -49.2947781 -25.5134249, -49.2948957 -25.5134272, -49.2948963 -25.5134006, -49.2948973 -25.5133606, -49.2949068 -25.5133608, -49.2949414 -25.5118779, -49.2949419 -25.5118559))",highway,bus_stop
+1737,,"POLYGON ((-49.2945195 -25.5119062, -49.2945728 -25.5119074, -49.2946444 -25.511909, -49.2946047 -25.5133539, -49.2945414 -25.5133525, -49.2944797 -25.5133511, -49.2945195 -25.5119062))",highway,bus_stop
+1738,,"POLYGON ((-49.2936693 -25.4916777, -49.2937142 -25.4916823, -49.2937547 -25.4916864, -49.2936607 -25.4924359, -49.2936162 -25.4924314, -49.2935753 -25.4924272, -49.2936693 -25.4916777))",highway,bus_stop
+1739,,"POLYGON ((-49.2935108 -25.4915836, -49.2933864 -25.4925602, -49.2932982 -25.492551, -49.2933361 -25.4922535, -49.2933687 -25.4919977, -49.2934227 -25.4915745, -49.2935108 -25.4915836))",highway,bus_stop
+1740,,"POLYGON ((-49.2931457 -25.4916271, -49.2931019 -25.491971, -49.2930695 -25.492225, -49.2930362 -25.492487, -49.2929815 -25.4924813, -49.2930169 -25.4922165, -49.293091 -25.4916214, -49.2931457 -25.4916271))",highway,bus_stop
+1741,,"POLYGON ((-49.2933343 -25.4916217, -49.2932883 -25.4919896, -49.2932564 -25.492245, -49.2932192 -25.4925429, -49.2931696 -25.4925379, -49.2932069 -25.4922397, -49.2932387 -25.4919847, -49.2932847 -25.4916167, -49.2933343 -25.4916217))",highway,bus_stop
+1742,,"POLYGON ((-49.292943 -25.4759719, -49.2928935 -25.4761047, -49.292943 -25.4761198, -49.2929499 -25.4761012, -49.2929832 -25.4761113, -49.29295 -25.4762005, -49.2929148 -25.4761898, -49.2929214 -25.4761722, -49.2928649 -25.476155, -49.2927714 -25.4764057, -49.2928333 -25.4764245, -49.2928403 -25.4764056, -49.2928722 -25.4764153, -49.2928349 -25.4765155, -49.2928068 -25.476507, -49.2928182 -25.4764764, -49.2927565 -25.4764576, -49.2927448 -25.4764891, -49.2926667 -25.4766985, -49.2925905 -25.4766754, -49.2928619 -25.4759473, -49.292943 -25.4759719))",highway,bus_stop
+1743,,"POLYGON ((-49.2926968 -25.4758963, -49.2926139 -25.4758707, -49.2923372 -25.4765997, -49.2924202 -25.4766254, -49.2926968 -25.4758963))",highway,bus_stop
+1744,,"POLYGON ((-49.2923951 -25.475921, -49.2924122 -25.4759262, -49.2924032 -25.4759504, -49.2924314 -25.475959, -49.2922345 -25.4764864, -49.2921891 -25.4764726, -49.2923107 -25.4761475, -49.2923951 -25.475921))",highway,bus_stop
+1745,,"POLYGON ((-49.2688161 -25.534485, -49.2688059 -25.5345201, -49.2687948 -25.5345587, -49.2684108 -25.5344688, -49.2671299 -25.5341636, -49.2671335 -25.5341511, -49.2671368 -25.53414, -49.2670877 -25.534096, -49.267068 -25.5341053, -49.2670602 -25.5340918, -49.2671422 -25.5340533, -49.2671502 -25.534067, -49.2671394 -25.5340721, -49.2671609 -25.5340943, -49.2688161 -25.534485))",highway,bus_stop
+1746,,"POLYGON ((-49.2684014 -25.5345769, -49.2683937 -25.5345995, -49.2683871 -25.5346191, -49.2682274 -25.5345751, -49.268234 -25.5345555, -49.2682417 -25.5345328, -49.2683566 -25.5345645, -49.2684014 -25.5345769))",highway,bus_stop
+1747,,"POLYGON ((-49.268086 -25.5344877, -49.268071 -25.5345319, -49.2678291 -25.5344652, -49.267844 -25.534421, -49.268086 -25.5344877))",highway,bus_stop
+1748,,"POLYGON ((-49.2685371 -25.5346374, -49.2685433 -25.5346176, -49.2684373 -25.5345908, -49.268435 -25.5345982, -49.2684312 -25.5346106, -49.2685371 -25.5346374))",highway,bus_stop
+1749,,"POLYGON ((-49.2685139 -25.5346899, -49.2685223 -25.5346716, -49.26843 -25.534637, -49.268427 -25.5346434, -49.2684216 -25.5346552, -49.2685139 -25.5346899))",highway,bus_stop
+1750,,"POLYGON ((-49.231027 -25.5165587, -49.2304662 -25.5163372, -49.2302927 -25.5162687, -49.2300979 -25.5166704, -49.2301424 -25.516688, -49.2297838 -25.5174276, -49.229921 -25.5174818, -49.2303795 -25.5176628, -49.2304736 -25.5177, -49.231027 -25.5165587))",highway,bus_stop
+1751,,"POLYGON ((-49.2308372 -25.5165515, -49.230792 -25.5165332, -49.2305676 -25.5169843, -49.2306128 -25.5170026, -49.2308372 -25.5165515))",highway,bus_stop
+1752,,"POLYGON ((-49.2305825 -25.5170545, -49.2303285 -25.5175781, -49.230284 -25.5175606, -49.230538 -25.5170369, -49.2305825 -25.5170545))",highway,bus_stop
+1753,,"POLYGON ((-49.2379599 -25.500726, -49.2376865 -25.5012833, -49.2373708 -25.5019271, -49.2372933 -25.5018962, -49.2376092 -25.501252, -49.2378824 -25.500695, -49.2379599 -25.500726))",highway,bus_stop
+1754,,"POLYGON ((-49.237528 -25.5012457, -49.2374808 -25.5012263, -49.2374381 -25.5013109, -49.2374853 -25.5013303, -49.237528 -25.5012457))",highway,bus_stop
+1755,,"POLYGON ((-49.237675 -25.5008393, -49.2376556 -25.5008317, -49.2376147 -25.5009169, -49.2376341 -25.5009245, -49.237675 -25.5008393))",highway,bus_stop
+1756,,"POLYGON ((-49.2376899 -25.5016215, -49.2376706 -25.5016137, -49.2376286 -25.5016986, -49.2376479 -25.5017064, -49.2376899 -25.5016215))",highway,bus_stop
+1757,,"POLYGON ((-49.2656073 -25.4321122, -49.2653951 -25.4320271, -49.2652265 -25.4323698, -49.2651324 -25.4323321, -49.2652017 -25.4321911, -49.2651311 -25.4321628, -49.2646872 -25.433065, -49.2647581 -25.4330934, -49.2649138 -25.432777, -49.2650079 -25.4328148, -49.2648387 -25.4331587, -49.2650507 -25.4332438, -49.2656073 -25.4321122))",highway,bus_stop
+1758,,"POLYGON ((-49.2651997 -25.4324242, -49.2651051 -25.4323862, -49.2649408 -25.4327207, -49.2650354 -25.4327586, -49.2651997 -25.4324242))",highway,bus_stop
+1759,Terminal Boqueirão,"POLYGON ((-49.231027 -25.5165587, -49.2304662 -25.5163372, -49.2302927 -25.5162687, -49.2300979 -25.5166704, -49.2301424 -25.516688, -49.2297838 -25.5174276, -49.229921 -25.5174818, -49.2303795 -25.5176628, -49.2304736 -25.5177, -49.231027 -25.5165587))",highway,bus_stop
+1760,Terminal Guadalupe,"POLYGON ((-49.2656073 -25.4321122, -49.2653951 -25.4320271, -49.2652265 -25.4323698, -49.2651324 -25.4323321, -49.2652017 -25.4321911, -49.2651311 -25.4321628, -49.2646872 -25.433065, -49.2647581 -25.4330934, -49.2649138 -25.432777, -49.2650079 -25.4328148, -49.2648387 -25.4331587, -49.2650507 -25.4332438, -49.2656073 -25.4321122))",highway,bus_stop
+1761,Terminal Pinheirinho,"POLYGON ((-49.2957347 -25.5118753, -49.2956416 -25.5118734, -49.2956412 -25.511892, -49.2956032 -25.5134149, -49.2956026 -25.5134408, -49.2956957 -25.5134427, -49.2956963 -25.5134168, -49.2957343 -25.5118938, -49.2957347 -25.5118753))",highway,bus_stop
+1762,Terminal Sítio Cercado,"POLYGON ((-49.2684014 -25.5345769, -49.2683937 -25.5345995, -49.2683871 -25.5346191, -49.2682274 -25.5345751, -49.268234 -25.5345555, -49.2682417 -25.5345328, -49.2683566 -25.5345645, -49.2684014 -25.5345769))",highway,bus_stop
+1763,Terminal Carmo,"POLYGON ((-49.2376899 -25.5016215, -49.2376706 -25.5016137, -49.2376286 -25.5016986, -49.2376479 -25.5017064, -49.2376899 -25.5016215))",highway,bus_stop
+1764,Terminal Capão Raso,"POLYGON ((-49.2931457 -25.4916271, -49.2931019 -25.491971, -49.2930695 -25.492225, -49.2930362 -25.492487, -49.2929815 -25.4924813, -49.2930169 -25.4922165, -49.293091 -25.4916214, -49.2931457 -25.4916271))",highway,bus_stop
+1765,Terminal Portão,"POLYGON ((-49.2923951 -25.475921, -49.2924122 -25.4759262, -49.2924032 -25.4759504, -49.2924314 -25.475959, -49.2922345 -25.4764864, -49.2921891 -25.4764726, -49.2923107 -25.4761475, -49.2923951 -25.475921))",highway,bus_stop
+1766,Terminal CIC,"POLYGON ((-49.3249856 -25.5114285, -49.3250423 -25.5115917, -49.3240888 -25.5118616, -49.3240321 -25.5116985, -49.3249856 -25.5114285))",highway,bus_stop
